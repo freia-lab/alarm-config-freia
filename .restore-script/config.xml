@@ -1331,7 +1331,7 @@ Start the pump.</details>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
-        <delay>30</delay>
+        <delay>31</delay>
       </pv>
       <pv name="Llab-Laser:getBasicOK">
         <description>Llab-Laser:getBasicOK</description>
