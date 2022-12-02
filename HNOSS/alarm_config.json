@@ -1,0 +1,13 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "displays" : [ {
+    "title" : "Open opi..",
+    "details" : "/opt/epics/opi/bob/hnoss/Hnoss-freia-top.bob"
+  } ],
+  "actions" : [ {
+    "title" : "Alarm Severity PV",
+    "details" : "sevrpv:Ctrl-Alarm:CstatH",
+    "delay" : 0
+  } ]
+}

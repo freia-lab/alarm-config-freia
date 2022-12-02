@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-CBox:VacSys:Wr386_PI3905_ErrSum",
+  "latching" : false,
+  "annunciating" : false
+}

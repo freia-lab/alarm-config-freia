@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Rec:LP:Wr380_QI7230_ErrSum",
+  "latching" : false,
+  "annunciating" : false
+}

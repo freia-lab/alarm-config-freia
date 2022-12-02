@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-CBox:CBox:Wr_CWFlowTux",
+  "latching" : false,
+  "annunciating" : false
+}

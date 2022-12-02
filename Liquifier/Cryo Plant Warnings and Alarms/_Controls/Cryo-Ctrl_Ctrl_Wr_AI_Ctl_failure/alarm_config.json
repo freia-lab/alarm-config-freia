@@ -1,0 +1,6 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Ctrl:Ctrl:Wr_AI_Ctl_failure",
+  "enabled" : false
+}

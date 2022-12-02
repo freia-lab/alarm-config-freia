@@ -1,0 +1,13 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "actions" : [ {
+    "title" : "Alarm Severity PV",
+    "details" : "sevrpv:Ctrl-Alarm:CstatV-Ctrl",
+    "delay" : 0
+  }, {
+    "title" : "mail to KG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 10
+  } ]
+}

@@ -1,0 +1,9 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "actions" : [ {
+    "title" : "Alarm Secerity PV",
+    "details" : "sevrpv:Ctrl-Alarm:CM-LHe",
+    "delay" : 0
+  } ]
+}

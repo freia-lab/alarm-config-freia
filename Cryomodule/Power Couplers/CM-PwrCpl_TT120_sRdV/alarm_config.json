@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "oldpc-02",
+  "description" : "CM-PwrCpl:TT120:sRdV",
+  "latching" : false,
+  "delay" : 20
+}

@@ -1,0 +1,15 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-04.freia.local",
+  "description" : "High dose in the bunker",
+  "latching" : false,
+  "guidance" : [ {
+    "title" : "Guide, Guide",
+    "details" : "Text Text"
+  } ],
+  "actions" : [ {
+    "title" : "Mail KF",
+    "details" : "mailto:kjell.fransson@physics.uu.se",
+    "delay" : 600
+  } ]
+}

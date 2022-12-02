@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Cmp:Clsr:Wr_Gm_Clsr2EvacLong",
+  "latching" : false,
+  "annunciating" : false
+}

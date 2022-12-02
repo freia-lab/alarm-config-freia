@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-CBox:CBox:Tr035_Cb_SdOpenFuse",
+  "latching" : false,
+  "annunciating" : false
+}

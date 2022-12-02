@@ -1,0 +1,25 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "IntlkF-cRio1:Intlk:sAlive",
+  "latching" : false,
+  "annunciating" : false,
+  "commands" : [ {
+    "title" : "Reset RF interlock channel 1",
+    "details" : "caput IntlkF-cRio1:Intlk:cmdRst-1 1"
+  }, {
+    "title" : "Reset RF interlock channel 2",
+    "details" : "caput IntlkF-cRio1:Intlk:cmdRst-2 1"
+  }, {
+    "title" : "Reset RF interlock channel 3",
+    "details" : "caput IntlkF-cRio1:Intlk:cmdRst-3 1"
+  }, {
+    "title" : "Reset RF interlock channel 4",
+    "details" : "caput IntlkF-cRio1:Intlk:cmdRst-4 1"
+  } ],
+  "actions" : [ {
+    "title" : "Send SMS",
+    "details" : "mailto:0705933088@pixie.se",
+    "delay" : 0
+  } ]
+}

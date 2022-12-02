@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "oldpc-02",
+  "description" : "Ctrl-freiaSrv2:disk-boot:dskPercent",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 60
+}

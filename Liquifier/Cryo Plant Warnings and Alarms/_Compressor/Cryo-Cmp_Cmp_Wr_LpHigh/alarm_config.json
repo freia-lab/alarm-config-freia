@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Cmp:Cmp:Wr_LpHigh",
+  "latching" : false,
+  "annunciating" : false
+}

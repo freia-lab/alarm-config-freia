@@ -1,0 +1,6 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "Gas Bag full",
+  "latching" : false
+}

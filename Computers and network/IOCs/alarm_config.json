@@ -1,0 +1,13 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "actions" : [ {
+    "title" : "Send email",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 0
+  }, {
+    "title" : "AlarmSeverity PV",
+    "details" : "sevrpv:Ctrl-Alarm:Comp-IOCs",
+    "delay" : 0
+  } ]
+}

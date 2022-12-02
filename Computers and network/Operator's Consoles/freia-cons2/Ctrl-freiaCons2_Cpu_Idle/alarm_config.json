@@ -1,0 +1,7 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "Ctrl-freiaCons2:Cpu:Idle",
+  "enabled" : false,
+  "latching" : false
+}

@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Dwr:Dwr:Trp_FillTm",
+  "latching" : false,
+  "annunciating" : false
+}

@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-CBox:Pur:Wr413_PI3400_ErrSum",
+  "latching" : false,
+  "annunciating" : false
+}

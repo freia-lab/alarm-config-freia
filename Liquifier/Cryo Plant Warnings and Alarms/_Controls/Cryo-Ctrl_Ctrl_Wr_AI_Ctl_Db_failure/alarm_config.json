@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Ctrl:Ctrl:Wr_AI_Ctl_Db_failure",
+  "latching" : false,
+  "annunciating" : false
+}

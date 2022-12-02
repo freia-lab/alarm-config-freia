@@ -1,0 +1,8 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "Ctrl-nuc07:disk-root:dskPercent",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 900
+}

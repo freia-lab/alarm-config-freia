@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Cmp:HP:Wr443_QI3_2160_ErrSum",
+  "latching" : false,
+  "annunciating" : false
+}

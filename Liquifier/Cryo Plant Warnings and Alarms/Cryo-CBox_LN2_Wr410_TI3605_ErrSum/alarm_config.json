@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-CBox:LN2:Wr410_TI3605_ErrSum",
+  "latching" : false,
+  "annunciating" : false
+}

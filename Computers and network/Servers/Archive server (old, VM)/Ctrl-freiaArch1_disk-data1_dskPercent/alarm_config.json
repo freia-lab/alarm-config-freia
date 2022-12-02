@@ -1,0 +1,7 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "Ctrl-freiaArch1:disk-data1:dskPercent",
+  "annunciating" : false,
+  "delay" : 300
+}

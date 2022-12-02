@@ -1,0 +1,16 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-04.freia.local",
+  "description" : "Oxygen < 20% in bunker1",
+  "latching" : false,
+  "delay" : 30,
+  "actions" : [ {
+    "title" : "SMS KG",
+    "details" : "mailto:0701679193@pixie.se",
+    "delay" : 300
+  }, {
+    "title" : "SMS KF",
+    "details" : "mailto:0701712391@pixie.se",
+    "delay" : 300
+  } ]
+}

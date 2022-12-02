@@ -1,0 +1,11 @@
+{
+  "user" : "konrad",
+  "host" : "oldpc-02",
+  "description" : "PLC-WTRVAC:Ctrl-PB:sErr-3",
+  "latching" : false,
+  "annunciating" : false,
+  "guidance" : [ {
+    "title" : "Device: 2K Pumps",
+    "details" : "This is a PLC system connected to WTRVAC PLC in the control room.\nCheck if both PLCs are running normally and a Profibus cable between them is ok.\nConsult the opi for the cable path."
+  } ]
+}

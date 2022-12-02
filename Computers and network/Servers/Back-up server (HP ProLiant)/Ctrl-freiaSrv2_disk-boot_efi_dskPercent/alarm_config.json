@@ -1,0 +1,8 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "Ctrl-freiaSrv2:disk-boot_efi:dskPercent",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 60
+}

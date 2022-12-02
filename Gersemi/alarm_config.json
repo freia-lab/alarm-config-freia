@@ -1,0 +1,13 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-04.freia.local",
+  "displays" : [ {
+    "title" : "Open opi...",
+    "details" : "/opt/epics/opi/bob/gersemi/Gersemi-freia-top.bob"
+  } ],
+  "actions" : [ {
+    "title" : "Alarm Severity PV",
+    "details" : "sevrpv:Ctrl-Alarm:CstatV",
+    "delay" : 0
+  } ]
+}

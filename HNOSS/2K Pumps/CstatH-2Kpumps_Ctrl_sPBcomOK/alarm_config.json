@@ -1,0 +1,12 @@
+{
+  "user" : "konrad",
+  "host" : "oldpc-02",
+  "description" : "CstatH-2Kpumps:Ctrl:sPBcomOK",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 30,
+  "guidance" : [ {
+    "title" : "What to do?",
+    "details" : "The communication over the Profibus between wtr_vac PLC 2K_pumps PLC does not work. Remote operation is not possible - use the local panel until the fault is resolved."
+  } ]
+}

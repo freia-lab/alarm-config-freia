@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Ctrl:Ctrl:Wr_BatteryFault",
+  "latching" : false,
+  "annunciating" : false
+}

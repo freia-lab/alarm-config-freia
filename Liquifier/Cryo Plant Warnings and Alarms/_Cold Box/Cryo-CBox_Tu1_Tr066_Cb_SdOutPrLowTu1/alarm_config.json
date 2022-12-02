@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-CBox:Tu1:Tr066_Cb_SdOutPrLowTu1",
+  "latching" : false,
+  "annunciating" : false
+}

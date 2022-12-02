@@ -1,0 +1,29 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "He Level Cryo Module",
+  "enabled" : false,
+  "latching" : false,
+  "annunciating" : false,
+  "actions" : [ {
+    "title" : "SMS RS",
+    "details" : "mailto:0701679527@pixie.se",
+    "delay" : 200
+  }, {
+    "title" : "Mail KF",
+    "details" : "mailto:kjell.fransson@physics.uu.se",
+    "delay" : 0
+  }, {
+    "title" : "SMS EP",
+    "details" : "mailto:0729999371@pixie.se",
+    "delay" : 200
+  }, {
+    "title" : "SMS CS",
+    "details" : "mailto:0730393656@pixie.se",
+    "delay" : 200
+  }, {
+    "title" : "SMS_KG",
+    "details" : "mailto:0701679193@pixie.se",
+    "delay" : 0
+  } ]
+}

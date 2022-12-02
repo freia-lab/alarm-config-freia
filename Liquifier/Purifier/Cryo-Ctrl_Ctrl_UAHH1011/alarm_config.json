@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Ctrl:Ctrl:UAHH1011",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 180
+}

@@ -1,0 +1,33 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "LN2 level, Air Liquide:      040381280",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 300,
+  "guidance" : [ {
+    "title" : "Phone AirLequid",
+    "details" : "040381280"
+  } ],
+  "actions" : [ {
+    "title" : "Mail KF",
+    "details" : "mailto:kjell.fransson@physics.uu.se",
+    "delay" : 300
+  }, {
+    "title" : "SMS EP",
+    "details" : "mailto:0729999371@pixie.se",
+    "delay" : 300
+  }, {
+    "title" : "SMS LH",
+    "details" : "mailto:0704250331@pixie.se",
+    "delay" : 300
+  }, {
+    "title" : "SMS RS",
+    "details" : "mailto:0701679527@pixie.se",
+    "delay" : 300
+  }, {
+    "title" : "SMS CS",
+    "details" : "mailto:0730393656@pixie.se",
+    "delay" : 300
+  } ]
+}

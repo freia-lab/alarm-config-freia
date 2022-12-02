@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Cmp:Cmp:Tr031_Cx_HpLoLmtUnderRun",
+  "latching" : false,
+  "annunciating" : false
+}

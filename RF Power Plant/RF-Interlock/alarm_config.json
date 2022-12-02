@@ -1,0 +1,13 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-04.freia.local",
+  "displays" : [ {
+    "title" : "Open opi...",
+    "details" : "/opt/epics/opi/bob/cRIO-PMD/rf-interlock.bob"
+  } ],
+  "actions" : [ {
+    "title" : "Alarm Severity PV",
+    "details" : "sevrpv:Ctrl-Alarm:RF-LLRF:Intlk",
+    "delay" : 0
+  } ]
+}

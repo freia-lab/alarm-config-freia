@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Ctrl:Ctrl:Wr_StartPLC",
+  "latching" : false,
+  "annunciating" : false
+}

@@ -1,0 +1,17 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-04.freia.local",
+  "guidance" : [ {
+    "title" : "He Level Valbox",
+    "details" : "He Level Valbox"
+  } ],
+  "displays" : [ {
+    "title" : "Open opi...",
+    "details" : "/opt/epics/opi/bob/cryomodule/CM_main.bob"
+  } ],
+  "actions" : [ {
+    "title" : "Alarm Severity PV",
+    "details" : "sevrpv:Ctrl-Alarm:CM",
+    "delay" : 0
+  } ]
+}

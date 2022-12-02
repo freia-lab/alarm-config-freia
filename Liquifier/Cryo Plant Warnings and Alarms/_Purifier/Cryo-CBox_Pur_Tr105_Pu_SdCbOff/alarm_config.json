@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-CBox:Pur:Tr105_Pu_SdCbOff",
+  "latching" : false,
+  "annunciating" : false
+}

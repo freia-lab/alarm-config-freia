@@ -1,0 +1,24 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-CBox:Pur:QT3400_Td",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 300,
+  "displays" : [ {
+    "title" : "Check the error codes and the status...",
+    "details" : "/CSS/opi/boy/epics-misc-freia/dmt340-top.opi"
+  }, {
+    "title" : "Download the DMT340 manual...",
+    "details" : "http://www.vaisala.com/Vaisala%20Documents/User%20Guides%20and%20Quick%20Ref%20Guides/DMT340%20User%27s%20Guide%20in%20English%20M210704EN.pdf"
+  } ],
+  "actions" : [ {
+    "title" : "email KG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 300
+  }, {
+    "title" : "email LH",
+    "details" : "mailto:lars.hermansson@physics.uu.se",
+    "delay" : 300
+  } ]
+}

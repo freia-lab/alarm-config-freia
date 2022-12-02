@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Cmp:HP:Wr422_PI2170_ErrSum",
+  "latching" : false,
+  "annunciating" : false
+}

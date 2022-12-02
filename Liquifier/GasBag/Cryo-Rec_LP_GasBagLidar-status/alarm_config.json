@@ -1,0 +1,6 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Rec:LP:GasBagLidar-status",
+  "latching" : false
+}

@@ -1,0 +1,15 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "HPRF-Esys:hpa2:sGlobStat",
+  "enabled" : false,
+  "actions" : [ {
+    "title" : "Trip RF-switch 1",
+    "details" : "cmd:/opt/epics/bases/base-3.15.4/bin/centos7-x86_64/caput LLRF-Ctrl:SoftwareIntlk:cOK 0",
+    "delay" : 0
+  }, {
+    "title" : "Mail KF",
+    "details" : "mailto:kjell.fransson@physics.uu.se",
+    "delay" : 0
+  } ]
+}

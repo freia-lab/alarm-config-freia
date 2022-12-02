@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-CBox:Tux:Tr080_Cb_SdHardwireTux",
+  "latching" : false,
+  "annunciating" : false
+}

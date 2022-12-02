@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Cmp:MCD:Wr_H20",
+  "latching" : false,
+  "annunciating" : false
+}

@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "oldpc-02",
+  "description" : "Ctrl-oldpc04:disk-root:dskPercent",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 60
+}

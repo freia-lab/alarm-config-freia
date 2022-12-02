@@ -1,0 +1,13 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-04.freia.local",
+  "displays" : [ {
+    "title" : "Open opi...",
+    "details" : "/opt/epics/opi/bob/rfleakdet/rf-leak-det-top.bob"
+  } ],
+  "actions" : [ {
+    "title" : "Alarm Severity PV",
+    "details" : "sevrpv:Ctrl-Alarm:Env-RFleak",
+    "delay" : 0
+  } ]
+}

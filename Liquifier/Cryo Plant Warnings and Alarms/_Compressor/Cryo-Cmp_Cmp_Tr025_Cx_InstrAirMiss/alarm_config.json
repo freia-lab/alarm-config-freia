@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Cmp:Cmp:Tr025_Cx_InstrAirMiss",
+  "latching" : false,
+  "annunciating" : false
+}

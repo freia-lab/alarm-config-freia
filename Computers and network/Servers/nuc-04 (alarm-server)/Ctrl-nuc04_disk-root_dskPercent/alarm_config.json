@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "oldpc-02",
+  "description" : "Ctrl-nuc04:disk-root:dskPercent",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 60
+}

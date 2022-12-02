@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Cmp:Cmp:Wr_BufferPrLow",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 3
+}

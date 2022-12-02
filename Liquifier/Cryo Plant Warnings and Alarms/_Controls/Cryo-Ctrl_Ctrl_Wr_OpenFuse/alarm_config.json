@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Ctrl:Ctrl:Wr_OpenFuse",
+  "latching" : false,
+  "annunciating" : false
+}

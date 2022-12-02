@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "description" : "Ctrl-nuc07:Cpu:Idle",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 900
+}

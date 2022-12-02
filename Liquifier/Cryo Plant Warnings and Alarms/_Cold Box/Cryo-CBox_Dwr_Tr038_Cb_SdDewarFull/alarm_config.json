@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-CBox:Dwr:Tr038_Cb_SdDewarFull",
+  "latching" : false,
+  "annunciating" : false
+}

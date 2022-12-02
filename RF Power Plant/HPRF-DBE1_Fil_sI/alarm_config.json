@@ -1,0 +1,17 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-04.freia.local",
+  "displays" : [ {
+    "title" : "Open opi...",
+    "details" : "/opt/epics/opi/bob/dbe/DBE_main.bob"
+  } ],
+  "actions" : [ {
+    "title" : "SMS_KG",
+    "details" : "mailto:0701679193@pixie.se",
+    "delay" : 0
+  }, {
+    "title" : "mail_KG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 0
+  } ]
+}

@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Pur:Pur:Tr107_Pu_SdSupplyPrLow",
+  "latching" : false,
+  "annunciating" : false
+}

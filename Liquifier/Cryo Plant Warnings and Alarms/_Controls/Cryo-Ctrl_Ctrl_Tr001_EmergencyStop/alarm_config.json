@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Ctrl:Ctrl:Tr001_EmergencyStop",
+  "latching" : false,
+  "annunciating" : false
+}

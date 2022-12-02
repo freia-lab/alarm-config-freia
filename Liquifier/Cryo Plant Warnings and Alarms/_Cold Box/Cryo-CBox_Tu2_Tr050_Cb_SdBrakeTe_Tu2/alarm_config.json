@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-CBox:Tu2:Tr050_Cb_SdBrakeTe_Tu2",
+  "latching" : false,
+  "annunciating" : false
+}

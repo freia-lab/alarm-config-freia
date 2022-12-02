@@ -1,0 +1,6 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "Env-RFleakage:RFdet-1:RFAVG3",
+  "enabled" : false
+}

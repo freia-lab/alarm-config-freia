@@ -1,0 +1,13 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Vertical cryostat's archiving is turned off",
+  "latching" : false,
+  "commands" : [ {
+    "title" : "Turn ON archiving",
+    "details" : "caput CstatV-Ctrl:Archiving:On 1"
+  }, {
+    "title" : "Stop archiving",
+    "details" : "caput CstatV-Ctrl:Archiving:On 0"
+  } ]
+}

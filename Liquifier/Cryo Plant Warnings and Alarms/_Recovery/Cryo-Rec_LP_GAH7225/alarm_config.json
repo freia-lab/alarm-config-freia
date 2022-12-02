@@ -1,0 +1,24 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "LP Compressor warning",
+  "latching" : false,
+  "annunciating" : false,
+  "actions" : [ {
+    "title" : "SMS LH",
+    "details" : "mailto:0704250331@pixie.se",
+    "delay" : 130
+  }, {
+    "title" : "SMS RS",
+    "details" : "mailto:0701679527@pixie.se",
+    "delay" : 160
+  }, {
+    "title" : "SMS EP",
+    "details" : "mailto:0729999371@pixie.se",
+    "delay" : 210
+  }, {
+    "title" : "Mail KF",
+    "details" : "mailto:kjell.fransson@physics.uu.se",
+    "delay" : 300
+  } ]
+}

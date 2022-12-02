@@ -1,0 +1,17 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "actions" : [ {
+    "title" : "Send email",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 10
+  }, {
+    "title" : "Send SMS",
+    "details" : "mailto:0705933088@pixie.se",
+    "delay" : 0
+  }, {
+    "title" : "Alarm Severity PV",
+    "details" : "sevrpv:Ctrl-Alarm:CM-Keithley",
+    "delay" : 0
+  } ]
+}

@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Cmp:Cmp:Wr_Ct1LP_ParaError",
+  "latching" : false,
+  "annunciating" : false
+}

@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-CBox:HP:Wr378_TI3115_ErrSum",
+  "latching" : false,
+  "annunciating" : false
+}

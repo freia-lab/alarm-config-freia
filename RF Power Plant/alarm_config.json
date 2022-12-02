@@ -1,0 +1,9 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "actions" : [ {
+    "title" : "",
+    "details" : "sevrpv:Ctrl-Alarm:RF",
+    "delay" : 0
+  } ]
+}

@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-CBox:Dwr:Wr_DwrLvlOverRange",
+  "latching" : false,
+  "annunciating" : false
+}

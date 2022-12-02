@@ -1,0 +1,9 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "actions" : [ {
+    "title" : "Alarm Severity PV",
+    "details" : "sevrpv:Ctrl-Alarm:Env-O2",
+    "delay" : 0
+  } ]
+}

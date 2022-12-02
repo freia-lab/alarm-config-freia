@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "description" : "Ctrl-centos7-DM:Cpu:Idle",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 900
+}

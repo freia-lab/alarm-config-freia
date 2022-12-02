@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "oldpc-02",
+  "description" : "PLC-WTRVAC:Ctrl-PB:sErr-8",
+  "latching" : false,
+  "annunciating" : false
+}

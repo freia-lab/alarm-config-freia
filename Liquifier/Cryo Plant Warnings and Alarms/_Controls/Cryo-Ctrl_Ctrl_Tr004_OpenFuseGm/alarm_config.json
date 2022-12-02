@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Ctrl:Ctrl:Tr004_OpenFuseGm",
+  "latching" : false,
+  "annunciating" : false
+}

@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-04.freia.local",
+  "displays" : [ {
+    "title" : "Open opi...",
+    "details" : "/opt/epics/opi/bob/cRIO-PMD/rf-interlock.bob"
+  } ]
+}

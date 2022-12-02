@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "oldpc-02",
+  "description" : "Ctrl-phoebusSrv:Cpu:Idle",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 60
+}

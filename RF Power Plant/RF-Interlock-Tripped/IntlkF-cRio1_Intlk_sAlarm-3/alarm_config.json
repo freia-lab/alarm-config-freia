@@ -1,0 +1,11 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "IntlkF-cRio1:Intlk:sAlarm-3",
+  "enabled" : false,
+  "actions" : [ {
+    "title" : "SMS KF",
+    "details" : "mailto:0701712391@pixie.se",
+    "delay" : 0
+  } ]
+}

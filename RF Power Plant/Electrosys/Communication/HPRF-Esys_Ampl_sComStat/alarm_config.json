@@ -1,0 +1,11 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "HPRF-Esys:Ampl:sComStat",
+  "enabled" : false,
+  "actions" : [ {
+    "title" : "Send SMS to KG",
+    "details" : "mailto:0705933088@pixie.se",
+    "delay" : 60
+  } ]
+}

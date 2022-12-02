@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Cmp:HP:Wr424_SI2110_ErrSum",
+  "latching" : false,
+  "annunciating" : false
+}

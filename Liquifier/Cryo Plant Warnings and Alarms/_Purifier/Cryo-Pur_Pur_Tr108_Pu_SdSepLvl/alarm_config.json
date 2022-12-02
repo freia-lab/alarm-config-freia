@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Pur:Pur:Tr108_Pu_SdSepLvl",
+  "latching" : false,
+  "annunciating" : false
+}

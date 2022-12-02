@@ -1,0 +1,6 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "CstatH-Vac:FV001:sOn",
+  "enabled" : false
+}

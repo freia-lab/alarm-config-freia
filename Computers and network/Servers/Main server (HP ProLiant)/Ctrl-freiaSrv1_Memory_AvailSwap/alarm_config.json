@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "oldpc-02",
+  "description" : "Ctrl-freiaSrv1:Memory:AvailSwap",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 900
+}

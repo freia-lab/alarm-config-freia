@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "oldpc-02",
+  "description" : "Ctrl-arcApl1:disk-data1:dskPercent",
+  "latching" : false,
+  "annunciating" : false
+}

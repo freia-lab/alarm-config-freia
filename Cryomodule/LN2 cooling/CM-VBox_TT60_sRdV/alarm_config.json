@@ -1,0 +1,15 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "CM-VBox:TT60:sRdV",
+  "latching" : false,
+  "actions" : [ {
+    "title" : "SMS RS",
+    "details" : "mailto:0701679527@pixie.se",
+    "delay" : 0
+  }, {
+    "title" : "email_KG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 0
+  } ]
+}

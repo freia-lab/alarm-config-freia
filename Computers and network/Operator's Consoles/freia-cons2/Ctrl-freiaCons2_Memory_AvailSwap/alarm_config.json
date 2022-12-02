@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "description" : "Ctrl-freiaCons2:Memory:AvailSwap",
+  "latching" : false,
+  "delay" : 900
+}

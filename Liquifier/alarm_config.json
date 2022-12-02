@@ -1,0 +1,17 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-04.freia.local",
+  "displays" : [ {
+    "title" : "Open opi...",
+    "details" : "/opt/epics/opi/bob/linde/linde-freia-top.bob"
+  } ],
+  "commands" : [ {
+    "title" : "Reset errors and warnings",
+    "details" : "caput Cryo-Cryo:Cryo:ResetCmd 1"
+  } ],
+  "actions" : [ {
+    "title" : "Alarm Severity PV",
+    "details" : "sevrpv:Ctrl-Alarm:Cryo",
+    "delay" : 0
+  } ]
+}

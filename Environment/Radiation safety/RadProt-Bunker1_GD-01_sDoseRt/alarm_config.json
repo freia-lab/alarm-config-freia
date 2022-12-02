@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "High dose at the door",
+  "latching" : false,
+  "annunciating" : false
+}

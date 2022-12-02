@@ -1,0 +1,13 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "displays" : [ {
+    "title" : "Open opi...",
+    "details" : "/opt/epics/opi/bob/superv/control-system-supervisor.bob"
+  } ],
+  "actions" : [ {
+    "title" : "Alarm Severity PV",
+    "details" : "sevrpv:Ctrl-Alarm:Comp",
+    "delay" : 0
+  } ]
+}

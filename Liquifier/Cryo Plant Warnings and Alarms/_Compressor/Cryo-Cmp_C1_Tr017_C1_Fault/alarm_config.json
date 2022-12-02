@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-Cmp:C1:Tr017_C1_Fault",
+  "latching" : false,
+  "annunciating" : false
+}

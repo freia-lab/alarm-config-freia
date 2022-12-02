@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "phoebus-srv",
+  "description" : "Cryo-VacSyS:VacSys:Wr_VcmCb_PrUnderRange",
+  "latching" : false,
+  "annunciating" : false
+}
