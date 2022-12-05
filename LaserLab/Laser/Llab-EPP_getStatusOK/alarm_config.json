@@ -4,5 +4,5 @@
   "description" : "Llab-EPP:getStatusOK",
   "latching" : false,
   "annunciating" : false,
-  "delay" : 31
+  "delay" : 30
 }
