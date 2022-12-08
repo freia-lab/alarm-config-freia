@@ -689,6 +689,10 @@ Consult the opi for the cable path.</details>
 Update the time for the next reminder - press  "Register service" button in service opi (Cntrl System tab).
 </details>
           </guidance>
+          <display>
+            <title>Open service opi...</title>
+            <details>/opt/epics/opi/bob/service/service_top.bob</details>
+          </display>
           <automated_action>
             <title>mail KG</title>
             <details>mailto:konrad.gajewski@physics.uu.se</details>
