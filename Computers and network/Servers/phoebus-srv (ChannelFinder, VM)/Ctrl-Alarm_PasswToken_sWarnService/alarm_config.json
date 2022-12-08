@@ -1,5 +1,16 @@
 {
   "user" : "konrad",
   "host" : "nuc-07",
-  "description" : "Ctrl-Alarm:PasswToken:sWarnService"
+  "description" : "Ctrl-Alarm:PasswToken:sWarnService",
+  "latching" : false,
+  "annunciating" : false,
+  "actions" : [ {
+    "title" : "mail KG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 0
+  }, {
+    "title" : "mail KF",
+    "details" : "mailto:kjell.fransson@physics.uu.se",
+    "delay" : 0
+  } ]
 }

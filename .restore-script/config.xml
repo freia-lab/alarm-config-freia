@@ -681,8 +681,18 @@ Consult the opi for the cable path.</details>
         <pv name="Ctrl-Alarm:PasswToken:sWarnService">
           <description>Ctrl-Alarm:PasswToken:sWarnService</description>
           <enabled>true</enabled>
-          <latching>true</latching>
-          <annunciating>true</annunciating>
+          <latching>false</latching>
+          <annunciating>false</annunciating>
+          <automated_action>
+            <title>mail KG</title>
+            <details>mailto:konrad.gajewski@physics.uu.se</details>
+            <delay>0</delay>
+          </automated_action>
+          <automated_action>
+            <title>mail KF</title>
+            <details>mailto:kjell.fransson@physics.uu.se</details>
+            <delay>0</delay>
+          </automated_action>
         </pv>
         <pv name="Ctrl-phoebusSrv:Cpu:Idle">
           <description>Ctrl-phoebusSrv:Cpu:Idle</description>
