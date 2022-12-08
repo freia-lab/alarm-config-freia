@@ -678,6 +678,12 @@ Consult the opi for the cable path.</details>
         </pv>
       </component>
       <component name="phoebus-srv (ChannelFinder, VM)">
+        <pv name="Ctrl-Alarm:PasswToken:sWarnService">
+          <description>Ctrl-Alarm:PasswToken:sWarnService</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
         <pv name="Ctrl-phoebusSrv:Cpu:Idle">
           <description>Ctrl-phoebusSrv:Cpu:Idle</description>
           <enabled>true</enabled>
