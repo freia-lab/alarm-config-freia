@@ -683,6 +683,12 @@ Consult the opi for the cable path.</details>
           <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
+          <guidance>
+            <title>What to do?</title>
+            <details>Create a new token. See http://freia.physics.uu.se/Cntrlelog/show.jsp?dir=/2022/12&amp;pos=2022-12-08T11:07:21
+Update the time for the next reminder - press  "Register service" button in service opi (Cntrl System tab).
+</details>
+          </guidance>
           <automated_action>
             <title>mail KG</title>
             <details>mailto:konrad.gajewski@physics.uu.se</details>
