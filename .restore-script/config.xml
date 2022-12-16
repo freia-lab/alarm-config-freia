@@ -2372,7 +2372,7 @@ Start the pump.</details>
           <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
-          <delay>30</delay>
+          <delay>60</delay>
           <automated_action>
             <title>mail to KG</title>
             <details>mailto:konrad.gajewski@physics.uu.se</details>
