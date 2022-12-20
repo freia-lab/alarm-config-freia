@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-07",
+  "user" : "alarm",
+  "host" : "phoebus-srv",
   "description" : "Cryo-Rec:LP:C4:sAlarm",
   "enabled" : false,
   "latching" : false,
