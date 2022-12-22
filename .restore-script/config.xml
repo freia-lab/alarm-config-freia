@@ -942,7 +942,7 @@ Update the time for the next reminder - press  "Register service" button in serv
     <component name="Power Couplers">
       <pv name="CM-PwrCpl:TT120:sRdV">
         <description>CM-PwrCpl:TT120:sRdV</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <delay>20</delay>

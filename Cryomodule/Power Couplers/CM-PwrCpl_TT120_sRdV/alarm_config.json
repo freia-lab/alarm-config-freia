@@ -1,7 +1,9 @@
 {
   "user" : "konrad",
-  "host" : "oldpc-02",
+  "host" : "nuc-07",
   "description" : "CM-PwrCpl:TT120:sRdV",
+  "enabled" : "2023-01-11T09:16:00",
   "latching" : false,
+  "annunciating" : false,
   "delay" : 20
 }
