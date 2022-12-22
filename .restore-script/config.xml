@@ -80,7 +80,7 @@
       <component name="freia-cons2">
         <pv name="Ctrl-freiaCons2:Cpu:Idle">
           <description>Ctrl-freiaCons2:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
         </pv>
