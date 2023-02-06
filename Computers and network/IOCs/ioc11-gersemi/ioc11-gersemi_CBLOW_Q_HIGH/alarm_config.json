@@ -2,8 +2,10 @@
   "user" : "konrad",
   "host" : "nuc-07",
   "description" : "ioc11-gersemi:CBLOW_Q_HIGH",
+  "latching" : false,
+  "delay" : 60,
   "actions" : [ {
-    "title" : "",
+    "title" : "SMS_KG",
     "details" : "mailto:0701679193@pixie.se",
     "delay" : 0
   } ]

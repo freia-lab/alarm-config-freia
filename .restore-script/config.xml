@@ -39,10 +39,11 @@
         <pv name="ioc11-gersemi:CBLOW_Q_HIGH">
           <description>ioc11-gersemi:CBLOW_Q_HIGH</description>
           <enabled>true</enabled>
-          <latching>true</latching>
+          <latching>false</latching>
           <annunciating>true</annunciating>
+          <delay>60</delay>
           <automated_action>
-            <title></title>
+            <title>SMS_KG</title>
             <details>mailto:0701679193@pixie.se</details>
             <delay>0</delay>
           </automated_action>
