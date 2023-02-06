@@ -1,5 +1,10 @@
 {
   "user" : "konrad",
   "host" : "nuc-07",
-  "description" : "ioc11-gersemi:CBLOW_Q_HIGH"
+  "description" : "ioc11-gersemi:CBLOW_Q_HIGH",
+  "actions" : [ {
+    "title" : "",
+    "details" : "mailto:0701679193@pixie.se",
+    "delay" : 0
+  } ]
 }

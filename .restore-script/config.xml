@@ -41,6 +41,11 @@
           <enabled>true</enabled>
           <latching>true</latching>
           <annunciating>true</annunciating>
+          <automated_action>
+            <title></title>
+            <details>mailto:0701679193@pixie.se</details>
+            <delay>0</delay>
+          </automated_action>
         </pv>
       </component>
     </component>
