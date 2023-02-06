@@ -35,6 +35,8 @@
         <annunciating>false</annunciating>
         <delay>60</delay>
       </pv>
+      <component name="ioc11-gersemi">
+      </component>
     </component>
     <component name="Operator's Consoles">
       <automated_action>
