@@ -1167,7 +1167,7 @@ Start the pump.</details>
       </pv>
       <pv name="RadProt-Bunker2:GD-02:sDoseRt">
         <description>RadProt-Bunker2:GD-02:sDoseRt</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
