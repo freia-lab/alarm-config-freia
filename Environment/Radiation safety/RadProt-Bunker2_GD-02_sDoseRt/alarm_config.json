@@ -1,6 +1,6 @@
 {
-  "user" : "kjell",
-  "host" : "centos7-dm",
+  "user" : "alarm",
+  "host" : "phoebus-srv",
   "description" : "RadProt-Bunker2:GD-02:sDoseRt",
   "enabled" : false,
   "latching" : false,
