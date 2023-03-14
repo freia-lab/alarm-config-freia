@@ -3,5 +3,5 @@
   "host" : "nuc-07",
   "description" : "Env-RFleakage:RFdet-0:RFAVG2",
   "latching" : false,
-  "delay" : 2
+  "delay" : 60
 }
