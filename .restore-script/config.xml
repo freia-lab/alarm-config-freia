@@ -1072,7 +1072,7 @@ Start the pump.</details>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
-        <delay>2</delay>
+        <delay>60</delay>
       </pv>
       <pv name="Env-RFleakage:RFdet-0:RFPEAK3">
         <description>Env-RFleakage:RFdet-0:RFPEAK3</description>
