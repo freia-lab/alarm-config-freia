@@ -48,6 +48,12 @@
             <delay>0</delay>
           </automated_action>
         </pv>
+        <pv name="ioc11-gersemi:CBLOW_Q_USED">
+          <description>ioc11-gersemi:CBLOW_Q_USED</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
       </component>
     </component>
     <component name="Operator's Consoles">
