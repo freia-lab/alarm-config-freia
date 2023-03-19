@@ -54,6 +54,11 @@
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
+          <automated_action>
+            <title>SMS_KG</title>
+            <details>mailto:0701679193@pixie.se</details>
+            <delay>0</delay>
+          </automated_action>
         </pv>
       </component>
     </component>

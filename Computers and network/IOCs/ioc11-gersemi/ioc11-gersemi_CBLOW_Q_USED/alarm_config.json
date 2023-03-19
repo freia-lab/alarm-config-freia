@@ -4,5 +4,10 @@
   "description" : "ioc11-gersemi:CBLOW_Q_USED",
   "latching" : false,
   "annunciating" : false,
-  "delay" : 60
+  "delay" : 60,
+  "actions" : [ {
+    "title" : "SMS_KG",
+    "details" : "mailto:0701679193@pixie.se",
+    "delay" : 0
+  } ]
 }
