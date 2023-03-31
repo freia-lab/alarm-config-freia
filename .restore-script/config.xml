@@ -1263,6 +1263,12 @@ Start the pump.</details>
         <annunciating>true</annunciating>
       </pv>
     </component>
+    <pv name="CstatV-LHe:TT665M:sRdV">
+      <description>CstatV-LHe:TT665M:sRdV</description>
+      <enabled>true</enabled>
+      <latching>true</latching>
+      <annunciating>true</annunciating>
+    </pv>
   </component>
   <component name="HNOSS">
     <display>
