@@ -1268,6 +1268,11 @@ Start the pump.</details>
       <enabled>true</enabled>
       <latching>false</latching>
       <annunciating>false</annunciating>
+      <automated_action>
+        <title>SMS_to_TB</title>
+        <details>mailto:0761348271@pixie.se</details>
+        <delay>0</delay>
+      </automated_action>
     </pv>
   </component>
   <component name="HNOSS">

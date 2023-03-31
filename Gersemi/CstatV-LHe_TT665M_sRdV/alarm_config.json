@@ -3,5 +3,10 @@
   "host" : "nuc-07",
   "description" : "CstatV-LHe:TT665M:sRdV",
   "latching" : false,
-  "annunciating" : false
+  "annunciating" : false,
+  "actions" : [ {
+    "title" : "SMS_to_TB",
+    "details" : "mailto:0761348271@pixie.se",
+    "delay" : 0
+  } ]
 }
