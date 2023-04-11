@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-07",
+  "user" : "alarm",
+  "host" : "phoebus-srv",
   "description" : "CstatV-LHe:TT665M:sRdV",
   "enabled" : false,
   "latching" : false,
