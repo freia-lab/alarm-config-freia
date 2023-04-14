@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "description" : "Llab-Laser:getBasicOK",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 30
+}

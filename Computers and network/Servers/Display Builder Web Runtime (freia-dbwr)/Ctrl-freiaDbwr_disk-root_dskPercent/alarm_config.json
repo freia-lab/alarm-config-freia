@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "description" : "Ctrl-freia:disk-root:dskPercent",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 60
+}

@@ -1,0 +1,17 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "displays" : [ {
+    "title" : "Open opi...",
+    "details" : "/opt/epics/opi/bob/laser/laser-lab.bob"
+  } ],
+  "actions" : [ {
+    "title" : "Mail to KG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 0
+  }, {
+    "title" : "Mail to VS",
+    "details" : "mailto:vishal.shokeen@physics.uu.se",
+    "delay" : 0
+  } ]
+}

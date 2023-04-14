@@ -1,0 +1,23 @@
+{
+  "user" : "alarm",
+  "host" : "phoebus-srv",
+  "description" : "HPRF-DBE:Ampl:sFault",
+  "enabled" : false,
+  "actions" : [ {
+    "title" : "Trip RF Plc intl",
+    "details" : "cmd:/opt/epics/bases/base-3.15.4/bin/centos7-x86_64/caput LLRF-Ctrl:SoftwareIntlk:cOK 0",
+    "delay" : 0
+  }, {
+    "title" : "SMS KF",
+    "details" : "mailto:0701712391@pixie.se",
+    "delay" : 0
+  }, {
+    "title" : "SMS MZ",
+    "details" : "mailto:0736237880@pixie.se",
+    "delay" : 0
+  }, {
+    "title" : "Mail to KF",
+    "details" : "mailto:kjell.fransson@physics.uu.se",
+    "delay" : 0
+  } ]
+}

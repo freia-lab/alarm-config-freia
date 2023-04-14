@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "description" : "Llab-OPA:getShutterStateOK",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 30
+}

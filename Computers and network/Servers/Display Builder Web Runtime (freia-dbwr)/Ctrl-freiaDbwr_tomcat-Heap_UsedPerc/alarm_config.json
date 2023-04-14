@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "description" : "Ctrl-freiaDbwr:tomcat-Heap:UsedPerc",
+  "latching" : false,
+  "annunciating" : false
+}
