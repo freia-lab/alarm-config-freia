@@ -3039,7 +3039,7 @@ Start the pump.</details>
       </pv>
       <pv name="HPRF-Esys:Ampl:sFault">
         <description>HPRF-Esys:Ampl:sFault</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>true</latching>
         <annunciating>true</annunciating>
         <automated_action>
