@@ -2,6 +2,7 @@
   "user" : "dev",
   "host" : "nuc-04.freia.local",
   "description" : "HPRF-Esys:Ampl:sFault",
+  "enabled" : false,
   "actions" : [ {
     "title" : "Trip Plc interl.",
     "details" : "cmd:/opt/epics/bases/base-3.15.4/bin/centos7-x86_64/caput LLRF-Ctrl:SoftwareIntlk:cOK 0",
