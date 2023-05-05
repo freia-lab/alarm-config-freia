@@ -2981,7 +2981,7 @@ Start the pump.</details>
       </display>
       <pv name="HPRF-DBE:Ampl:sFault">
         <description>HPRF-DBE:Ampl:sFault</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>true</latching>
         <annunciating>true</annunciating>
         <automated_action>
