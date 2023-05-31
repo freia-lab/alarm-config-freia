@@ -63,6 +63,11 @@
       </component>
     </component>
     <component name="Network">
+      <automated_action>
+        <title>Send email</title>
+        <details>mailto:konrad.gajewski@physics.uu.se</details>
+        <delay>3600</delay>
+      </automated_action>
       <pv name="Ctrl-Alarm:Network:InterVLANcomm">
         <description>Ctrl-Alarm:Network:InterVLANcomm</description>
         <enabled>true</enabled>

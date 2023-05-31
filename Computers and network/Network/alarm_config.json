@@ -1,4 +1,9 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07"
+  "host" : "nuc-07",
+  "actions" : [ {
+    "title" : "Send email",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 3600
+  } ]
 }
