@@ -1,5 +1,7 @@
 {
   "user" : "konrad",
   "host" : "nuc-07",
-  "description" : "Ctrl-Alarm:Network:InterVLANcomm"
+  "description" : "InterVLAN communication",
+  "latching" : false,
+  "annunciating" : false
 }
