@@ -63,6 +63,12 @@
       </component>
     </component>
     <component name="Network">
+      <pv name="Ctrl-Alarm:Network:InterVLANcomm">
+        <description>Ctrl-Alarm:Network:InterVLANcomm</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
     </component>
     <component name="Operator's Consoles">
       <automated_action>
