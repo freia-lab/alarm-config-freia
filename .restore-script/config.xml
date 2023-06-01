@@ -988,7 +988,7 @@ Update the time for the next reminder - press  "Register service" button in serv
       </pv>
       <pv name="CM-PwrCpl:TT220:sRdV">
         <description>CM-PwrCpl:TT220:sRdV</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <delay>20</delay>
