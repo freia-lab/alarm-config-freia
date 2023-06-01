@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "phoebus-srv",
+  "host" : "nuc-07",
   "description" : "IntlkF-cRio1:Intlk:sAlarm-1",
+  "enabled" : "2023-08-15T16:20:00",
   "latching" : false,
   "annunciating" : false,
   "actions" : [ {
