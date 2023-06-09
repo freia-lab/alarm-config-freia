@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "phoebus-srv",
+  "host" : "nuc-07",
   "description" : "He Level, Valve Box",
+  "enabled" : "2023-09-05T12:49:00",
   "latching" : false,
   "annunciating" : false,
   "actions" : [ {
