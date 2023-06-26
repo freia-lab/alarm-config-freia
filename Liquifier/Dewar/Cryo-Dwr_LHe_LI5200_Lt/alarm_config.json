@@ -1,15 +1,11 @@
 {
   "user" : "konrad",
-  "host" : "phoebus-srv",
+  "host" : "nuc-07",
   "description" : "Dewar < 200 l",
   "latching" : false,
   "annunciating" : false,
   "delay" : 180,
   "actions" : [ {
-    "title" : "SMS LH",
-    "details" : "mailto:0704250331@pixie.se",
-    "delay" : 180
-  }, {
     "title" : "SNS RS",
     "details" : "mailto:0701679527@pixie.se",
     "delay" : 180
