@@ -2701,8 +2701,8 @@ Start the pump.</details>
           <delay>300</delay>
         </automated_action>
         <automated_action>
-          <title>email LH</title>
-          <details>mailto:lars.hermansson@physics.uu.se</details>
+          <title>email CS</title>
+          <details>mailto:carl.svanberg@physics.uu.se</details>
           <delay>300</delay>
         </automated_action>
       </pv>

@@ -1,6 +1,6 @@
 {
-  "user" : "alarm",
-  "host" : "phoebus-srv",
+  "user" : "konrad",
+  "host" : "nuc-07",
   "description" : "Cryo-CBox:Pur:QT3400_Td",
   "latching" : false,
   "annunciating" : false,
@@ -17,8 +17,8 @@
     "details" : "mailto:konrad.gajewski@physics.uu.se",
     "delay" : 300
   }, {
-    "title" : "email LH",
-    "details" : "mailto:lars.hermansson@physics.uu.se",
+    "title" : "email CS",
+    "details" : "mailto:carl.svanberg@physics.uu.se",
     "delay" : 300
   } ]
 }
