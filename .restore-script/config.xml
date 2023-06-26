@@ -899,11 +899,6 @@ Update the time for the next reminder - press  "Register service" button in serv
         <latching>false</latching>
         <annunciating>false</annunciating>
         <automated_action>
-          <title>SMS LH</title>
-          <details>mailto:0704250331@pixie.se</details>
-          <delay>200</delay>
-        </automated_action>
-        <automated_action>
           <title>SMS RS</title>
           <details>mailto:0701679527@pixie.se</details>
           <delay>200</delay>

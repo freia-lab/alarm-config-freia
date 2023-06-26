@@ -6,10 +6,6 @@
   "latching" : false,
   "annunciating" : false,
   "actions" : [ {
-    "title" : "SMS LH",
-    "details" : "mailto:0704250331@pixie.se",
-    "delay" : 200
-  }, {
     "title" : "SMS RS",
     "details" : "mailto:0701679527@pixie.se",
     "delay" : 200
