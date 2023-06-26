@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "description" : "Ctrl-phoebusSrv:disk-home:dskPercent",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 60
+}
