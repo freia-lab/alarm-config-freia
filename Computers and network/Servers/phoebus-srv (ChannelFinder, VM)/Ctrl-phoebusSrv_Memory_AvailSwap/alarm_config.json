@@ -1,7 +1,5 @@
 {
   "user" : "konrad",
-  "host" : "oldpc-02",
-  "description" : "Ctrl-phoebusSrv:Memory:AvailSwap",
-  "latching" : false,
-  "delay" : 60
+  "host" : "nuc-07",
+  "delete" : "Deleting"
 }
