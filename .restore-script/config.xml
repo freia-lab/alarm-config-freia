@@ -679,7 +679,7 @@ Consult the opi for the cable path.</details>
           <annunciating>false</annunciating>
         </pv>
       </component>
-      <component name="nuc-04 (alarm-server)">
+      <component name="nuc-04">
         <pv name="Ctrl-nuc04:Cpu:Idle">
           <description>Ctrl-nuc04:Cpu:Idle</description>
           <enabled>true</enabled>
