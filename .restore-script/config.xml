@@ -1004,7 +1004,7 @@ Update the time for the next reminder - press  "Register service" button in serv
       </automated_action>
       <pv name="Env-CstatV:WtrPuddle:Alrm">
         <description>Env-CstatV:WtrPuddle:Alrm</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>true</latching>
         <annunciating>true</annunciating>
         <guidance>
@@ -1019,11 +1019,6 @@ Start the pump.</details>
         <automated_action>
           <title>Send SMS</title>
           <details>mailto:0705933088@pixie.se</details>
-          <delay>0</delay>
-        </automated_action>
-        <automated_action>
-          <title>Inform LH</title>
-          <details>Inform LH</details>
           <delay>0</delay>
         </automated_action>
       </pv>

@@ -1,8 +1,7 @@
 {
-  "user" : "alarm",
-  "host" : "phoebus-srv",
+  "user" : "konrad",
+  "host" : "nuc-07",
   "description" : "Env-CstatV:WtrPuddle:Alrm",
-  "enabled" : false,
   "guidance" : [ {
     "title" : "Water in Gersemi pit",
     "details" : "Check the water levels:\nEnv-CstatV:WtrPuddle:AI0\nEnv-CstatV:WtrPuddle:AI1\nEnv-CstatV:WtrPuddle:AI2\nand the local indicator.\nStart the pump."
@@ -10,10 +9,6 @@
   "actions" : [ {
     "title" : "Send SMS",
     "details" : "mailto:0705933088@pixie.se",
-    "delay" : 0
-  }, {
-    "title" : "Inform LH",
-    "details" : "Inform LH",
     "delay" : 0
   } ]
 }
