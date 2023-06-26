@@ -1,8 +1,5 @@
 {
   "user" : "konrad",
-  "host" : "oldpc-02",
-  "description" : "Ctrl-nuc04:disk-home:dskPercent",
-  "latching" : false,
-  "annunciating" : false,
-  "delay" : 60
+  "host" : "nuc-07",
+  "delete" : "Deleting"
 }
