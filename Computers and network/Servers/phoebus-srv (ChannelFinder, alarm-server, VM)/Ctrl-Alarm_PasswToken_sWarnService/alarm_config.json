@@ -1,0 +1,24 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "description" : "Ctrl-Alarm:PasswToken:sWarnService",
+  "latching" : false,
+  "annunciating" : false,
+  "guidance" : [ {
+    "title" : "What to do?",
+    "details" : "Create a new token. See http://freia.physics.uu.se/Cntrlelog/show.jsp?dir=/2022/12&pos=2022-12-08T11:07:21\nUpdate the time for the next reminder - press  \"Register service\" button in service opi (Cntrl System tab).\n"
+  } ],
+  "displays" : [ {
+    "title" : "Open service opi...",
+    "details" : "/opt/epics/opi/bob/service/service_top.bob"
+  } ],
+  "actions" : [ {
+    "title" : "mail KG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 0
+  }, {
+    "title" : "mail KF",
+    "details" : "mailto:kjell.fransson@physics.uu.se",
+    "delay" : 0
+  } ]
+}
