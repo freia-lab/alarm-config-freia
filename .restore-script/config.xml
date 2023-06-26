@@ -2687,11 +2687,6 @@ Start the pump.</details>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <automated_action>
-          <title> SMS LH</title>
-          <details>mailto:0704250331@pixie.se</details>
-          <delay>180</delay>
-        </automated_action>
-        <automated_action>
           <title>SMS RS</title>
           <details>mailto:0701679527@pixie.se</details>
           <delay>180</delay>
