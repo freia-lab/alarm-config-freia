@@ -2526,11 +2526,6 @@ Start the pump.</details>
         <details>Purifier Off</details>
       </guidance>
       <automated_action>
-        <title>SMS LH</title>
-        <details>mailto:0704250331@pixie.se</details>
-        <delay>300</delay>
-      </automated_action>
-      <automated_action>
         <title>SMS RS</title>
         <details>mailto:0701679527@pixie.se</details>
         <delay>300</delay>
