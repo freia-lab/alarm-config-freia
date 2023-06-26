@@ -1,0 +1,7 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "description" : "Ctrl-phoebusSrv:Memory:AvailSwap",
+  "latching" : false,
+  "delay" : 60
+}
