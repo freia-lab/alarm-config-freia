@@ -716,7 +716,7 @@ Consult the opi for the cable path.</details>
           <delay>60</delay>
         </pv>
       </component>
-      <component name="phoebus-srv (ChannelFinder, VM)">
+      <component name="phoebus-srv (ChannelFinder, alarm-server, VM)">
         <pv name="Ctrl-Alarm:PasswToken:sWarnService">
           <description>Ctrl-Alarm:PasswToken:sWarnService</description>
           <enabled>true</enabled>
