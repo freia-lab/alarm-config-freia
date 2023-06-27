@@ -2658,7 +2658,7 @@ Start the pump.</details>
       </pv>
       <pv name="Cryo-CBox:Pur:QT3400_Td">
         <description>Cryo-CBox:Pur:QT3400_Td</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <delay>300</delay>
