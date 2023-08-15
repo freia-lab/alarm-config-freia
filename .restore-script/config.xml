@@ -2899,7 +2899,7 @@ Start the pump.</details>
       </display>
       <pv name="IntlkF-cRio1:Intlk:sAlarm-1">
         <description>IntlkF-cRio1:Intlk:sAlarm-1</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <automated_action>
@@ -2920,7 +2920,7 @@ Start the pump.</details>
       </pv>
       <pv name="IntlkF-cRio1:Intlk:sAlarm-2">
         <description>IntlkF-cRio1:Intlk:sAlarm-2</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <automated_action>
