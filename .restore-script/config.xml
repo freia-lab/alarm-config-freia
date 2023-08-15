@@ -2617,6 +2617,11 @@ Start the pump.</details>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
+        <automated_action>
+          <title>reboot raspi</title>
+          <details>cmd:/usr/bin/ssh pi@192.168.10.188 sudo reboot</details>
+          <delay>600</delay>
+        </automated_action>
       </pv>
     </component>
     <component name="Purifier">

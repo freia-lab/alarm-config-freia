@@ -1,6 +1,11 @@
 {
-  "user" : "alarm",
-  "host" : "phoebus-srv",
+  "user" : "konrad",
+  "host" : "nuc-07",
   "description" : "Cryo-Rec:LP:GasBagLidar-status",
-  "latching" : false
+  "latching" : false,
+  "actions" : [ {
+    "title" : "reboot raspi",
+    "details" : "cmd:/usr/bin/ssh pi@192.168.10.188 sudo reboot",
+    "delay" : 600
+  } ]
 }
