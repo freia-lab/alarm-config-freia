@@ -1,5 +1,8 @@
 {
   "user" : "konrad",
   "host" : "nuc-07",
-  "description" : "Ctrl-nuc08:disk-var:dskPercent"
+  "description" : "Ctrl-nuc08:disk-var:dskPercent",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 60
 }

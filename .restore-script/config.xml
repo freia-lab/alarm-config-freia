@@ -45,8 +45,9 @@
       <pv name="Ctrl-nuc08:disk-var:dskPercent">
         <description>Ctrl-nuc08:disk-var:dskPercent</description>
         <enabled>true</enabled>
-        <latching>true</latching>
-        <annunciating>true</annunciating>
+        <latching>false</latching>
+        <annunciating>false</annunciating>
+        <delay>60</delay>
       </pv>
       <component name="ioc11-gersemi">
         <pv name="ioc11-gersemi:CBLOW_Q_HIGH">
