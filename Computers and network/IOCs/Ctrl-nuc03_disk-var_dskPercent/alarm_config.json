@@ -1,7 +1,7 @@
 {
   "user" : "konrad",
-  "host" : "oldpc-02",
-  "description" : "Ctrl-nuc01:disk-var:dskPercent",
+  "host" : "nuc-07",
+  "description" : "Ctrl-nuc03:disk-var:dskPercent",
   "latching" : false,
   "annunciating" : false,
   "delay" : 60

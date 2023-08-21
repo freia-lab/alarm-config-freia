@@ -29,7 +29,7 @@
         <delay>60</delay>
       </pv>
       <pv name="Ctrl-nuc03:disk-var:dskPercent">
-        <description>Ctrl-nuc01:disk-var:dskPercent</description>
+        <description>Ctrl-nuc03:disk-var:dskPercent</description>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
