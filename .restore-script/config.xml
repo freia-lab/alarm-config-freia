@@ -2628,7 +2628,7 @@ Start the pump.</details>
       </pv>
       <pv name="Cryo-Rec:LP:GasBagLidar-status">
         <description>Cryo-Rec:LP:GasBagLidar-status</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <automated_action>
