@@ -1,8 +1,7 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-07",
+  "user" : "alarm",
+  "host" : "phoebus-srv",
   "description" : "Cryo-Rec:LP:GasBagLidar-status",
-  "enabled" : "2023-09-01T09:04:00",
   "latching" : false,
   "actions" : [ {
     "title" : "reboot raspi",
