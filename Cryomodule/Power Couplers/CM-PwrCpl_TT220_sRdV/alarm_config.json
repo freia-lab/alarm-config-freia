@@ -1,8 +1,7 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-07",
+  "user" : "alarm",
+  "host" : "phoebus-srv",
   "description" : "CM-PwrCpl:TT220:sRdV",
-  "enabled" : "2023-09-05T16:07:00",
   "latching" : false,
   "delay" : 20
 }
