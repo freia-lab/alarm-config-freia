@@ -840,7 +840,7 @@ Update the time for the next reminder - press  "Register service" button in serv
       </automated_action>
       <pv name="CM-CM:LT:sRdV">
         <description>He Level Cryo Module</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <automated_action>

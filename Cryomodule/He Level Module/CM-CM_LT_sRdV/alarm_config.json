@@ -1,8 +1,7 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-07",
+  "user" : "alarm",
+  "host" : "phoebus-srv",
   "description" : "He Level Cryo Module",
-  "enabled" : "2023-09-05T16:14:00",
   "latching" : false,
   "annunciating" : false,
   "actions" : [ {
