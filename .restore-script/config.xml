@@ -417,35 +417,35 @@ Consult the opi for the cable path.</details>
       <component name="Archive server (old, VM)">
         <pv name="Ctrl-freiaArch1:Cpu:Idle">
           <description>Ctrl-freiaArch1:Cpu:Idle</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>true</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
         </pv>
         <pv name="Ctrl-freiaArch1:Memory:AvailSwap">
           <description>Ctrl-freiaArch1:Memory:AvailSwap</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>true</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
         </pv>
         <pv name="Ctrl-freiaArch1:disk-boot:dskPercent">
           <description>Ctrl-freiaArch1:disk-boot:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>true</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
         </pv>
         <pv name="Ctrl-freiaArch1:disk-data1:dskPercent">
           <description>Ctrl-freiaArch1:disk-data1:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>true</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
         </pv>
         <pv name="Ctrl-freiaArch1:disk-root:dskPercent">
           <description>Ctrl-freiaArch1:disk-root:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>true</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
