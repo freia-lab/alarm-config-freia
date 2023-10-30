@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-07",
+  "user" : "dev",
+  "host" : "nuc-04.freia.local",
   "displays" : [ {
     "title" : "Open opi...",
     "details" : "/opt/epics/opi/bob/superv/control-system-supervisor.bob"
