@@ -724,7 +724,7 @@ Consult the opi for the cable path.</details>
         </pv>
         <pv name="Ctrl-nuc04:disk-root:dskPercent">
           <description>Ctrl-nuc04:disk-root:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
