@@ -724,11 +724,15 @@ Consult the opi for the cable path.</details>
         </pv>
         <pv name="Ctrl-nuc04:disk-root:dskPercent">
           <description>Ctrl-nuc04:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
+      </component>
+      <component name="nuc-04 (alarm-server)">
+      </component>
+      <component name="phoebus-srv (ChannelFinder, VM)">
       </component>
       <component name="phoebus-srv (ChannelFinder, alarm-server, VM)">
         <pv name="Ctrl-Alarm:PasswToken:sWarnService">
