@@ -2,6 +2,5 @@
   "user" : "konrad",
   "host" : "nuc-07",
   "description" : "Gas Bag full",
-  "enabled" : false,
   "latching" : false
 }

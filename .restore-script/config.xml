@@ -2616,13 +2616,13 @@ Start the pump.</details>
       </automated_action>
       <pv name="Cryo-Rec:LP:GasBagLidar">
         <description>Gas Bag full</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
       </pv>
       <pv name="Cryo-Rec:LP:GasBagLidar-status">
         <description>Cryo-Rec:LP:GasBagLidar-status</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <automated_action>
