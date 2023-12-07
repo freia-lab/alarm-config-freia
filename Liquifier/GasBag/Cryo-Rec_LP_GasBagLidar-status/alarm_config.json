@@ -2,6 +2,7 @@
   "user" : "konrad",
   "host" : "nuc-07",
   "description" : "Cryo-Rec:LP:GasBagLidar-status",
+  "enabled" : false,
   "latching" : false,
   "actions" : [ {
     "title" : "reboot raspi",
