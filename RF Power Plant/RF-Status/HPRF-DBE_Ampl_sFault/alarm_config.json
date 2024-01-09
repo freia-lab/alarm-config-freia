@@ -1,8 +1,7 @@
 {
-  "user" : "dev",
-  "host" : "nuc-04.freia.local",
+  "user" : "kjell",
+  "host" : "centos7-dm",
   "description" : "HPRF-DBE:Ampl:sFault",
-  "enabled" : false,
   "actions" : [ {
     "title" : "Trip RF Plc intl",
     "details" : "cmd:/opt/epics/bases/base-3.15.4/bin/centos7-x86_64/caput LLRF-Ctrl:SoftwareIntlk:cOK 0",
