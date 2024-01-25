@@ -1045,7 +1045,9 @@ Start the pump.</details>
       <guidance>
         <title>What to do when INVALID</title>
         <details>Usualy it is needed to power cycle the Modbus Gateway:
-WAVESHARE RS485 TO POE ETH (B)</details>
+WAVESHARE RS485 TO POE ETH (B)
+The gateway in FREIA is located in the FREIA compressor room on the wall behind the 2K pumps.
+For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </guidance>
       <display>
         <title>Open opi...</title>
