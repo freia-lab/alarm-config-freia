@@ -1042,6 +1042,10 @@ Start the pump.</details>
       </pv>
     </component>
     <component name="Nitrogen Gas">
+      <display>
+        <title>Open opi...</title>
+        <details>/opt/epics/opi/bob/N2_flowmeters/N2-flowmeters.bob</details>
+      </display>
       <pv name="Env-Gas:MFM-FREIA:FlowRt">
         <description>Env-Gas:MFM-FREIA:FlowRt</description>
         <enabled>true</enabled>

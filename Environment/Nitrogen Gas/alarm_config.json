@@ -1,4 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07"
+  "host" : "nuc-07",
+  "displays" : [ {
+    "title" : "Open opi...",
+    "details" : "/opt/epics/opi/bob/N2_flowmeters/N2-flowmeters.bob"
+  } ]
 }
