@@ -1,6 +1,10 @@
 {
   "user" : "konrad",
   "host" : "nuc-07",
+  "guidance" : [ {
+    "title" : "What to do when INVALID",
+    "details" : "Usualy it is needed to power cycle the Modbus Gateway:\nWAVESHARE RS485 TO POE ETH (B)"
+  } ],
   "displays" : [ {
     "title" : "Open opi...",
     "details" : "/opt/epics/opi/bob/N2_flowmeters/N2-flowmeters.bob"

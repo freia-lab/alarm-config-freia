@@ -1042,6 +1042,11 @@ Start the pump.</details>
       </pv>
     </component>
     <component name="Nitrogen Gas">
+      <guidance>
+        <title>What to do when INVALID</title>
+        <details>Usualy it is needed to power cycle the Modbus Gateway:
+WAVESHARE RS485 TO POE ETH (B)</details>
+      </guidance>
       <display>
         <title>Open opi...</title>
         <details>/opt/epics/opi/bob/N2_flowmeters/N2-flowmeters.bob</details>
