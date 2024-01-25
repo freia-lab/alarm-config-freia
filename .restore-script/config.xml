@@ -1041,6 +1041,8 @@ Start the pump.</details>
         </automated_action>
       </pv>
     </component>
+    <component name="Nitrogen Gas">
+    </component>
     <component name="Oxygen bunker1">
       <automated_action>
         <title>Alarm Severity PV</title>
