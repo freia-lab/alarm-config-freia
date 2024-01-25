@@ -1042,6 +1042,18 @@ Start the pump.</details>
       </pv>
     </component>
     <component name="Nitrogen Gas">
+      <pv name="Env-Gas:MFM-FREIA:FlowRt">
+        <description>Env-Gas:MFM-FREIA:FlowRt</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="Env-Gas:MFM-Hus3:FlowRt">
+        <description>Env-Gas:MFM-Hus3:FlowRt</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
     </component>
     <component name="Oxygen bunker1">
       <automated_action>
