@@ -730,8 +730,6 @@ Consult the opi for the cable path.</details>
           <delay>60</delay>
         </pv>
       </component>
-      <component name="nuc-04 (alarm-server)">
-      </component>
       <component name="phoebus-srv (ChannelFinder, VM)">
       </component>
       <component name="phoebus-srv (ChannelFinder, alarm-server, VM)">
