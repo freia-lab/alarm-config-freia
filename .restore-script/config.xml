@@ -696,35 +696,35 @@ Consult the opi for the cable path.</details>
       <component name="nuc-04">
         <pv name="Ctrl-nuc04:Cpu:Idle">
           <description>Ctrl-nuc04:Cpu:Idle</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-nuc04:Memory:AvailSwap">
           <description>Ctrl-nuc04:Memory:AvailSwap</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-nuc04:disk-boot:dskPercent">
           <description>Ctrl-nuc04:disk-boot:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-nuc04:disk-home:dskPercent">
           <description>Ctrl-nuc04:disk-home:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-nuc04:disk-root:dskPercent">
           <description>Ctrl-nuc04:disk-root:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
