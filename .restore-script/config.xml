@@ -717,14 +717,14 @@ Consult the opi for the cable path.</details>
         </pv>
         <pv name="Ctrl-nuc04:disk-home:dskPercent">
           <description>Ctrl-nuc04:disk-home:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-nuc04:disk-root:dskPercent">
           <description>Ctrl-nuc04:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
