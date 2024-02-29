@@ -52,7 +52,7 @@
       <component name="ioc11-gersemi">
         <pv name="ioc11-gersemi:CBLOW_Q_HIGH">
           <description>ioc11-gersemi:CBLOW_Q_HIGH</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>60</delay>

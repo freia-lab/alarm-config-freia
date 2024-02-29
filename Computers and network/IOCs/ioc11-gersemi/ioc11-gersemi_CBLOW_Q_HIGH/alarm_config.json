@@ -1,8 +1,7 @@
 {
-  "user" : "alarm",
-  "host" : "phoebus-srv",
+  "user" : "konrad",
+  "host" : "freia-cons2.freia.local",
   "description" : "ioc11-gersemi:CBLOW_Q_HIGH",
-  "enabled" : false,
   "latching" : false,
   "delay" : 60,
   "actions" : [ {
