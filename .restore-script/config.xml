@@ -2768,6 +2768,21 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
           <details>mailto:0701679527@pixie.se</details>
           <delay>0</delay>
         </automated_action>
+        <automated_action>
+          <title>SMS EP</title>
+          <details>mailto:0729999371@pixie.se</details>
+          <delay>0</delay>
+        </automated_action>
+        <automated_action>
+          <title>SMS CS</title>
+          <details>mailto:0730393656@pixie.se</details>
+          <delay>0</delay>
+        </automated_action>
+        <automated_action>
+          <title>SMS IP</title>
+          <details>mailto:0769223174@pixie.se</details>
+          <delay>0</delay>
+        </automated_action>
       </pv>
     </component>
   </component>
