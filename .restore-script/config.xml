@@ -2758,6 +2758,12 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
+      <pv name="PI2170-ALARM">
+        <description>PI2170-ALARM</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
     </component>
   </component>
   <component name="RF Power Plant">
