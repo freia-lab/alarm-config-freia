@@ -1,5 +1,12 @@
 {
   "user" : "konrad",
   "host" : "nuc-07",
-  "description" : "PI2170-ALARM"
+  "description" : "PI2170-ALARM",
+  "latching" : false,
+  "annunciating" : false,
+  "actions" : [ {
+    "title" : "SMS RS-K",
+    "details" : "mailto:0701679527@pixie.se",
+    "delay" : 0
+  } ]
 }
