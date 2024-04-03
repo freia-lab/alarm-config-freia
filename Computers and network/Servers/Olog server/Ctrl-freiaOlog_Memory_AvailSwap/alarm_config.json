@@ -2,7 +2,6 @@
   "user" : "konrad",
   "host" : "nuc-07",
   "description" : "Ctrl-freiaArch1:Memory:AvailSwap",
-  "enabled" : false,
   "annunciating" : false,
   "delay" : 300
 }
