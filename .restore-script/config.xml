@@ -415,13 +415,6 @@ Consult the opi for the cable path.</details>
         </pv>
       </component>
       <component name="Archive server (old, VM)">
-        <pv name="Ctrl-freiaArch1:Memory:AvailSwap">
-          <description>Ctrl-freiaArch1:Memory:AvailSwap</description>
-          <enabled>false</enabled>
-          <latching>true</latching>
-          <annunciating>false</annunciating>
-          <delay>300</delay>
-        </pv>
         <pv name="Ctrl-freiaArch1:disk-boot:dskPercent">
           <description>Ctrl-freiaArch1:disk-boot:dskPercent</description>
           <enabled>false</enabled>
