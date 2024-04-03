@@ -1,0 +1,8 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "description" : "Ctrl-freiaArch1:Cpu:Idle",
+  "enabled" : false,
+  "annunciating" : false,
+  "delay" : 300
+}
