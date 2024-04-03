@@ -443,6 +443,13 @@ Consult the opi for the cable path.</details>
           <annunciating>false</annunciating>
           <delay>300</delay>
         </pv>
+        <pv name="Ctrl-freiaOlog:disk-root:dskPercent">
+          <description>Ctrl-freiaArch1:disk-root:dskPercent</description>
+          <enabled>false</enabled>
+          <latching>true</latching>
+          <annunciating>false</annunciating>
+          <delay>300</delay>
+        </pv>
       </component>
       <component name="Archive server (short term, fast)">
         <pv name="Ctrl-oldpc01:Cpu:Idle">
