@@ -1,8 +1,5 @@
 {
   "user" : "konrad",
   "host" : "nuc-07",
-  "description" : "Ctrl-freiaArch1:disk-boot:dskPercent",
-  "enabled" : false,
-  "annunciating" : false,
-  "delay" : 300
+  "delete" : "Deleting"
 }
