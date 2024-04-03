@@ -548,7 +548,7 @@ Consult the opi for the cable path.</details>
       <component name="Olog server">
         <pv name="Ctrl-freiaOlog:Cpu:Idle">
           <description>Ctrl-freiaArch1:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>true</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
