@@ -569,7 +569,7 @@ Consult the opi for the cable path.</details>
         </pv>
         <pv name="Ctrl-freiaOlog:disk-root:dskPercent">
           <description>Ctrl-freiaArch1:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>true</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
