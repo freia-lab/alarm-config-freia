@@ -2801,6 +2801,7 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
           <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
+          <delay>30</delay>
           <automated_action>
             <title>Send SMS to KG</title>
             <details>mailto:0705933088@pixie.se</details>
