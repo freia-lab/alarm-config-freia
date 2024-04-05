@@ -2798,7 +2798,7 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       <component name="Communication">
         <pv name="HPRF-Esys:Ampl:sComStat">
           <description>HPRF-Esys:Ampl:sComStat</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>30</delay>
