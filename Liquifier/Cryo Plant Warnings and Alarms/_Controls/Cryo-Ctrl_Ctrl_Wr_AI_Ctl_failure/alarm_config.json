@@ -1,5 +1,7 @@
 {
   "user" : "konrad",
-  "host" : "freia-cons2.freia.local",
-  "description" : "Cryo-Ctrl:Ctrl:Wr_AI_Ctl_failure"
+  "host" : "nuc-07",
+  "description" : "Cryo-Ctrl:Ctrl:Wr_AI_Ctl_failure",
+  "latching" : false,
+  "annunciating" : false
 }
