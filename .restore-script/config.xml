@@ -2952,7 +2952,7 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </display>
       <pv name="IntlkF-cRio1:Intlk:sAlarm-1">
         <description>IntlkF-cRio1:Intlk:sAlarm-1</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <automated_action>
@@ -2973,7 +2973,7 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </pv>
       <pv name="IntlkF-cRio1:Intlk:sAlarm-2">
         <description>IntlkF-cRio1:Intlk:sAlarm-2</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <automated_action>

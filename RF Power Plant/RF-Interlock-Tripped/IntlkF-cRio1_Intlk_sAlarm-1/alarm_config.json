@@ -1,7 +1,8 @@
 {
-  "user" : "alarm",
-  "host" : "phoebus-srv",
+  "user" : "konrad",
+  "host" : "nuc-07",
   "description" : "IntlkF-cRio1:Intlk:sAlarm-1",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "actions" : [ {
