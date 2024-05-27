@@ -1,8 +1,7 @@
 {
-  "user" : "alarm",
-  "host" : "phoebus-srv",
+  "user" : "dev",
+  "host" : "nuc-04.freia.local",
   "description" : "RadProt-Bunker2:GD-02:sDoseRt",
-  "enabled" : false,
   "latching" : false,
   "annunciating" : false
 }
