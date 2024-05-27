@@ -1185,7 +1185,7 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </automated_action>
       <pv name="RadProt-Bunker1:GD-01:sDoseRt">
         <description>High dose at the door</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>

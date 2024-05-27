@@ -2,7 +2,6 @@
   "user" : "dev",
   "host" : "nuc-04.freia.local",
   "description" : "High dose at the door",
-  "enabled" : false,
   "latching" : false,
   "annunciating" : false
 }
