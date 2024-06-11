@@ -1,8 +1,7 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "nuc-11",
   "description" : "Cryo-Rec:LP:C4:sAlarm",
-  "enabled" : false,
   "latching" : false,
   "delay" : 60,
   "actions" : [ {
