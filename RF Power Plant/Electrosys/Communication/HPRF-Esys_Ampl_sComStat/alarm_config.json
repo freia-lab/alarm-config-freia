@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-11",
+  "host" : "nuc-07",
   "description" : "HPRF-Esys:Ampl:sComStat",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 30,
