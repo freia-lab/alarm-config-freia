@@ -2444,6 +2444,10 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>60</delay>
+          <display>
+            <title>Sauer compr. opi...</title>
+            <details>/opt/epics/opi/bob/sauer/orkan_top.bob</details>
+          </display>
           <automated_action>
             <title>mail to KG</title>
             <details>mailto:konrad.gajewski@physics.uu.se</details>
