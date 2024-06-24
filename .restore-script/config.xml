@@ -2465,6 +2465,33 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
             <delay>0</delay>
           </automated_action>
         </pv>
+        <pv name="Cryo-Rec:LP:C4:sAlarmsSum">
+          <description>Cryo-Rec:LP:C4:sAlarm</description>
+          <enabled>true</enabled>
+          <latching>false</latching>
+          <annunciating>true</annunciating>
+          <delay>60</delay>
+          <automated_action>
+            <title>mail to KG</title>
+            <details>mailto:konrad.gajewski@physics.uu.se</details>
+            <delay>0</delay>
+          </automated_action>
+          <automated_action>
+            <title>SMS RSK</title>
+            <details>mailto:0701679527@pixie.se</details>
+            <delay>0</delay>
+          </automated_action>
+          <automated_action>
+            <title>SMS CS</title>
+            <details>mailto:0730393656@pixie.se</details>
+            <delay>0</delay>
+          </automated_action>
+          <automated_action>
+            <title>SMS IP</title>
+            <details>mailto:0769223174@pixie.se</details>
+            <delay>0</delay>
+          </automated_action>
+        </pv>
         <pv name="Cryo-Rec:LP:GAHH7225">
           <description>LP Compressor alarm</description>
           <enabled>true</enabled>
