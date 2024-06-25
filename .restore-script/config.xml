@@ -2440,7 +2440,7 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       <component name="_Recovery">
         <pv name="Cryo-Rec:LP:C4:sAlarm">
           <description>Cryo-Rec:LP:C4:sAlarm</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>60</delay>
@@ -2471,7 +2471,7 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
         </pv>
         <pv name="Cryo-Rec:LP:C4:sAlarmsSum">
           <description>Cryo-Rec:LP:C4:sAlarm</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>60</delay>
@@ -2502,7 +2502,7 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
         </pv>
         <pv name="Cryo-Rec:LP:C4:sErrorsSum">
           <description>Cryo-Rec:LP:C4:sAlarm</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>60</delay>
