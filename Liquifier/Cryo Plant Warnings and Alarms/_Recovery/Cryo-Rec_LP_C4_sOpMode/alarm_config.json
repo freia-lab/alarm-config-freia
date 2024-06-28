@@ -1,0 +1,28 @@
+{
+  "user" : "konrad",
+  "host" : "nuc-07",
+  "description" : "Cryo-Rec:LP:C4:sAlarm",
+  "latching" : false,
+  "delay" : 60,
+  "displays" : [ {
+    "title" : "Sauer compr. opi...",
+    "details" : "/opt/epics/opi/bob/sauer/orkan_top.bob"
+  } ],
+  "actions" : [ {
+    "title" : "mail to KG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 0
+  }, {
+    "title" : "SMS RSK",
+    "details" : "mailto:0701679527@pixie.se",
+    "delay" : 0
+  }, {
+    "title" : "SMS CS",
+    "details" : "mailto:0730393656@pixie.se",
+    "delay" : 0
+  }, {
+    "title" : "SMS IP",
+    "details" : "mailto:0769223174@pixie.se",
+    "delay" : 0
+  } ]
+}
