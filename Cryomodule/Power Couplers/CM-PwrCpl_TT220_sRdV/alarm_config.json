@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-11",
+  "host" : "nuc-07",
   "description" : "CM-PwrCpl:TT220:sRdV",
+  "enabled" : false,
   "latching" : false,
   "delay" : 20
 }
