@@ -2,6 +2,7 @@
   "user" : "konrad",
   "host" : "nuc-07",
   "description" : "CM-VBox:TT60:sRdV",
+  "enabled" : false,
   "latching" : false,
   "actions" : [ {
     "title" : "SMS RS",

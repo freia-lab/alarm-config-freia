@@ -969,7 +969,7 @@ Update the time for the next reminder - press  "Register service" button in serv
     <component name="LN2 cooling">
       <pv name="CM-VBox:TT60:sRdV">
         <description>CM-VBox:TT60:sRdV</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <automated_action>
