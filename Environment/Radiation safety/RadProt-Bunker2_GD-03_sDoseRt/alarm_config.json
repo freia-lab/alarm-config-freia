@@ -2,7 +2,6 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "RadProt-Bunker2:GD-03:sDoseRt",
-  "enabled" : false,
   "latching" : false,
   "annunciating" : false
 }
