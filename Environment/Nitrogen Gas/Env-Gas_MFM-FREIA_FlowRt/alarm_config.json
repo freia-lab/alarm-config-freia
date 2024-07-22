@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "nuc-11",
   "description" : "Env-Gas:MFM-FREIA:FlowRt",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false
 }

@@ -1048,13 +1048,13 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </display>
       <pv name="Env-Gas:MFM-FREIA:FlowRt">
         <description>Env-Gas:MFM-FREIA:FlowRt</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="Env-Gas:MFM-Hus3:FlowRt">
         <description>Env-Gas:MFM-Hus3:FlowRt</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
