@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-04.freia.local",
+  "host" : "nuc-11",
   "description" : "RadProt-Bunker1:GD-03:sDoseRt",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false
 }
