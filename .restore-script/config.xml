@@ -1185,13 +1185,13 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </automated_action>
       <pv name="RadProt-Bunker1:GD-01:sDoseRt">
         <description>High dose at the door</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="RadProt-Bunker1:GD-02:sDoseRt">
         <description>High dose in the bunker</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <guidance>
@@ -1206,7 +1206,7 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </pv>
       <pv name="RadProt-Bunker1:GD-03:sDoseRt">
         <description>RadProt-Bunker1:GD-03:sDoseRt</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
