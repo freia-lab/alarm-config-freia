@@ -556,7 +556,7 @@ Consult the opi for the cable path.</details>
         <pv name="Ctrl-freiaOlog:Memory:AvailSwap">
           <description>Ctrl-freiaArch1:Memory:AvailSwap</description>
           <enabled>true</enabled>
-          <latching>true</latching>
+          <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
         </pv>
