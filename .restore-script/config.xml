@@ -549,7 +549,7 @@ Consult the opi for the cable path.</details>
         <pv name="Ctrl-freiaOlog:Cpu:Idle">
           <description>Ctrl-freiaArch1:Cpu:Idle</description>
           <enabled>true</enabled>
-          <latching>true</latching>
+          <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
         </pv>
