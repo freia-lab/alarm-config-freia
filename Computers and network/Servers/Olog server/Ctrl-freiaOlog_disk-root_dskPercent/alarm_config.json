@@ -2,6 +2,7 @@
   "user" : "konrad",
   "host" : "nuc-07",
   "description" : "Ctrl-freiaArch1:disk-root:dskPercent",
+  "latching" : false,
   "annunciating" : false,
   "delay" : 300
 }
