@@ -2,7 +2,6 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "Llab-OPA:getShutterStateOK",
-  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 30
