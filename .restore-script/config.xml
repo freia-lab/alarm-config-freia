@@ -1430,21 +1430,21 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </automated_action>
       <pv name="Llab-EPP:getStatusOK">
         <description>Llab-EPP:getStatusOK</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <delay>30</delay>
       </pv>
       <pv name="Llab-Laser:getBasicOK">
         <description>Llab-Laser:getBasicOK</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <delay>30</delay>
       </pv>
       <pv name="Llab-OPA:getShutterStateOK">
         <description>Llab-OPA:getShutterStateOK</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <delay>30</delay>
