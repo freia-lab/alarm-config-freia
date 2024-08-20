@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "freia-cons2.freia.local",
   "description" : "PI2170-ALARM",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "actions" : [ {
