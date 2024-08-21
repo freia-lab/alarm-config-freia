@@ -2857,7 +2857,7 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </pv>
       <pv name="PI2170-ALARM">
         <description>PI2170-ALARM</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <automated_action>
