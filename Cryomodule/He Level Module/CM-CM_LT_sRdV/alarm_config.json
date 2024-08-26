@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "nuc-11",
   "description" : "He Level Cryo Module",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "actions" : [ {
