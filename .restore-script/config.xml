@@ -213,14 +213,14 @@
         </pv>
         <pv name="Ctrl-oldpc02:Memory:AvailSwap">
           <description>Ctrl-arcApl1:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-oldpc02:disk-root:dskPercent">
           <description>Ctrl-arcApl1:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
