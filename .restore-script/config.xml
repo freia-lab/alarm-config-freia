@@ -206,7 +206,7 @@
       <component name="oldpc-02">
         <pv name="Ctrl-oldpc02:Cpu:Idle">
           <description>Ctrl-nuc07:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
