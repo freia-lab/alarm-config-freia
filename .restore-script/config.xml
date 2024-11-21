@@ -2869,6 +2869,36 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </pv>
     </component>
     <component name="Return He">
+      <pv name="Cryo-Rec:LP:QI7210">
+        <description>Cryo-Rec:LP:QI7210</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="Cryo-Rec:LP:QI7220">
+        <description>Cryo-Rec:LP:QI7220</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="Cryo-Rec:LP:QI7230">
+        <description>Cryo-Rec:LP:QI7230</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="Cryo-Rec:LP:QI7240">
+        <description>Cryo-Rec:LP:QI7240</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="Cryo-Rec:LP:QI7250">
+        <description>Cryo-Rec:LP:QI7250</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
     </component>
   </component>
   <component name="RF Power Plant">
