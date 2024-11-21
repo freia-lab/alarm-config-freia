@@ -1,4 +1,9 @@
 {
   "user" : "konrad",
-  "host" : "nuc-11"
+  "host" : "nuc-11",
+  "actions" : [ {
+    "title" : "SMS to EP",
+    "details" : "mailto:mailto:0729999371@pixie.se",
+    "delay" : 0
+  } ]
 }
