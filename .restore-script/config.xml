@@ -2741,6 +2741,12 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </pv>
     </component>
     <component name="HP Storage">
+      <pv name="Cryo-CBox:Pur:PI3404">
+        <description>Cryo-CBox:Pur:PI3404</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
     </component>
     <component name="Purifier">
       <automated_action>
