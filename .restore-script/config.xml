@@ -1849,8 +1849,6 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
-      <component name="HP Storage">
-      </component>
       <component name="_Cold Box">
         <pv name="Cryo-CBox:CBox:Tr033_Cb_SdCmprOff">
           <description>Cryo-CBox:CBox:Tr033_Cb_SdCmprOff</description>
@@ -2741,6 +2739,8 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
           <delay>600</delay>
         </automated_action>
       </pv>
+    </component>
+    <component name="HP Storage">
     </component>
     <component name="Purifier">
       <automated_action>
