@@ -2869,6 +2869,11 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </pv>
     </component>
     <component name="Return He">
+      <automated_action>
+        <title>SMS to EP</title>
+        <details>mailto:0729999371@pixie.se</details>
+        <delay>0</delay>
+      </automated_action>
       <pv name="Cryo-Rec:LP:QI7210">
         <description>Cryo-Rec:LP:QI7210</description>
         <enabled>true</enabled>
