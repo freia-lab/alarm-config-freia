@@ -2896,8 +2896,8 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       <pv name="Cryo-Rec:LP:QI7220">
         <description>Cryo-Rec:LP:QI7220</description>
         <enabled>true</enabled>
-        <latching>true</latching>
-        <annunciating>true</annunciating>
+        <latching>false</latching>
+        <annunciating>false</annunciating>
       </pv>
       <pv name="Cryo-Rec:LP:QI7230">
         <description>Cryo-Rec:LP:QI7230</description>
