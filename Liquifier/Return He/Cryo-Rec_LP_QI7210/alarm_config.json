@@ -1,5 +1,7 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "Cryo-Rec:LP:QI7210"
+  "description" : "Cryo-Rec:LP:QI7210",
+  "latching" : false,
+  "annunciating" : false
 }
