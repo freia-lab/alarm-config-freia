@@ -1,8 +1,7 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "nuc-11",
   "description" : "Env-CstatV:WtrPuddle:Alrm",
-  "enabled" : false,
   "guidance" : [ {
     "title" : "Water in Gersemi pit",
     "details" : "Check the water levels:\nEnv-CstatV:WtrPuddle:AI0\nEnv-CstatV:WtrPuddle:AI1\nEnv-CstatV:WtrPuddle:AI2\nand the local indicator.\nStart the pump."

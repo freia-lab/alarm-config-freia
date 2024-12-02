@@ -1003,7 +1003,7 @@ Update the time for the next reminder - press  "Register service" button in serv
       </automated_action>
       <pv name="Env-CstatV:WtrPuddle:Alrm">
         <description>Env-CstatV:WtrPuddle:Alrm</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>true</latching>
         <annunciating>true</annunciating>
         <guidance>
