@@ -1,5 +1,7 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "CstatH-Vac:PT020:PrsR"
+  "description" : "CstatH-Vac:PT020:PrsR",
+  "latching" : false,
+  "annunciating" : false
 }
