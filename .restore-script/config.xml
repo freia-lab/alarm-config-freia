@@ -1318,6 +1318,11 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       <delay>0</delay>
     </automated_action>
     <component name="Cavity Vacuum">
+      <automated_action>
+        <title>SMS to RSK</title>
+        <details>mailto:mailto:0701679527@pixie.se</details>
+        <delay>0</delay>
+      </automated_action>
       <pv name="CstatH-Vac:PT020:PrsR">
         <description>CstatH-Vac:PT020:PrsR</description>
         <enabled>true</enabled>
