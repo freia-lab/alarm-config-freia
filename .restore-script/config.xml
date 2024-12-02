@@ -1317,6 +1317,8 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       <details>sevrpv:Ctrl-Alarm:CstatH</details>
       <delay>0</delay>
     </automated_action>
+    <component name="Cavity Vacuum">
+    </component>
     <component name="Isolation Vacuum">
       <automated_action>
         <title>Alarm Severity PV</title>
