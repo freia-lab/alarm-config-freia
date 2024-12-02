@@ -1323,6 +1323,11 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
         <details>mailto:mailto:0701679527@pixie.se</details>
         <delay>0</delay>
       </automated_action>
+      <automated_action>
+        <title>SMS to CS</title>
+        <details>mailto:mailto:0730393656@pixie.se</details>
+        <delay>0</delay>
+      </automated_action>
       <pv name="CstatH-Vac:PT020:PrsR">
         <description>CstatH-Vac:PT020:PrsR</description>
         <enabled>true</enabled>
