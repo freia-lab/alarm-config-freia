@@ -1318,6 +1318,18 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       <delay>0</delay>
     </automated_action>
     <component name="Cavity Vacuum">
+      <pv name="CstatH-Vac:PT020:PrsR">
+        <description>CstatH-Vac:PT020:PrsR</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="CstatH-Vac:PT024:PrsR">
+        <description>CstatH-Vac:PT024:PrsR</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
     </component>
     <component name="Isolation Vacuum">
       <automated_action>
