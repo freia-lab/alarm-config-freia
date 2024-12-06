@@ -2,5 +2,6 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "CstatH-Vac:PT020:PrsR",
+  "enabled" : false,
   "annunciating" : false
 }

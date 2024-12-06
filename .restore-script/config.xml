@@ -1330,13 +1330,13 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </automated_action>
       <pv name="CstatH-Vac:PT020:PrsR">
         <description>CstatH-Vac:PT020:PrsR</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>true</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="CstatH-Vac:PT024:PrsR">
         <description>CstatH-Vac:PT024:PrsR</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>true</latching>
         <annunciating>false</annunciating>
       </pv>
