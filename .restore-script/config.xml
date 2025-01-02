@@ -3244,7 +3244,7 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       </pv>
       <pv name="HPRF-Esys:Ampl:sFault">
         <description>HPRF-Esys:Ampl:sFault</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>true</latching>
         <annunciating>true</annunciating>
         <automated_action>
