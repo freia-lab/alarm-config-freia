@@ -1,5 +1,6 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "Cryo-CBox:Pur:PI3404"
+  "description" : "Cryo-CBox:Pur:PI3404",
+  "latching" : false
 }
