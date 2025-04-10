@@ -392,6 +392,12 @@ Consult the opi for the cable path.</details>
           <latching>true</latching>
           <annunciating>true</annunciating>
         </pv>
+        <pv name="Ctrl-arcApl3:disk-data:dskPercent">
+          <description>Ctrl-arcApl3:disk-data:dskPercent</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
         <pv name="Ctrl-arcApl3:disk-root:diskPercent">
           <description>Ctrl-arcApl3:disk-root:dskPercent</description>
           <enabled>true</enabled>
