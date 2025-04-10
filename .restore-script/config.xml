@@ -402,8 +402,6 @@ Consult the opi for the cable path.</details>
           <annunciating>false</annunciating>
         </pv>
       </component>
-      <component name="Archive server (old, VM)">
-      </component>
       <component name="Archive server (short term, fast)">
         <pv name="Ctrl-oldpc01:Cpu:Idle">
           <description>Ctrl-arcApl1:Cpu:Idle</description>
