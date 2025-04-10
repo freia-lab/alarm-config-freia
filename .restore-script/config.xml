@@ -368,6 +368,18 @@ Consult the opi for the cable path.</details>
         </pv>
       </component>
       <component name="Archive server (main)">
+        <pv name="Ctrl-arcApl3:Cpu:Idle">
+          <description>Ctrl-arcApl3:Cpu:Idle</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
+        <pv name="Ctrl-arcApl3:Memory:AvailSwap">
+          <description>Ctrl-arcApl3:Memory:AvailSwap</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
       </component>
       <component name="Archive server (old)">
         <pv name="Ctrl-arcApl1:Cpu:Idle">
