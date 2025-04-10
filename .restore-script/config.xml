@@ -380,12 +380,6 @@ Consult the opi for the cable path.</details>
           <latching>true</latching>
           <annunciating>true</annunciating>
         </pv>
-        <pv name="Ctrl-arcApl3:disk-boot:diskPercent">
-          <description>Ctrl-arcApl3:disk-boot:dskPercent</description>
-          <enabled>true</enabled>
-          <latching>true</latching>
-          <annunciating>true</annunciating>
-        </pv>
         <pv name="Ctrl-arcApl3:disk-boot:dskPercent">
           <description>Ctrl-arcApl3:disk-boot:dskPercent</description>
           <enabled>true</enabled>
