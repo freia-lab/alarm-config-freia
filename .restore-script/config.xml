@@ -1097,8 +1097,8 @@ fix the problem.</details>
       <pv name="Env-Gas:MFM-Hus3:sAlive">
         <description>Env-Gas:MFM-Hus3:sAlive</description>
         <enabled>true</enabled>
-        <latching>true</latching>
-        <annunciating>true</annunciating>
+        <latching>false</latching>
+        <annunciating>false</annunciating>
       </pv>
     </component>
     <component name="Oxygen bunker1">
