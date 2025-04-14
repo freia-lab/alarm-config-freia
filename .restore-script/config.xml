@@ -1075,11 +1075,23 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
+      <pv name="Env-Gas:MFM-FREIA:sAlive">
+        <description>Env-Gas:MFM-FREIA:sAlive</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
       <pv name="Env-Gas:MFM-Hus3:FlowRt">
         <description>Env-Gas:MFM-Hus3:FlowRt</description>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
+      </pv>
+      <pv name="Env-Gas:MFM-Hus3:sAlive">
+        <description>Env-Gas:MFM-Hus3:sAlive</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
       </pv>
     </component>
     <component name="Oxygen bunker1">
