@@ -1,5 +1,11 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "Env-Gas:MFM-FREIA:sAlive"
+  "description" : "Env-Gas:MFM-FREIA:sAlive",
+  "latching" : false,
+  "annunciating" : false,
+  "guidance" : [ {
+    "title" : "When MAJOR error",
+    "details" : "Open Modbus gateway web interface http://192.168.10.38\nSelect any text entry field and press Enter without changing\nanything - this will make the gateway to reset and hopefully\nfix the problem."
+  } ]
 }

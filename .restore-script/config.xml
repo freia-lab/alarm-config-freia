@@ -1078,8 +1078,15 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
       <pv name="Env-Gas:MFM-FREIA:sAlive">
         <description>Env-Gas:MFM-FREIA:sAlive</description>
         <enabled>true</enabled>
-        <latching>true</latching>
-        <annunciating>true</annunciating>
+        <latching>false</latching>
+        <annunciating>false</annunciating>
+        <guidance>
+          <title>When MAJOR error</title>
+          <details>Open Modbus gateway web interface http://192.168.10.38
+Select any text entry field and press Enter without changing
+anything - this will make the gateway to reset and hopefully
+fix the problem.</details>
+        </guidance>
       </pv>
       <pv name="Env-Gas:MFM-Hus3:FlowRt">
         <description>Env-Gas:MFM-Hus3:FlowRt</description>
