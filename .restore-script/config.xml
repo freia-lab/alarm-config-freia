@@ -371,8 +371,8 @@ Consult the opi for the cable path.</details>
         <pv name="Ctrl-arcApl3:Cpu:Idle">
           <description>Ctrl-arcApl3:Cpu:Idle</description>
           <enabled>true</enabled>
-          <latching>true</latching>
-          <annunciating>true</annunciating>
+          <latching>false</latching>
+          <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl3:Memory:AvailSwap">
           <description>Ctrl-arcApl3:Memory:AvailSwap</description>
