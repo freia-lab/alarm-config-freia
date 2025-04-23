@@ -1,5 +1,7 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "Ctrl-arcApl3:disk-boot:dskPercent"
+  "description" : "Ctrl-arcApl3:disk-boot:dskPercent",
+  "latching" : false,
+  "annunciating" : false
 }
