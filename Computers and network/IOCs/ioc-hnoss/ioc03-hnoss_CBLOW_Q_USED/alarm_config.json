@@ -1,5 +1,7 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "ioc03-hnoss:CBLOW_Q_USED"
+  "description" : "ioc03-hnoss:CBLOW_Q_USED",
+  "latching" : false,
+  "annunciating" : false
 }
