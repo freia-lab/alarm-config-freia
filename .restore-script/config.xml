@@ -56,6 +56,12 @@
           <latching>true</latching>
           <annunciating>true</annunciating>
         </pv>
+        <pv name="ioc03-hnoss:CBLOW_Q_USED">
+          <description>ioc03-hnoss:CBLOW_Q_USED</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
       </component>
       <component name="ioc11-gersemi">
         <pv name="ioc11-gersemi:CBLOW_Q_HIGH">
