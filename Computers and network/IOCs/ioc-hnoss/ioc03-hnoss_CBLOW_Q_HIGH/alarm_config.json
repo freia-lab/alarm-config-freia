@@ -1,5 +1,14 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "ioc03-hnoss:CBLOW_Q_HIGH"
+  "description" : "ioc03-hnoss:CBLOW_Q_HIGH",
+  "guidance" : [ {
+    "title" : "Empty the queue",
+    "details" : "Close Phoebus windows/tabs on all connected clients until ioc03-hnoss:CBLOW_Q_USED starts to decrease."
+  } ],
+  "actions" : [ {
+    "title" : "SMS_KG",
+    "details" : "mailto:0701679193@pixie.se",
+    "delay" : 0
+  } ]
 }

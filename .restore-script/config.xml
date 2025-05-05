@@ -55,6 +55,15 @@
           <enabled>true</enabled>
           <latching>true</latching>
           <annunciating>true</annunciating>
+          <guidance>
+            <title>Empty the queue</title>
+            <details>Close Phoebus windows/tabs on all connected clients until ioc03-hnoss:CBLOW_Q_USED starts to decrease.</details>
+          </guidance>
+          <automated_action>
+            <title>SMS_KG</title>
+            <details>mailto:0701679193@pixie.se</details>
+            <delay>0</delay>
+          </automated_action>
         </pv>
         <pv name="ioc03-hnoss:CBLOW_Q_USED">
           <description>ioc03-hnoss:CBLOW_Q_USED</description>
