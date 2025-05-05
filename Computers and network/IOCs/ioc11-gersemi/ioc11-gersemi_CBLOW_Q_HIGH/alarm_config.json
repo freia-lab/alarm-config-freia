@@ -1,9 +1,13 @@
 {
   "user" : "konrad",
-  "host" : "freia-cons2.freia.local",
+  "host" : "nuc-11",
   "description" : "ioc11-gersemi:CBLOW_Q_HIGH",
   "latching" : false,
   "delay" : 60,
+  "guidance" : [ {
+    "title" : "Empty the queue",
+    "details" : "Close Phoebus windows/tabs on all connected clients until ioc11-gersemi:CBLOW_Q_USED starts to decrease."
+  } ],
   "actions" : [ {
     "title" : "SMS_KG",
     "details" : "mailto:0701679193@pixie.se",

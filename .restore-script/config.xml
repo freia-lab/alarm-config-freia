@@ -79,6 +79,10 @@
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>60</delay>
+          <guidance>
+            <title>Empty the queue</title>
+            <details>Close Phoebus windows/tabs on all connected clients until ioc11-gersemi:CBLOW_Q_USED starts to decrease.</details>
+          </guidance>
           <automated_action>
             <title>SMS_KG</title>
             <details>mailto:0701679193@pixie.se</details>
