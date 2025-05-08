@@ -53,7 +53,7 @@
         <pv name="ioc03-hnoss:CBLOW_Q_HIGH">
           <description>ioc03-hnoss:CBLOW_Q_HIGH</description>
           <enabled>true</enabled>
-          <latching>true</latching>
+          <latching>false</latching>
           <annunciating>true</annunciating>
           <guidance>
             <title>Empty the queue</title>

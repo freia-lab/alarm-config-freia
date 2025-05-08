@@ -2,6 +2,7 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "ioc03-hnoss:CBLOW_Q_HIGH",
+  "latching" : false,
   "guidance" : [ {
     "title" : "Empty the queue",
     "details" : "Close Phoebus windows/tabs on all connected clients until ioc03-hnoss:CBLOW_Q_USED starts to decrease."
