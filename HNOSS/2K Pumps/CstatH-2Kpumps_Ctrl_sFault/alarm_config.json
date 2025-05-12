@@ -1,5 +1,12 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "CstatH-2Kpumps:Ctrl:sFault"
+  "description" : "CstatH-2Kpumps:Ctrl:sFault",
+  "latching" : false,
+  "annunciating" : false,
+  "actions" : [ {
+    "title" : "SMS_CS",
+    "details" : "mailto:mailto:0730393656@pixie.se",
+    "delay" : 0
+  } ]
 }
