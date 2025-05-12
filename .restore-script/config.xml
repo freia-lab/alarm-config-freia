@@ -1449,7 +1449,7 @@ fix the problem.</details>
         <annunciating>false</annunciating>
         <automated_action>
           <title>SMS_CS</title>
-          <details>mailto:mailto:0730393656@pixie.se</details>
+          <details>mailto:0730393656@pixie.se</details>
           <delay>0</delay>
         </automated_action>
         <automated_action>
