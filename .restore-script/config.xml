@@ -1442,6 +1442,12 @@ fix the problem.</details>
         <details>sevrpv:Ctrl-Alarm:CstatH-2KPumps</details>
         <delay>0</delay>
       </automated_action>
+      <pv name="CstatH-2Kpumps:Ctrl:sFault">
+        <description>CstatH-2Kpumps:Ctrl:sFault</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
       <pv name="CstatH-2Kpumps:Ctrl:sPBcomOK">
         <description>CstatH-2Kpumps:Ctrl:sPBcomOK</description>
         <enabled>true</enabled>
