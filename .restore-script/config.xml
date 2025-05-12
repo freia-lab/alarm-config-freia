@@ -1452,6 +1452,11 @@ fix the problem.</details>
           <details>mailto:mailto:0730393656@pixie.se</details>
           <delay>0</delay>
         </automated_action>
+        <automated_action>
+          <title>mail KG</title>
+          <details>mailto:konrad.gajewski@physics.uu.se</details>
+          <delay>0</delay>
+        </automated_action>
       </pv>
       <pv name="CstatH-2Kpumps:Ctrl:sPBcomOK">
         <description>CstatH-2Kpumps:Ctrl:sPBcomOK</description>
