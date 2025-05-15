@@ -2999,11 +2999,6 @@ fix the problem.</details>
     </component>
     <component name="Return He">
       <automated_action>
-        <title>SMS to EP</title>
-        <details>mailto:0729999371@pixie.se</details>
-        <delay>0</delay>
-      </automated_action>
-      <automated_action>
         <title>KG</title>
         <details>mailto:konrad.gajewski@physics.uu.se</details>
         <delay>60</delay>
