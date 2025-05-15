@@ -3008,6 +3008,11 @@ fix the problem.</details>
         <details>mailto:konrad.gajewski@physics.uu.se</details>
         <delay>60</delay>
       </automated_action>
+      <automated_action>
+        <title>EP SMS</title>
+        <details>mailto:0729999371@pixie.se</details>
+        <delay>300</delay>
+      </automated_action>
       <pv name="Cryo-Rec:LP:QI7210">
         <description>Cryo-Rec:LP:QI7210</description>
         <enabled>true</enabled>

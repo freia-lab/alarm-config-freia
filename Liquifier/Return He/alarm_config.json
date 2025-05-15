@@ -9,5 +9,9 @@
     "title" : "KG",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
     "delay" : 60
+  }, {
+    "title" : "EP SMS",
+    "details" : "mailto:0729999371@pixie.se",
+    "delay" : 300
   } ]
 }
