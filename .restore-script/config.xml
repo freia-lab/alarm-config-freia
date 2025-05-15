@@ -2859,8 +2859,8 @@ fix the problem.</details>
     <component name="HP Storage">
       <automated_action>
         <title>SMS to EP</title>
-        <details>mailto:mailto:0729999371@pixie.se</details>
-        <delay>0</delay>
+        <details>mailto:0729999371@pixie.se</details>
+        <delay>300</delay>
       </automated_action>
       <pv name="Cryo-CBox:Pur:PI3404">
         <description>Cryo-CBox:Pur:PI3404</description>
