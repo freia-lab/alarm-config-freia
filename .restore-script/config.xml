@@ -1101,6 +1101,7 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
+        <delay>60</delay>
       </pv>
       <pv name="Env-Gas:MFM-FREIA:sAlive">
         <description>Env-Gas:MFM-FREIA:sAlive</description>
