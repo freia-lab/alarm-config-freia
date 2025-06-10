@@ -3,5 +3,6 @@
   "host" : "nuc-11",
   "description" : "Env-Gas:MFM-Hus3:FlowRt",
   "latching" : false,
-  "annunciating" : false
+  "annunciating" : false,
+  "delay" : 60
 }
