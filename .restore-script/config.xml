@@ -1129,6 +1129,7 @@ fix the problem.</details>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
+        <delay>60</delay>
       </pv>
     </component>
     <component name="Oxygen bunker1">
