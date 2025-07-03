@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "nuc-11",
   "description" : "Env-RFleakage:RFdet-0:RFPEAK2",
+  "enabled" : false,
   "latching" : false,
   "delay" : 60
 }

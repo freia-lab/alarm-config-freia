@@ -1197,7 +1197,7 @@ fix the problem.</details>
       </pv>
       <pv name="Env-RFleakage:RFdet-0:RFPEAK2">
         <description>Env-RFleakage:RFdet-0:RFPEAK2</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <delay>60</delay>
