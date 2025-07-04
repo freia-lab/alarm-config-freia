@@ -10,7 +10,7 @@
     "details" : "/opt/epics/opi/bob/N2_flowmeters/N2-flowmeters.bob"
   } ],
   "actions" : [ {
-    "title" : "mail to KG",
+    "title" : "mail_to KG",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
     "delay" : 15
   } ]
