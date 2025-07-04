@@ -1096,11 +1096,6 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
         <details>/opt/epics/opi/bob/N2_flowmeters/N2-flowmeters.bob</details>
       </display>
       <automated_action>
-        <title>mail_to KG</title>
-        <details>mailto:konrad.gajewski@physics.uu.se</details>
-        <delay>15</delay>
-      </automated_action>
-      <automated_action>
         <title>mail_to_KG</title>
         <details>mailto:konrad.gajewski@physics.uu.se</details>
         <delay>300</delay>
