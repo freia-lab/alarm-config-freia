@@ -1100,6 +1100,11 @@ For the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 </details>
         <details>mailto:konrad.gajewski@physics.uu.se</details>
         <delay>15</delay>
       </automated_action>
+      <automated_action>
+        <title>mail_to_KG</title>
+        <details>mailto:konrad.gajewski@physics.uu.se</details>
+        <delay>300</delay>
+      </automated_action>
       <pv name="Env-Gas:MFM-FREIA:FlowRt">
         <description>Env-Gas:MFM-FREIA:FlowRt</description>
         <enabled>true</enabled>

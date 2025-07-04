@@ -13,5 +13,9 @@
     "title" : "mail_to KG",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
     "delay" : 15
+  }, {
+    "title" : "mail_to_KG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 300
   } ]
 }
