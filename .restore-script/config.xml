@@ -72,6 +72,30 @@
           <annunciating>false</annunciating>
         </pv>
       </component>
+      <pv name="ioc01-dpu:SYS_CPU_LOAD">
+        <description>ioc01-dpu:SYS_CPU_LOAD</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="ioc01-vat616:SYS_CPU_LOAD">
+        <description>ioc01-vat616:SYS_CPU_LOAD</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="ioc02-dpu3:SYS_CPU_LOAD">
+        <description>ioc02-dpu3:SYS_CPU_LOAD</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="ioc03-hnoss:SYS_CPU_LOAD">
+        <description>ioc03-hnoss:SYS_CPU_LOAD</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
       <component name="ioc11-gersemi">
         <pv name="ioc11-gersemi:CBLOW_Q_HIGH">
           <description>ioc11-gersemi:CBLOW_Q_HIGH</description>
@@ -102,6 +126,18 @@
           </automated_action>
         </pv>
       </component>
+      <pv name="ioc18-hevol:SYS_CPU_LOAD">
+        <description>ioc18-hevol:SYS_CPU_LOAD</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="ioc24-hmp:SYS_CPU_LOAD">
+        <description>ioc24-hmp:SYS_CPU_LOAD</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
     </component>
     <component name="Network">
       <automated_action>
