@@ -135,8 +135,8 @@
       <pv name="ioc24-hmp:SYS_CPU_LOAD">
         <description>ioc24-hmp:SYS_CPU_LOAD</description>
         <enabled>true</enabled>
-        <latching>true</latching>
-        <annunciating>true</annunciating>
+        <latching>false</latching>
+        <annunciating>false</annunciating>
       </pv>
     </component>
     <component name="Network">
