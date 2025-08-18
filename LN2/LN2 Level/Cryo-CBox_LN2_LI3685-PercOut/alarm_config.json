@@ -1,6 +1,6 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "nuc-11",
   "description" : "LN2 level, Air Liquide:      040381280",
   "latching" : false,
   "annunciating" : false,
@@ -10,10 +10,6 @@
     "details" : "040381280"
   } ],
   "actions" : [ {
-    "title" : "Mail KF",
-    "details" : "mailto:kjell.fransson@physics.uu.se",
-    "delay" : 300
-  }, {
     "title" : "SMS EP",
     "details" : "mailto:0729999371@pixie.se",
     "delay" : 300
