@@ -1,13 +1,13 @@
 {
   "user" : "konrad",
-  "host" : "nuc-04.freia.local",
+  "host" : "nuc-11",
   "displays" : [ {
     "title" : "Open opi...",
     "details" : "/opt/epics/opi/bob/radprot-freia/radprot_top.bob"
   } ],
   "actions" : [ {
-    "title" : "MailKF",
-    "details" : "mailto:kjell.fransson@physics.uu.se",
+    "title" : "MailKG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
     "delay" : 180
   }, {
     "title" : "Alarm Severity PV",

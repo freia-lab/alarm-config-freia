@@ -1282,8 +1282,8 @@ fix the problem.</details>
         <details>/opt/epics/opi/bob/radprot-freia/radprot_top.bob</details>
       </display>
       <automated_action>
-        <title>MailKF</title>
-        <details>mailto:kjell.fransson@physics.uu.se</details>
+        <title>MailKG</title>
+        <details>mailto:konrad.gajewski@physics.uu.se</details>
         <delay>180</delay>
       </automated_action>
       <automated_action>
