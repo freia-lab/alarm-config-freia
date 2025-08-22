@@ -2,6 +2,7 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "Env-Gas:MFM-Hus3:FlowRt",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 60,
