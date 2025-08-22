@@ -4,5 +4,6 @@
   "description" : "Env-Gas:MFM-Hus3:FlowRt",
   "latching" : false,
   "annunciating" : false,
-  "delay" : 60
+  "delay" : 60,
+  "count" : 2
 }

@@ -1163,6 +1163,7 @@ fix the problem.</details>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <delay>60</delay>
+        <count>2</count>
       </pv>
       <pv name="Env-Gas:MFM-Hus3:sAlive">
         <description>Env-Gas:MFM-Hus3:sAlive</description>
