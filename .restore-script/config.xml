@@ -1287,6 +1287,11 @@ fix the problem.</details>
         <details>sevrpv:Ctrl-Alarm:Env-Radiation</details>
         <delay>0</delay>
       </automated_action>
+      <automated_action>
+        <title>MailKG</title>
+        <details></details>
+        <delay>0</delay>
+      </automated_action>
       <pv name="RadProt-Bunker1:GD-01:sDoseRt">
         <description>High dose at the door</description>
         <enabled>true</enabled>

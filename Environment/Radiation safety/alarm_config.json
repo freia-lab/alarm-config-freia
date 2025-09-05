@@ -1,6 +1,6 @@
 {
   "user" : "konrad",
-  "host" : "nuc-11",
+  "host" : "nuc-14",
   "displays" : [ {
     "title" : "Open opi...",
     "details" : "/opt/epics/opi/bob/radprot-freia/radprot_top.bob"
@@ -8,6 +8,10 @@
   "actions" : [ {
     "title" : "Alarm Severity PV",
     "details" : "sevrpv:Ctrl-Alarm:Env-Radiation",
+    "delay" : 0
+  }, {
+    "title" : "MailKG",
+    "details" : "",
     "delay" : 0
   } ]
 }
