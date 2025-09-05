@@ -9,9 +9,5 @@
     "title" : "Alarm Severity PV",
     "details" : "sevrpv:Ctrl-Alarm:Env-Radiation",
     "delay" : 0
-  }, {
-    "title" : "MailKG",
-    "details" : "mailto:konrad.gajewski@physics.uu.se",
-    "delay" : 180
   } ]
 }
