@@ -1,8 +1,8 @@
 {
-  "user" : "konrgaje",
-  "host" : "FREIA-CONS4",
+  "user" : "konrad",
+  "host" : "nuc-11",
   "description" : "InterVLAN communication",
-  "enabled" : "2025-09-12T13:36:00",
+  "enabled" : "2025-09-12T13:48:48.301223873",
   "latching" : false,
   "annunciating" : false
 }
