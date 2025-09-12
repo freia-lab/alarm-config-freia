@@ -1,8 +1,7 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-11",
+  "user" : "alarm",
+  "host" : "phoebus-srv",
   "description" : "InterVLAN communication",
-  "enabled" : "2025-09-12T13:48:48.301223873",
   "latching" : false,
   "annunciating" : false
 }
