@@ -2,7 +2,7 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "High dose in the bunker",
-  "enabled" : false,
+  "enabled" : "2025-10-16T15:56:00",
   "latching" : false,
   "guidance" : [ {
     "title" : "Guide, Guide",
