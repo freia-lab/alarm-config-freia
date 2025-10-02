@@ -1300,7 +1300,7 @@ fix the problem.</details>
       </pv>
       <pv name="RadProt-Bunker1:GD-02:sDoseRt">
         <description>High dose in the bunker</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <guidance>

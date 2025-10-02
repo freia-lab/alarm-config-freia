@@ -2,6 +2,7 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "High dose in the bunker",
+  "enabled" : false,
   "latching" : false,
   "guidance" : [ {
     "title" : "Guide, Guide",
