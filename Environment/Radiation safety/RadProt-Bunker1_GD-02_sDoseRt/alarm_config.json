@@ -2,15 +2,9 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "High dose in the bunker",
-  "enabled" : "2025-10-16T15:56:00",
   "latching" : false,
   "guidance" : [ {
     "title" : "Guide, Guide",
     "details" : "Text Text"
-  } ],
-  "actions" : [ {
-    "title" : "Mail KF",
-    "details" : "mailto:kjell.fransson@physics.uu.se",
-    "delay" : 600
   } ]
 }

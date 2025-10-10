@@ -1300,18 +1300,13 @@ fix the problem.</details>
       </pv>
       <pv name="RadProt-Bunker1:GD-02:sDoseRt">
         <description>High dose in the bunker</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <guidance>
           <title>Guide, Guide</title>
           <details>Text Text</details>
         </guidance>
-        <automated_action>
-          <title>Mail KF</title>
-          <details>mailto:kjell.fransson@physics.uu.se</details>
-          <delay>600</delay>
-        </automated_action>
       </pv>
       <pv name="RadProt-Bunker1:GD-03:sDoseRt">
         <description>RadProt-Bunker1:GD-03:sDoseRt</description>
