@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "nuc-11",
   "description" : "Gasbag venting trip",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 180,
