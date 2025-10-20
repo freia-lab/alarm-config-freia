@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "nuc-11",
   "description" : "ioc24-hmp:SYS_CPU_LOAD",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false
 }
