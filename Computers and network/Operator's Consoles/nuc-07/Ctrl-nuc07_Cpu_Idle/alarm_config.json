@@ -1,7 +1,8 @@
 {
-  "user" : "alarm",
-  "host" : "phoebus-srv",
+  "user" : "konrad",
+  "host" : "nuc-11",
   "description" : "Ctrl-nuc07:Cpu:Idle",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 3600
