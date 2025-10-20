@@ -1,7 +1,8 @@
 {
-  "user" : "alarm",
-  "host" : "phoebus-srv",
+  "user" : "konrad",
+  "host" : "nuc-11",
   "description" : "Ctrl-freiaSrv2:disk-boot_efi:dskPercent",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 60
