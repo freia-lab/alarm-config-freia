@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "nuc-11",
   "description" : "ioc03-hnoss:SYS_CPU_LOAD",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false
 }
