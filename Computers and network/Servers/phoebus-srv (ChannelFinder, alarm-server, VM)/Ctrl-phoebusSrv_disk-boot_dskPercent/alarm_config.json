@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "nuc-11",
   "description" : "Ctrl-phoebusSrv:disk-boot:dskPercent",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 60
