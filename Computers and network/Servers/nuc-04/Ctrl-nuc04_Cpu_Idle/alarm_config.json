@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "freia-cons2.freia.local",
+  "host" : "nuc-11",
   "description" : "Ctrl-nuc04:Cpu:Idle",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 60
