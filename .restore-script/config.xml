@@ -485,6 +485,18 @@ Consult the opi for the cable path.</details>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
+        <pv name="Ctrl-arcApl3:engine-Heap:UsedPerc">
+          <description>Ctrl-arcApl3:engine-Heap:UsedPerc</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
+        <pv name="Ctrl-arcApl3:etl-Heap:UsedPerc">
+          <description>Ctrl-arcApl3:etl-Heap:UsedPerc</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
       </component>
       <component name="Archive server (new, VM)">
       </component>
