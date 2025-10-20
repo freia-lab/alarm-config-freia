@@ -1,6 +1,7 @@
 {
-  "user" : "alarm",
-  "host" : "phoebus-srv",
+  "user" : "konrad",
+  "host" : "nuc-11",
   "description" : "Ctrl-freiaCons2:Cpu:Idle",
+  "enabled" : false,
   "latching" : false
 }
