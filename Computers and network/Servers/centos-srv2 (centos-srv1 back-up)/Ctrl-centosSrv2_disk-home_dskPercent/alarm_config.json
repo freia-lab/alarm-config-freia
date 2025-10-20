@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "oldpc-02",
+  "host" : "nuc-11",
   "description" : "Ctrl-centosSrv2:disk-home:dskPercent",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 60
