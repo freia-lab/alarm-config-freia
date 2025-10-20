@@ -1,5 +1,7 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "Ctrl-arcApl3:etl-Heap:UsedPerc"
+  "description" : "Ctrl-arcApl3:etl-Heap:UsedPerc",
+  "latching" : false,
+  "annunciating" : false
 }
