@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "oldpc-02",
+  "host" : "nuc-11",
   "description" : "Ctrl-arcApl2:disk-root:dskPercent",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false
 }
