@@ -2,6 +2,7 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "ioc03-hnoss:CBLOW_Q_USED",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false
 }
