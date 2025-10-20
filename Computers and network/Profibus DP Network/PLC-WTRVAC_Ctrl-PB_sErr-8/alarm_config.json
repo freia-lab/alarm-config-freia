@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "oldpc-02",
+  "host" : "nuc-11",
   "description" : "PLC-WTRVAC:Ctrl-PB:sErr-8",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false
 }
