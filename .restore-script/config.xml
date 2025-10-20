@@ -453,12 +453,6 @@ Consult the opi for the cable path.</details>
           <latching>true</latching>
           <annunciating>true</annunciating>
         </pv>
-        <pv name="Ctrl-arcApl2:tomcat-Heap:UsedPerc">
-          <description>Ctrl-arcApl2:tomcat-Heap:UsedPerc</description>
-          <enabled>true</enabled>
-          <latching>true</latching>
-          <annunciating>true</annunciating>
-        </pv>
       </component>
       <component name="Archive server (main)">
         <pv name="Ctrl-arcApl3:Cpu:Idle">
