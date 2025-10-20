@@ -2,6 +2,7 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "Ctrl-arcApl2:retrieval-Heap:UsedPerc",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false
 }
