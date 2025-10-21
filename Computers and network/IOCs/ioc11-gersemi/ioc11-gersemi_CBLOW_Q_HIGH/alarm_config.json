@@ -2,7 +2,6 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "ioc11-gersemi:CBLOW_Q_HIGH",
-  "enabled" : false,
   "latching" : false,
   "delay" : 60,
   "guidance" : [ {
