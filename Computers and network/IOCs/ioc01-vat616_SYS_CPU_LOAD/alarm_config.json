@@ -2,7 +2,6 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "ioc01-vat616:SYS_CPU_LOAD",
-  "enabled" : false,
   "latching" : false,
   "annunciating" : false
 }
