@@ -2,7 +2,6 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "Ctrl-phoebusSrv:disk-root:dskPercent",
-  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 60
