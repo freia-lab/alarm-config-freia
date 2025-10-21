@@ -850,7 +850,7 @@ Consult the opi for the cable path.</details>
         </pv>
         <pv name="Ctrl-nuc04:disk-root:dskPercent">
           <description>Ctrl-nuc04:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
@@ -863,7 +863,7 @@ Consult the opi for the cable path.</details>
       <component name="phoebus-srv (ChannelFinder, alarm-server, VM)">
         <pv name="Ctrl-Alarm:PasswToken:sWarnService">
           <description>Ctrl-Alarm:PasswToken:sWarnService</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <guidance>
@@ -889,35 +889,35 @@ Update the time for the next reminder - press  "Register service" button in serv
         </pv>
         <pv name="Ctrl-phoebusSrv:Cpu:Idle">
           <description>Ctrl-phoebusSrv:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-phoebusSrv:Memory:AvailSwap">
           <description>Ctrl-phoebusSrv:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-phoebusSrv:disk-boot:dskPercent">
           <description>Ctrl-phoebusSrv:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-phoebusSrv:disk-home:dskPercent">
           <description>Ctrl-phoebusSrv:disk-home:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-phoebusSrv:disk-root:dskPercent">
           <description>Ctrl-phoebusSrv:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
@@ -926,21 +926,21 @@ Update the time for the next reminder - press  "Register service" button in serv
       <component name="vsrv01 (PowerSpy)">
         <pv name="Ctrl-vsrv01:Cpu:Idle">
           <description>Ctrl-freia:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-vsrv01:Memory:AvailSwap">
           <description>Ctrl-freia:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-vsrv01:disk-root:dskPercent">
           <description>Ctrl-freia:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
