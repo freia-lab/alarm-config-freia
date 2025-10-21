@@ -30,21 +30,21 @@
       </pv>
       <pv name="Ctrl-nuc03:disk-var:dskPercent">
         <description>Ctrl-nuc03:disk-var:dskPercent</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <delay>60</delay>
       </pv>
       <pv name="Ctrl-nuc05:disk-var:dskPercent">
         <description>Ctrl-nuc05:disk-var:dskPercent</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <delay>60</delay>
       </pv>
       <pv name="Ctrl-nuc08:disk-var:dskPercent">
         <description>Ctrl-nuc08:disk-var:dskPercent</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <delay>60</delay>
@@ -52,7 +52,7 @@
       <component name="ioc-hnoss">
         <pv name="ioc03-hnoss:CBLOW_Q_HIGH">
           <description>ioc03-hnoss:CBLOW_Q_HIGH</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <guidance>
@@ -67,39 +67,39 @@
         </pv>
         <pv name="ioc03-hnoss:CBLOW_Q_USED">
           <description>ioc03-hnoss:CBLOW_Q_USED</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
       </component>
       <pv name="ioc01-dpu:SYS_CPU_LOAD">
         <description>ioc01-dpu:SYS_CPU_LOAD</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="ioc01-vat616:SYS_CPU_LOAD">
         <description>ioc01-vat616:SYS_CPU_LOAD</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="ioc02-dpu3:SYS_CPU_LOAD">
         <description>ioc02-dpu3:SYS_CPU_LOAD</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="ioc03-hnoss:SYS_CPU_LOAD">
         <description>ioc03-hnoss:SYS_CPU_LOAD</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <component name="ioc11-gersemi">
         <pv name="ioc11-gersemi:CBLOW_Q_HIGH">
           <description>ioc11-gersemi:CBLOW_Q_HIGH</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>60</delay>
@@ -115,7 +115,7 @@
         </pv>
         <pv name="ioc11-gersemi:CBLOW_Q_USED">
           <description>ioc11-gersemi:CBLOW_Q_USED</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
@@ -128,13 +128,13 @@
       </component>
       <pv name="ioc18-hevol:SYS_CPU_LOAD">
         <description>ioc18-hevol:SYS_CPU_LOAD</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="ioc24-hmp:SYS_CPU_LOAD">
         <description>ioc24-hmp:SYS_CPU_LOAD</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
@@ -147,7 +147,7 @@
       </automated_action>
       <pv name="Ctrl-Alarm:Network:InterVLANcomm">
         <description>InterVLAN communication</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
@@ -166,28 +166,28 @@
       <component name="centos7-DM (VM)">
         <pv name="Ctrl-centos7DM:Cpu:Idle">
           <description>Ctrl-centos7-DM:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-centos7DM:Memory:AvailSwap">
           <description>Ctrl-centos7-DM:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-centos7DM:disk-boot:dskPercent">
           <description>Ctrl-centos7-DM:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-centos7DM:disk-root:dskPercent">
           <description>Ctrl-centos7DM:disk-home:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
@@ -196,34 +196,34 @@
       <component name="freia-cons2">
         <pv name="Ctrl-freiaCons2:Cpu:Idle">
           <description>Ctrl-freiaCons2:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
         </pv>
         <pv name="Ctrl-freiaCons2:Memory:AvailSwap">
           <description>Ctrl-freiaCons2:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-freiaCons2:disk-boot:dskPercent">
           <description>Ctrl-freiaCons2:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-freiaCons2:disk-home:dskPercent">
           <description>Ctrl-freiaCons2:disk-home:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-freiaCons2:disk-root:dskPercent">
           <description>Ctrl-freiaCons2disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
@@ -232,35 +232,35 @@
       <component name="nuc-07">
         <pv name="Ctrl-nuc07:Cpu:Idle">
           <description>Ctrl-nuc07:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>3600</delay>
         </pv>
         <pv name="Ctrl-nuc07:Memory:AvailSwap">
           <description>Ctrl-nuc07:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-nuc07:disk-boot:dskPercent">
           <description>Ctrl-nuc07:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-nuc07:disk-home:dskPercent">
           <description>Ctrl-nuc07:disk-home:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-nuc07:disk-root:dskPercent">
           <description>Ctrl-nuc07:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
@@ -269,21 +269,21 @@
       <component name="oldpc-02">
         <pv name="Ctrl-oldpc02:Cpu:Idle">
           <description>Ctrl-nuc07:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-oldpc02:Memory:AvailSwap">
           <description>Ctrl-arcApl1:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-oldpc02:disk-root:dskPercent">
           <description>Ctrl-arcApl1:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
@@ -292,35 +292,35 @@
       <component name="oldpc-04 ">
         <pv name="Ctrl-oldpc04:Cpu:Idle">
           <description>Ctrl-oldpc04:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-oldpc04:Memory:AvailSwap">
           <description>Ctrl-oldpc04:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-oldpc04:disk-boot:dskPercent">
           <description>Ctrl-oldpc04:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-oldpc04:disk-home:dskPercent">
           <description>Ctrl-oldpc04:disk-home:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-oldpc04:disk-root:dskPercent">
           <description>Ctrl-oldpc04:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
@@ -340,7 +340,7 @@
       </automated_action>
       <pv name="PLC-WTRVAC:Ctrl-PB:sErr-3">
         <description>PLC-WTRVAC:Ctrl-PB:sErr-3</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <guidance>
@@ -352,37 +352,37 @@ Consult the opi for the cable path.</details>
       </pv>
       <pv name="PLC-WTRVAC:Ctrl-PB:sErr-4">
         <description>PLC-WTRVAC:Ctrl-PB:sErr-4</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="PLC-WTRVAC:Ctrl-PB:sErr-5">
         <description>PLC-WTRVAC:Ctrl-PB:sErr-5</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="PLC-WTRVAC:Ctrl-PB:sErr-6">
         <description>PLC-WTRVAC:Ctrl-PB:sErr-6</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="PLC-WTRVAC:Ctrl-PB:sErr-7">
         <description>PLC-WTRVAC:Ctrl-PB:sErr-7</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="PLC-WTRVAC:Ctrl-PB:sErr-8">
         <description>PLC-WTRVAC:Ctrl-PB:sErr-8</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="PLC-WTRVAC:Ctrl-PB:sErr-9">
         <description>PLC-WTRVAC:Ctrl-PB:sErr-9</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
@@ -401,55 +401,55 @@ Consult the opi for the cable path.</details>
       <component name="Archive server (backup, VM)">
         <pv name="Ctrl-arcApl2:Cpu:Idle">
           <description>Ctrl-arcApl2:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:Memory:AvailSwap">
           <description>Ctrl-arcApl2:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:disk-boot:dskPercent">
           <description>Ctrl-arcApl2:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:disk-home:dskPercent">
           <description>Ctrl-arcApl2:disk-home:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:disk-root:dskPercent">
           <description>Ctrl-arcApl2:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:engine-Heap:UsedPerc">
           <description>Ctrl-arcApl2:engine-Heap:UsedPerc</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:etl-Heap:UsedPerc">
           <description>Ctrl-arcApl2:etl-Heap:UsedPerc</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:mgmt-Heap:UsedPerc">
           <description>Ctrl-arcApl2:mgmt-Heap:UsedPerc</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:retrieval-Heap:UsedPerc">
           <description>Ctrl-arcApl2:retrieval-Heap:UsedPerc</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
@@ -457,25 +457,25 @@ Consult the opi for the cable path.</details>
       <component name="Archive server (main)">
         <pv name="Ctrl-arcApl3:Cpu:Idle">
           <description>Ctrl-arcApl3:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl3:Memory:AvailSwap">
           <description>Ctrl-arcApl3:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl3:disk-boot:dskPercent">
           <description>Ctrl-arcApl3:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl3:disk-data:dskPercent">
           <description>Ctrl-arcApl3:disk-data:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
