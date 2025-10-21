@@ -2,7 +2,6 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "ioc03-hnoss:CBLOW_Q_HIGH",
-  "enabled" : false,
   "latching" : false,
   "guidance" : [ {
     "title" : "Empty the queue",
