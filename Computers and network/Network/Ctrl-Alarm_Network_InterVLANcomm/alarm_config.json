@@ -1,8 +1,7 @@
 {
   "user" : "konrad",
-  "host" : "nuc-14",
+  "host" : "nuc-11",
   "description" : "InterVLAN communication",
-  "enabled" : false,
   "latching" : false,
   "annunciating" : false
 }
