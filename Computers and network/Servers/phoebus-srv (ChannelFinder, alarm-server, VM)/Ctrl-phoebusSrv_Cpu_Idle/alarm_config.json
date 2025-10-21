@@ -2,7 +2,6 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "Ctrl-phoebusSrv:Cpu:Idle",
-  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 60
