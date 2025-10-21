@@ -481,31 +481,31 @@ Consult the opi for the cable path.</details>
         </pv>
         <pv name="Ctrl-arcApl3:disk-root:dskPercent">
           <description>Ctrl-arcApl3:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl3:engine-Heap:UsedPerc">
           <description>Ctrl-arcApl3:engine-Heap:UsedPerc</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl3:etl-Heap:UsedPerc">
           <description>Ctrl-arcApl3:etl-Heap:UsedPerc</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl3:mgmt-Heap:UsedPerc">
           <description>Ctrl-arcApl3:mgmt-Heap:UsedPerc</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl3:retrieval-Heap:UsedPerc">
           <description>Ctrl-arcApl3:retrieval-Heap:UsedPerc</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
@@ -515,32 +515,32 @@ Consult the opi for the cable path.</details>
       <component name="Archive server (old)">
         <pv name="Ctrl-arcApl1:Cpu:Idle">
           <description>Ctrl-arcApl1:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-arcApl1:Memory:AvailSwap">
           <description>Ctrl-arcApl1:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl1:disk-boot:dskPercent">
           <description>Ctrl-arcApl1:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl1:disk-data1:dskPercent">
           <description>Ctrl-arcApl1:disk-data1:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl1:disk-root:dskPercent">
           <description>Ctrl-arcApl1:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
@@ -550,33 +550,33 @@ Consult the opi for the cable path.</details>
       <component name="Archive server (short term, fast)">
         <pv name="Ctrl-oldpc01:Cpu:Idle">
           <description>Ctrl-arcApl1:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-oldpc01:Memory:AvailSwap">
           <description>Ctrl-arcApl1:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-oldpc01:disk-boot:dskPercent">
           <description>Ctrl-arcApl1:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-oldpc01:disk-home:dskPercent">
           <description>Ctrl-arcApl1:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-oldpc01:disk-root:dskPercent">
           <description>Ctrl-arcApl1:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
@@ -585,35 +585,35 @@ Consult the opi for the cable path.</details>
       <component name="Back-up server (HP ProLiant)">
         <pv name="Ctrl-freiaSrv2:Cpu:Idle">
           <description>Ctrl-freiaSrv2:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-freiaSrv2:Memory:AvailSwap">
           <description>Ctrl-freiaSrv2:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-freiaSrv2:disk-boot:dskPercent">
           <description>Ctrl-freiaSrv2:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-freiaSrv2:disk-boot_efi:dskPercent">
           <description>Ctrl-freiaSrv2:disk-boot_efi:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-freiaSrv2:disk-root:dskPercent">
           <description>Ctrl-freiaSrv2:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
@@ -622,28 +622,28 @@ Consult the opi for the cable path.</details>
       <component name="Display Builder Web Runtime (freia-dbwr)">
         <pv name="Ctrl-freiaDbwr:Cpu:Idle">
           <description>Ctrl-freia:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-freiaDbwr:Memory:AvailSwap">
           <description>Ctrl-freia:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-freiaDbwr:disk-root:dskPercent">
           <description>Ctrl-freia:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-freiaDbwr:tomcat-Heap:UsedPerc">
           <description>Ctrl-freiaDbwr:tomcat-Heap:UsedPerc</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
@@ -651,28 +651,28 @@ Consult the opi for the cable path.</details>
       <component name="Main server (HP ProLiant)">
         <pv name="Ctrl-freiaSrv1:Cpu:Idle">
           <description>Ctrl-freiaSrv1:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-freiaSrv1:Memory:AvailSwap">
           <description>Ctrl-freiaSrv1:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-freiaSrv1:disk-data1:dskPercent">
           <description>Ctrl-freiaSrv1:disk-data1:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-freiaSrv1:disk-root:dskPercent">
           <description>Ctrl-freiaSrv1:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
@@ -681,28 +681,28 @@ Consult the opi for the cable path.</details>
       <component name="Olog server">
         <pv name="Ctrl-freiaOlog:Cpu:Idle">
           <description>Ctrl-freiaArch1:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
         </pv>
         <pv name="Ctrl-freiaOlog:Memory:AvailSwap">
           <description>Ctrl-freiaArch1:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
         </pv>
         <pv name="Ctrl-freiaOlog:disk-boot:dskPercent">
           <description>Ctrl-freiaArch1:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
         </pv>
         <pv name="Ctrl-freiaOlog:disk-root:dskPercent">
           <description>Ctrl-freiaArch1:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
@@ -711,35 +711,35 @@ Consult the opi for the cable path.</details>
       <component name="centos-srv1 (VM)">
         <pv name="Ctrl-centosSrv1:Cpu:Idle">
           <description>Ctrl-centosSrv1:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-centosSrv1:Memory:AvailSwap">
           <description>Ctrl-centosSrv1:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-centosSrv1:disk-boot:dskPercent">
           <description>Ctrl-centosSrv1:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-centosSrv1:disk-data1:dskPercent">
           <description>Ctrl-centosSrv1:disk-data1:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-centosSrv1:disk-root:dskPercent">
           <description>Ctrl-centosSrv1:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
@@ -748,35 +748,35 @@ Consult the opi for the cable path.</details>
       <component name="centos-srv2 (centos-srv1 back-up)">
         <pv name="Ctrl-centosSrv2:Cpu:Idle">
           <description>Ctrl-centosSrv2:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-centosSrv2:Memory:AvailSwap">
           <description>Ctrl-centosSrv2:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-centosSrv2:disk-boot:dskPercent">
           <description>Ctrl-centosSrv2:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-centosSrv2:disk-home:dskPercent">
           <description>Ctrl-centosSrv2:disk-home:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-centosSrv2:disk-root:dskPercent">
           <description>Ctrl-centosSrv2:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
@@ -785,28 +785,28 @@ Consult the opi for the cable path.</details>
       <component name="freia.physics.uu.se (VM)">
         <pv name="Ctrl-freia:Cpu:Idle">
           <description>Ctrl-freia:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>900</delay>
         </pv>
         <pv name="Ctrl-freia:Memory:AvailSwap">
           <description>Ctrl-freia:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-freia:disk-root:dskPercent">
           <description>Ctrl-freia:disk-root:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-freia:tomcat-Heap:UsedPerc">
           <description>Ctrl-freia:tomcat-Heap:UsedPerc</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
@@ -814,7 +814,7 @@ Consult the opi for the cable path.</details>
       <component name="nuc-02 (ca gateway)">
         <pv name="Ctrl-nuc02:disk-var:dskPercent">
           <description>Ctrl-nuc02:disk-var:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
@@ -822,28 +822,28 @@ Consult the opi for the cable path.</details>
       <component name="nuc-04">
         <pv name="Ctrl-nuc04:Cpu:Idle">
           <description>Ctrl-nuc04:Cpu:Idle</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-nuc04:Memory:AvailSwap">
           <description>Ctrl-nuc04:Memory:AvailSwap</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-nuc04:disk-boot:dskPercent">
           <description>Ctrl-nuc04:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-nuc04:disk-home:dskPercent">
           <description>Ctrl-nuc04:disk-home:dskPercent</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
