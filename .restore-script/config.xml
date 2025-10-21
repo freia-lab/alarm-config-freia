@@ -23,7 +23,7 @@
       </automated_action>
       <pv name="Ctrl-nuc01:disk-var:dskPercent">
         <description>Ctrl-nuc01:disk-var:dskPercent</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <delay>60</delay>
