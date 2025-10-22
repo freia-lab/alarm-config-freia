@@ -473,6 +473,12 @@ Consult the opi for the cable path.</details>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
+        <pv name="Ctrl-arcApl3:aa-metrics:disconnectedPV">
+          <description>Ctrl-arcApl3:aa-metrics:disconnectedPV</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
         <pv name="Ctrl-arcApl3:disk-boot:dskPercent">
           <description>Ctrl-arcApl3:disk-boot:dskPercent</description>
           <enabled>true</enabled>
