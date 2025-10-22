@@ -1,5 +1,7 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "Ctrl-arcApl2:aa-metrics:disconnectedPV"
+  "description" : "Ctrl-arcApl2:aa-metrics:disconnectedPV",
+  "latching" : false,
+  "annunciating" : false
 }
