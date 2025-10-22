@@ -522,8 +522,6 @@ Consult the opi for the cable path.</details>
           <annunciating>false</annunciating>
         </pv>
       </component>
-      <component name="Archive server (new, VM)">
-      </component>
       <component name="Archive server (old)">
         <pv name="Ctrl-arcApl1:Cpu:Idle">
           <description>Ctrl-arcApl1:Cpu:Idle</description>
