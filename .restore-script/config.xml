@@ -2635,7 +2635,7 @@ fix the problem.</details>
       <component name="_Recovery">
         <pv name="Cryo-Rec:LP:C4:sAlarm">
           <description>Cryo-Rec:LP:C4:sAlarm</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>60</delay>
@@ -2666,7 +2666,7 @@ fix the problem.</details>
         </pv>
         <pv name="Cryo-Rec:LP:C4:sAlarmsSum">
           <description>Cryo-Rec:LP:C4:sAlarm</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>60</delay>
@@ -2697,7 +2697,7 @@ fix the problem.</details>
         </pv>
         <pv name="Cryo-Rec:LP:C4:sErrorsSum">
           <description>Cryo-Rec:LP:C4:sAlarm</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>60</delay>
@@ -2728,7 +2728,7 @@ fix the problem.</details>
         </pv>
         <pv name="Cryo-Rec:LP:C4:sOpMode">
           <description>Cryo-Rec:LP:C4:sAlarm</description>
-          <enabled>false</enabled>
+          <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>60</delay>
