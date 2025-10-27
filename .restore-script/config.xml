@@ -3102,19 +3102,6 @@ fix the problem.</details>
       <details>sevrpv:Ctrl-Alarm:RF</details>
       <delay>0</delay>
     </automated_action>
-    <component name="Electrosys">
-      <display>
-        <title>Open opi...</title>
-        <details>/opt/epics/opi/bob/esys/esys-top.bob</details>
-      </display>
-      <automated_action>
-        <title>Alarm Severity PV</title>
-        <details>sevrpv:Ctrl-Alarm:RF-Electrosys</details>
-        <delay>0</delay>
-      </automated_action>
-      <component name="Communication">
-      </component>
-    </component>
     <component name="HPRF-DBE1:Fil:sI">
       <display>
         <title>Open opi...</title>
