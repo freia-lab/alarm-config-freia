@@ -1,14 +1,5 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
-  "description" : "HPRF-Esys:Ampl:sComStat",
-  "enabled" : false,
-  "latching" : false,
-  "annunciating" : false,
-  "delay" : 30,
-  "actions" : [ {
-    "title" : "Send SMS to KG",
-    "details" : "mailto:0705933088@pixie.se",
-    "delay" : 60
-  } ]
+  "host" : "nuc-11",
+  "delete" : "Deleting"
 }

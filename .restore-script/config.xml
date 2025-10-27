@@ -3113,18 +3113,6 @@ fix the problem.</details>
         <delay>0</delay>
       </automated_action>
       <component name="Communication">
-        <pv name="HPRF-Esys:Ampl:sComStat">
-          <description>HPRF-Esys:Ampl:sComStat</description>
-          <enabled>false</enabled>
-          <latching>false</latching>
-          <annunciating>false</annunciating>
-          <delay>30</delay>
-          <automated_action>
-            <title>Send SMS to KG</title>
-            <details>mailto:0705933088@pixie.se</details>
-            <delay>60</delay>
-          </automated_action>
-        </pv>
       </component>
     </component>
     <component name="HPRF-DBE1:Fil:sI">
