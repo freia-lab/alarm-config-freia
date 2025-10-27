@@ -1072,23 +1072,6 @@ Update the time for the next reminder - press  "Register service" button in serv
         </automated_action>
       </pv>
     </component>
-    <component name="Keithley">
-      <automated_action>
-        <title>Send email</title>
-        <details>mailto:konrad.gajewski@physics.uu.se</details>
-        <delay>10</delay>
-      </automated_action>
-      <automated_action>
-        <title>Send SMS</title>
-        <details>mailto:0705933088@pixie.se</details>
-        <delay>0</delay>
-      </automated_action>
-      <automated_action>
-        <title>Alarm Severity PV</title>
-        <details>sevrpv:Ctrl-Alarm:CM-Keithley</details>
-        <delay>0</delay>
-      </automated_action>
-    </component>
     <component name="LN2 cooling">
       <pv name="CM-VBox:TT60:sRdV">
         <description>CM-VBox:TT60:sRdV</description>
