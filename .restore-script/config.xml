@@ -1088,18 +1088,6 @@ Update the time for the next reminder - press  "Register service" button in serv
         <details>sevrpv:Ctrl-Alarm:CM-Keithley</details>
         <delay>0</delay>
       </automated_action>
-      <pv name="CM-CM:TT903:sRdV">
-        <description>CM-CM:TT903:sRdV</description>
-        <enabled>false</enabled>
-        <latching>true</latching>
-        <annunciating>true</annunciating>
-      </pv>
-      <pv name="CM-VBox:TT900:sRdV">
-        <description>CM-VBox:TT900:sRdV</description>
-        <enabled>false</enabled>
-        <latching>true</latching>
-        <annunciating>true</annunciating>
-      </pv>
     </component>
     <component name="LN2 cooling">
       <pv name="CM-VBox:TT60:sRdV">
