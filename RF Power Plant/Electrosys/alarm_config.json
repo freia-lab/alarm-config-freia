@@ -1,13 +1,5 @@
 {
   "user" : "konrad",
-  "host" : "nuc-04.freia.local",
-  "displays" : [ {
-    "title" : "Open opi...",
-    "details" : "/opt/epics/opi/bob/esys/esys-top.bob"
-  } ],
-  "actions" : [ {
-    "title" : "Alarm Severity PV",
-    "details" : "sevrpv:Ctrl-Alarm:RF-Electrosys",
-    "delay" : 0
-  } ]
+  "host" : "nuc-11",
+  "delete" : "Deleting"
 }
