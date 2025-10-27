@@ -1,6 +1,5 @@
 {
-  "user" : "alarm",
-  "host" : "phoebus-srv",
-  "description" : "CM-CM:TT609:sRdV",
-  "enabled" : false
+  "user" : "konrad",
+  "host" : "nuc-11",
+  "delete" : "Deleting"
 }
