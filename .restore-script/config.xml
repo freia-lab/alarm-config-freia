@@ -92,7 +92,7 @@
       </pv>
       <pv name="ioc03-hnoss:SYS_CPU_LOAD">
         <description>ioc03-hnoss:SYS_CPU_LOAD</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
