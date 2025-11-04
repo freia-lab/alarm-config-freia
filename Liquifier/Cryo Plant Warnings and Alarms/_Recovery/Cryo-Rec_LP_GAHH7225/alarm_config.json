@@ -2,6 +2,7 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "LP Compressor alarm",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "actions" : [ {
