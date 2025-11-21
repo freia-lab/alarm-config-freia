@@ -141,7 +141,7 @@
       </automated_action>
       <pv name="Ctrl-Alarm:Network:InterVLANcomm">
         <description>InterVLAN communication</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
