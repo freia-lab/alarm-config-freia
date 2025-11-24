@@ -3270,7 +3270,7 @@ fix the problem.</details>
       </pv>
       <pv name="IntlkF-cRio1:Intlk:sAlarm-3">
         <description>IntlkF-cRio1:Intlk:sAlarm-3</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <automated_action>
