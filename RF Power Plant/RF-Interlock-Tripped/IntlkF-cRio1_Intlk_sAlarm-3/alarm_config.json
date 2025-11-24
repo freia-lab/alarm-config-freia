@@ -2,9 +2,15 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "IntlkF-cRio1:Intlk:sAlarm-3",
+  "latching" : false,
+  "annunciating" : false,
   "actions" : [ {
     "title" : "SMS KG",
     "details" : "mailto:0705933088@pixie.se",
+    "delay" : 0
+  }, {
+    "title" : "KG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
     "delay" : 0
   } ]
 }
