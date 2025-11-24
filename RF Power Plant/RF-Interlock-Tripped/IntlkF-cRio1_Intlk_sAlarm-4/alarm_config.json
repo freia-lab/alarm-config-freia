@@ -1,5 +1,6 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "IntlkF-cRio1:Intlk:sAlarm-4"
+  "description" : "IntlkF-cRio1:Intlk:sAlarm-4",
+  "enabled" : false
 }
