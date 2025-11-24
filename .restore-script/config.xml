@@ -3270,12 +3270,12 @@ fix the problem.</details>
       </pv>
       <pv name="IntlkF-cRio1:Intlk:sAlarm-3">
         <description>IntlkF-cRio1:Intlk:sAlarm-3</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>true</latching>
         <annunciating>true</annunciating>
         <automated_action>
-          <title>SMS KF</title>
-          <details>mailto:0701712391@pixie.se</details>
+          <title>SMS KG</title>
+          <details>mailto:0705933088@pixie.se</details>
           <delay>0</delay>
         </automated_action>
       </pv>

@@ -1,11 +1,10 @@
 {
-  "user" : "alarm",
-  "host" : "phoebus-srv",
+  "user" : "konrad",
+  "host" : "nuc-11",
   "description" : "IntlkF-cRio1:Intlk:sAlarm-3",
-  "enabled" : false,
   "actions" : [ {
-    "title" : "SMS KF",
-    "details" : "mailto:0701712391@pixie.se",
+    "title" : "SMS KG",
+    "details" : "mailto:0705933088@pixie.se",
     "delay" : 0
   } ]
 }
