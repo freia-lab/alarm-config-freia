@@ -1,21 +1,12 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "nuc-11",
   "description" : "IntlkF-cRio1:Intlk:sAlarm-1",
-  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "actions" : [ {
-    "title" : "SMS KF",
-    "details" : "mailto:0701712391@pixie.se",
-    "delay" : 0
-  }, {
     "title" : "SMS MZ",
     "details" : "mailto:0736237880@pixie.se",
-    "delay" : 0
-  }, {
-    "title" : "Mail KF",
-    "details" : "mailto:kjell.fransson@physics.uu.se",
     "delay" : 0
   } ]
 }

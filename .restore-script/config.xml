@@ -3238,22 +3238,12 @@ fix the problem.</details>
       </display>
       <pv name="IntlkF-cRio1:Intlk:sAlarm-1">
         <description>IntlkF-cRio1:Intlk:sAlarm-1</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <automated_action>
-          <title>SMS KF</title>
-          <details>mailto:0701712391@pixie.se</details>
-          <delay>0</delay>
-        </automated_action>
-        <automated_action>
           <title>SMS MZ</title>
           <details>mailto:0736237880@pixie.se</details>
-          <delay>0</delay>
-        </automated_action>
-        <automated_action>
-          <title>Mail KF</title>
-          <details>mailto:kjell.fransson@physics.uu.se</details>
           <delay>0</delay>
         </automated_action>
       </pv>
