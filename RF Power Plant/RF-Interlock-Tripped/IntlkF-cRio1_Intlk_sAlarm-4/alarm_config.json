@@ -1,6 +1,5 @@
 {
-  "user" : "alarm",
-  "host" : "phoebus-srv",
-  "description" : "IntlkF-cRio1:Intlk:sAlarm-4",
-  "enabled" : false
+  "user" : "konrad",
+  "host" : "nuc-11",
+  "description" : "IntlkF-cRio1:Intlk:sAlarm-4"
 }
