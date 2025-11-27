@@ -90,12 +90,6 @@
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
-      <pv name="ioc03-hnoss:SYS_CPU_LOAD">
-        <description>ioc03-hnoss:SYS_CPU_LOAD</description>
-        <enabled>true</enabled>
-        <latching>false</latching>
-        <annunciating>false</annunciating>
-      </pv>
       <component name="ioc11-gersemi">
         <pv name="ioc11-gersemi:CBLOW_Q_HIGH">
           <description>ioc11-gersemi:CBLOW_Q_HIGH</description>
