@@ -21,6 +21,12 @@
         <details>sevrpv:Ctrl-Alarm:Comp-IOCs</details>
         <delay>0</delay>
       </automated_action>
+      <pv name="Ctrl-nuc01:SYS_CPU_LOAD">
+        <description>Ctrl-nuc01:SYS_CPU_LOAD</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
       <pv name="Ctrl-nuc01:disk-var:dskPercent">
         <description>Ctrl-nuc01:disk-var:dskPercent</description>
         <enabled>true</enabled>
