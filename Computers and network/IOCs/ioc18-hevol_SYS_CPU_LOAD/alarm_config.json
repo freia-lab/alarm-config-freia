@@ -1,7 +1,5 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "ioc18-hevol:SYS_CPU_LOAD",
-  "latching" : false,
-  "annunciating" : false
+  "delete" : "Deleting"
 }
