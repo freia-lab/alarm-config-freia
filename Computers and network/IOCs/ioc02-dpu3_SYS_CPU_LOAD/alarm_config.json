@@ -1,7 +1,5 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "ioc02-dpu3:SYS_CPU_LOAD",
-  "latching" : false,
-  "annunciating" : false
+  "delete" : "Deleting"
 }
