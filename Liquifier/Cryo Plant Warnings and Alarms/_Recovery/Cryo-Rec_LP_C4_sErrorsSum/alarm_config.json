@@ -2,6 +2,7 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "Cryo-Rec:LP:C4:sAlarm",
+  "enabled" : "2025-12-16T09:33:58.799178677",
   "latching" : false,
   "delay" : 60,
   "displays" : [ {
