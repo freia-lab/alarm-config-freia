@@ -2663,7 +2663,7 @@ fix the problem.</details>
         </pv>
         <pv name="Cryo-Rec:LP:C4:sOpMode">
           <description>Cryo-Rec:LP:C4:sAlarm</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>true</annunciating>
           <delay>60</delay>
