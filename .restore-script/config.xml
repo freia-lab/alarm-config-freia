@@ -2633,8 +2633,9 @@ fix the problem.</details>
         <pv name="Cryo-Rec:LP:C4:sAlive">
           <description>Cryo-Rec:LP:C4:sAlive</description>
           <enabled>true</enabled>
-          <latching>true</latching>
-          <annunciating>true</annunciating>
+          <latching>false</latching>
+          <annunciating>false</annunciating>
+          <delay>300</delay>
         </pv>
         <pv name="Cryo-Rec:LP:C4:sErrorsSum">
           <description>Cryo-Rec:LP:C4:sAlarm</description>

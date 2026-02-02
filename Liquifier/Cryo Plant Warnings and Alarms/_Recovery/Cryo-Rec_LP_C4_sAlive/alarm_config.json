@@ -1,5 +1,8 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "Cryo-Rec:LP:C4:sAlive"
+  "description" : "Cryo-Rec:LP:C4:sAlive",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 300
 }
