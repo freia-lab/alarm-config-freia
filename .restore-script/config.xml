@@ -2630,6 +2630,12 @@ fix the problem.</details>
             <delay>0</delay>
           </automated_action>
         </pv>
+        <pv name="Cryo-Rec:LP:C4:sAlive">
+          <description>Cryo-Rec:LP:C4:sAlive</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
         <pv name="Cryo-Rec:LP:C4:sErrorsSum">
           <description>Cryo-Rec:LP:C4:sAlarm</description>
           <enabled>true</enabled>
