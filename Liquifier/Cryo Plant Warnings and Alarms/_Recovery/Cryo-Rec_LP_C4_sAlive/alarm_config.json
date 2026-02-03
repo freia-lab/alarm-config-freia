@@ -4,5 +4,10 @@
   "description" : "Cryo-Rec:LP:C4:sAlive",
   "latching" : false,
   "annunciating" : false,
-  "delay" : 300
+  "delay" : 300,
+  "actions" : [ {
+    "title" : "mail to KG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 600
+  } ]
 }

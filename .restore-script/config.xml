@@ -2636,6 +2636,11 @@ fix the problem.</details>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
+          <automated_action>
+            <title>mail to KG</title>
+            <details>mailto:konrad.gajewski@physics.uu.se</details>
+            <delay>600</delay>
+          </automated_action>
         </pv>
         <pv name="Cryo-Rec:LP:C4:sErrorsSum">
           <description>Cryo-Rec:LP:C4:sAlarm</description>
