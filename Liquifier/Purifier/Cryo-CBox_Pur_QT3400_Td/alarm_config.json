@@ -1,6 +1,6 @@
 {
-  "user" : "alarm",
-  "host" : "phoebus-srv",
+  "user" : "konrad",
+  "host" : "nuc-11",
   "description" : "Cryo-CBox:Pur:QT3400_Td",
   "latching" : false,
   "annunciating" : false,
