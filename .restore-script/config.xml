@@ -2913,7 +2913,7 @@ fix the problem.</details>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
-        <delay>180</delay>
+        <delay>60</delay>
         <guidance>
           <title>Purifier Off</title>
           <details>Purifier Off</details>

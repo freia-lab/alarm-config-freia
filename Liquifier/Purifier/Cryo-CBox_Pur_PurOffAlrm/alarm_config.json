@@ -4,7 +4,7 @@
   "description" : "Purifier on/off alarm",
   "latching" : false,
   "annunciating" : false,
-  "delay" : 180,
+  "delay" : 60,
   "guidance" : [ {
     "title" : "Purifier Off",
     "details" : "Purifier Off"
