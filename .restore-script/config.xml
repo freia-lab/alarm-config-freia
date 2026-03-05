@@ -226,7 +226,12 @@
           <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
-          <delay>900</delay>
+          <delay>90</delay>
+          <automated_action>
+            <title>testSMS</title>
+            <details>mailto:0701679193@pixie.se</details>
+            <delay>0</delay>
+          </automated_action>
         </pv>
         <pv name="Ctrl-nuc07:disk-root:dskPercent">
           <description>Ctrl-nuc07:disk-root:dskPercent</description>

@@ -4,5 +4,10 @@
   "description" : "Ctrl-nuc07:disk-home:dskPercent",
   "latching" : false,
   "annunciating" : false,
-  "delay" : 900
+  "delay" : 90,
+  "actions" : [ {
+    "title" : "testSMS",
+    "details" : "mailto:0701679193@pixie.se",
+    "delay" : 0
+  } ]
 }
