@@ -10,10 +10,6 @@
     "details" : "Purifier Off"
   } ],
   "actions" : [ {
-    "title" : "SMS RS",
-    "details" : "mailto:0701679527@pixie.se",
-    "delay" : 300
-  }, {
     "title" : "SMS EP",
     "details" : "mailto:0729999371@pixie.se",
     "delay" : 300
@@ -21,5 +17,9 @@
     "title" : "SMS CS",
     "details" : "mailto:0730393656@pixie.se",
     "delay" : 300
+  }, {
+    "title" : "SMS RS",
+    "details" : "mailto:0701679527@pixie.se",
+    "delay" : 0
   } ]
 }

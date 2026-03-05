@@ -2919,11 +2919,6 @@ fix the problem.</details>
           <details>Purifier Off</details>
         </guidance>
         <automated_action>
-          <title>SMS RS</title>
-          <details>mailto:0701679527@pixie.se</details>
-          <delay>300</delay>
-        </automated_action>
-        <automated_action>
           <title>SMS EP</title>
           <details>mailto:0729999371@pixie.se</details>
           <delay>300</delay>
@@ -2932,6 +2927,11 @@ fix the problem.</details>
           <title>SMS CS</title>
           <details>mailto:0730393656@pixie.se</details>
           <delay>300</delay>
+        </automated_action>
+        <automated_action>
+          <title>SMS RS</title>
+          <details>mailto:0701679527@pixie.se</details>
+          <delay>0</delay>
         </automated_action>
       </pv>
       <pv name="Cryo-CBox:Pur:QT3400_Td">
