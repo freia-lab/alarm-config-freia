@@ -508,19 +508,19 @@ Consult the opi for the cable path.</details>
         </pv>
         <pv name="Ctrl-arcApl1:disk-boot:dskPercent">
           <description>Ctrl-arcApl1:disk-boot:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl1:disk-data1:dskPercent">
           <description>Ctrl-arcApl1:disk-data1:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl1:disk-root:dskPercent">
           <description>Ctrl-arcApl1:disk-root:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
