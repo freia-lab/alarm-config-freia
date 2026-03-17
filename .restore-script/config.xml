@@ -1147,6 +1147,10 @@ Select any text entry field and press Enter without changing
 anything - this will make the gateway to reset and hopefully
 fix the problem.</details>
         </guidance>
+        <command>
+          <title>Reload the Modbus Gateway</title>
+          <details>/usr/local/bin/reloadModbusGw.sh 192.168.10.38</details>
+        </command>
       </pv>
       <pv name="Env-Gas:MFM-Hus3:FlowRt">
         <description>Env-Gas:MFM-Hus3:FlowRt</description>
