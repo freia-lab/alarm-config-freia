@@ -2591,6 +2591,7 @@ fix the problem.</details>
           <enabled>true</enabled>
           <latching>true</latching>
           <annunciating>true</annunciating>
+          <delay>60</delay>
           <command>
             <title>Reload Modbus GW</title>
             <details>/usr/local/bin/reloadModbusGw.sh 192.168.10.54</details>

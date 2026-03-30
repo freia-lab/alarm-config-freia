@@ -2,6 +2,7 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "Cryo-Rec:LP:C1:sAlive",
+  "delay" : 60,
   "commands" : [ {
     "title" : "Reload Modbus GW",
     "details" : "/usr/local/bin/reloadModbusGw.sh 192.168.10.54"
