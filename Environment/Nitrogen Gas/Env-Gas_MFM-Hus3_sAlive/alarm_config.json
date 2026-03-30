@@ -4,5 +4,10 @@
   "description" : "Env-Gas:MFM-Hus3:sAlive",
   "latching" : false,
   "annunciating" : false,
-  "delay" : 60
+  "delay" : 60,
+  "actions" : [ {
+    "title" : "Reload Modbus gw",
+    "details" : "cmd:/usr/local/bin/reloadModbusGw.sh 130.238.22.3",
+    "delay" : 1
+  } ]
 }

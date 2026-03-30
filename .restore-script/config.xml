@@ -1171,6 +1171,11 @@ fix the problem.</details>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <delay>60</delay>
+        <automated_action>
+          <title>Reload Modbus gw</title>
+          <details>cmd:/usr/local/bin/reloadModbusGw.sh 130.238.22.3</details>
+          <delay>1</delay>
+        </automated_action>
       </pv>
     </component>
     <component name="Oxygen bunker1">
