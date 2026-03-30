@@ -2586,6 +2586,12 @@ fix the problem.</details>
         </pv>
       </component>
       <component name="_Recovery">
+        <pv name="Cryo-Rec:LP:C1:sAlive">
+          <description>Cryo-Rec:LP:C1:sAlive</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
         <pv name="Cryo-Rec:LP:C4:sAlarm">
           <description>Cryo-Rec:LP:C4:sAlarm</description>
           <enabled>true</enabled>
