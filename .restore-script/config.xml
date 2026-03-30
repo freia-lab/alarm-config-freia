@@ -1151,6 +1151,11 @@ fix the problem.</details>
           <title>Reload the Modbus Gateway</title>
           <details>/usr/local/bin/reloadModbusGw.sh 192.168.10.38</details>
         </command>
+        <automated_action>
+          <title>Reload Modbus gw</title>
+          <details>cmd:/usr/local/bin/reloadModbusGw.sh 192.168.10.38</details>
+          <delay>0</delay>
+        </automated_action>
       </pv>
       <pv name="Env-Gas:MFM-Hus3:FlowRt">
         <description>Env-Gas:MFM-Hus3:FlowRt</description>
