@@ -2654,9 +2654,18 @@ fix the problem.</details>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
+          <command>
+            <title>Reload Modbus GW</title>
+            <details>/usr/local/bin/reloadModbusGw.sh 192.168.10.39</details>
+          </command>
           <automated_action>
             <title>mail to KG</title>
             <details>mailto:konrad.gajewski@physics.uu.se</details>
+            <delay>600</delay>
+          </automated_action>
+          <automated_action>
+            <title>Reload Modbus GW</title>
+            <details>cmd:/usr/local/bin/reloadModbusGw.sh 192.168.10.39</details>
             <delay>600</delay>
           </automated_action>
         </pv>
