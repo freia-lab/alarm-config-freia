@@ -2591,6 +2591,20 @@ fix the problem.</details>
           <enabled>true</enabled>
           <latching>true</latching>
           <annunciating>true</annunciating>
+          <command>
+            <title>Reload Modbus GW</title>
+            <details>/usr/local/bin/reloadModbusGw.sh 192.168.10.54</details>
+          </command>
+          <automated_action>
+            <title>KG</title>
+            <details>mailto:konrad.gajewski@physics.uu.se</details>
+            <delay>0</delay>
+          </automated_action>
+          <automated_action>
+            <title>Reload Modbus GW</title>
+            <details>cmd:/usr/local/bin/reloadModbusGw.sh 192.168.10.54</details>
+            <delay>1</delay>
+          </automated_action>
         </pv>
         <pv name="Cryo-Rec:LP:C4:sAlarm">
           <description>Cryo-Rec:LP:C4:sAlarm</description>
