@@ -1171,6 +1171,10 @@ fix the problem.</details>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <delay>60</delay>
+        <command>
+          <title>Reload Modbus GW</title>
+          <details>/usr/local/bin/reloadModbusGw.sh 130.238.22.3</details>
+        </command>
         <automated_action>
           <title>Reload Modbus gw</title>
           <details>cmd:/usr/local/bin/reloadModbusGw.sh 130.238.22.3</details>

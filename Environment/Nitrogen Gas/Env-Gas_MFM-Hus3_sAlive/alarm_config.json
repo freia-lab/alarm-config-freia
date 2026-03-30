@@ -5,6 +5,10 @@
   "latching" : false,
   "annunciating" : false,
   "delay" : 60,
+  "commands" : [ {
+    "title" : "Reload Modbus GW",
+    "details" : "/usr/local/bin/reloadModbusGw.sh 130.238.22.3"
+  } ],
   "actions" : [ {
     "title" : "Reload Modbus gw",
     "details" : "cmd:/usr/local/bin/reloadModbusGw.sh 130.238.22.3",
