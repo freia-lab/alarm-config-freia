@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-11",
+  "user" : "konrgaje",
+  "host" : "PHY-CELE",
   "description" : "Cryo-Rec:LP:C1:sAlive",
   "latching" : false,
   "annunciating" : false,
