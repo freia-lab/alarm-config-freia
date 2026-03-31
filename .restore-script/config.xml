@@ -2589,7 +2589,7 @@ fix the problem.</details>
         <pv name="Cryo-Rec:LP:C1:sAlive">
           <description>Cryo-Rec:LP:C1:sAlive</description>
           <enabled>true</enabled>
-          <latching>false</latching>
+          <latching>true</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
           <command>
@@ -2600,11 +2600,6 @@ fix the problem.</details>
             <title>Rld_GW</title>
             <details>cmd:/usr/local/bin/reloadModbusGw.sh 192.168.10.54</details>
             <delay>600</delay>
-          </automated_action>
-          <automated_action>
-            <title>KG</title>
-            <details></details>
-            <delay>0</delay>
           </automated_action>
         </pv>
         <pv name="Cryo-Rec:LP:C4:sAlarm">

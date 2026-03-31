@@ -2,7 +2,6 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "Cryo-Rec:LP:C1:sAlive",
-  "latching" : false,
   "annunciating" : false,
   "delay" : 300,
   "commands" : [ {
@@ -13,9 +12,5 @@
     "title" : "Rld_GW",
     "details" : "cmd:/usr/local/bin/reloadModbusGw.sh 192.168.10.54",
     "delay" : 600
-  }, {
-    "title" : "KG",
-    "details" : "",
-    "delay" : 0
   } ]
 }
