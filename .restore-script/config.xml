@@ -2603,8 +2603,8 @@ fix the problem.</details>
           </automated_action>
           <automated_action>
             <title>KG</title>
-            <details></details>
-            <delay>0</delay>
+            <details>mailto:konrad.gajewski@physics.uu.se</details>
+            <delay>600</delay>
           </automated_action>
         </pv>
         <pv name="Cryo-Rec:LP:C4:sAlarm">
