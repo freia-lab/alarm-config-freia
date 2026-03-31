@@ -1,10 +1,10 @@
 {
-  "user" : "konrgaje",
-  "host" : "PHY-CELE",
+  "user" : "konrad",
+  "host" : "nuc-11",
   "description" : "Cryo-Rec:LP:C1:sAlive",
   "latching" : false,
   "annunciating" : false,
-  "delay" : 60,
+  "delay" : 300,
   "commands" : [ {
     "title" : "Reload Modbus GW",
     "details" : "/usr/local/bin/reloadModbusGw.sh 192.168.10.54"
@@ -13,9 +13,5 @@
     "title" : "KG",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
     "delay" : 0
-  }, {
-    "title" : "Reload Modbus GW",
-    "details" : "cmd:/usr/local/bin/reloadModbusGw.sh 192.168.10.54",
-    "delay" : 1
   } ]
 }
