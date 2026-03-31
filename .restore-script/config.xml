@@ -2596,6 +2596,11 @@ fix the problem.</details>
             <title>Reload Modbus GW</title>
             <details>/usr/local/bin/reloadModbusGw.sh 192.168.10.54</details>
           </command>
+          <automated_action>
+            <title>Rld_GW</title>
+            <details>cmd:/usr/local/bin/reloadModbusGw.sh 192.168.10.54</details>
+            <delay>600</delay>
+          </automated_action>
         </pv>
         <pv name="Cryo-Rec:LP:C4:sAlarm">
           <description>Cryo-Rec:LP:C4:sAlarm</description>
