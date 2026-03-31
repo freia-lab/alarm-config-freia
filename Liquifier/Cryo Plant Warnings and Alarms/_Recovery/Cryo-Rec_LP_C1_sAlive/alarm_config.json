@@ -2,6 +2,7 @@
   "user" : "konrad",
   "host" : "nuc-11",
   "description" : "Cryo-Rec:LP:C1:sAlive",
+  "latching" : false,
   "annunciating" : false,
   "delay" : 300,
   "commands" : [ {

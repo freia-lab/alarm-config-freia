@@ -2589,7 +2589,7 @@ fix the problem.</details>
         <pv name="Cryo-Rec:LP:C1:sAlive">
           <description>Cryo-Rec:LP:C1:sAlive</description>
           <enabled>true</enabled>
-          <latching>true</latching>
+          <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>300</delay>
           <command>
