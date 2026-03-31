@@ -2599,7 +2599,7 @@ fix the problem.</details>
           <automated_action>
             <title>Rld_GW</title>
             <details>cmd:/usr/local/bin/reloadModbusGw.sh 192.168.10.54</details>
-            <delay>600</delay>
+            <delay>120</delay>
           </automated_action>
           <automated_action>
             <title>KG</title>
