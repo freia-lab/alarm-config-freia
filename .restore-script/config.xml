@@ -1096,8 +1096,56 @@ Update the time for the next reminder - press  "Register service" button in serv
         <latching>true</latching>
         <annunciating>true</annunciating>
       </pv>
+      <pv name="Env-Gas:CO2:sAlive">
+        <description>Env-Gas:CO2:sAlive</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
       <pv name="Env-Gas:C2H2:sAlive">
         <description>Env-Gas:C2H2:sAlive</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="Env-Gas:Gasol:sAlive">
+        <description>Env-Gas:Gasol:sAlive</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="Env-Gas:He:sAlive">
+        <description>Env-Gas:He:sAlive</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="Env-Gas:H2:sAlive">
+        <description>Env-Gas:H2:sAlive</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="Env-Gas:MedAir:sAlive">
+        <description>Env-Gas:MedAir:sAlive</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="Env-Gas:MedO2:sAlive">
+        <description>Env-Gas:MedO2:sAlive</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="Env-Gas:N2:sAlive">
+        <description>Env-Gas:N2:sAlive</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="Env-Gas:O2:sAlive">
+        <description>Env-Gas:O2:sAlive</description>
         <enabled>true</enabled>
         <latching>true</latching>
         <annunciating>true</annunciating>
