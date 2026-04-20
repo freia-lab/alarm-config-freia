@@ -1087,8 +1087,14 @@ Update the time for the next reminder - press  "Register service" button in serv
       <pv name="Env-Gas:Ar:sAlive">
         <description>Env-Gas:Ar:sAlive</description>
         <enabled>true</enabled>
-        <latching>true</latching>
-        <annunciating>true</annunciating>
+        <latching>false</latching>
+        <annunciating>false</annunciating>
+        <delay>30</delay>
+        <automated_action>
+          <title>mail KG</title>
+          <details>mailto:konrad.gajewski@physics.uu.se</details>
+          <delay>0</delay>
+        </automated_action>
       </pv>
       <pv name="Env-Gas:CH4-Ar:sAlive">
         <description>Env-Gas:CH4-Ar:sAlive</description>

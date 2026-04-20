@@ -1,5 +1,13 @@
 {
   "user" : "konrad",
   "host" : "nuc-14",
-  "description" : "Env-Gas:Ar:sAlive"
+  "description" : "Env-Gas:Ar:sAlive",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 30,
+  "actions" : [ {
+    "title" : "mail KG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 0
+  } ]
 }
