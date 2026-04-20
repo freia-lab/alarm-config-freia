@@ -1084,6 +1084,10 @@ Update the time for the next reminder - press  "Register service" button in serv
       <delay>0</delay>
     </automated_action>
     <component name="BMC gases">
+      <display>
+        <title>BMC flow meters</title>
+        <details>/opt/epics/opi/bob/.BMC_flowmeters/BMC-flowmeters.bob</details>
+      </display>
       <pv name="Env-Gas:Ar:sAlive">
         <description>Env-Gas:Ar:sAlive</description>
         <enabled>true</enabled>

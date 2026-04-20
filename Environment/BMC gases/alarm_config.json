@@ -1,4 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-14"
+  "host" : "nuc-14",
+  "displays" : [ {
+    "title" : "BMC flow meters",
+    "details" : "/opt/epics/opi/bob/.BMC_flowmeters/BMC-flowmeters.bob"
+  } ]
 }
