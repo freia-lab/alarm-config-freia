@@ -1083,6 +1083,8 @@ Update the time for the next reminder - press  "Register service" button in serv
       <details>sevrpv:Ctrl-Alarm:Env</details>
       <delay>0</delay>
     </automated_action>
+    <component name="BMC gases">
+    </component>
     <component name="Gersemi">
       <automated_action>
         <title>Alarm Severity PV</title>
