@@ -1219,7 +1219,7 @@ Update the time for the next reminder - press  "Register service" button in serv
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
-        <delay>3</delay>
+        <delay>30</delay>
         <automated_action>
           <title>mail KG</title>
           <details>mailto:konrad.gajewski@physics.uu.se</details>
