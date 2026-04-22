@@ -5,9 +5,10 @@
   "latching" : false,
   "annunciating" : false,
   "delay" : 30,
+  "count" : 1,
   "actions" : [ {
     "title" : "mail KG",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
-    "delay" : 0
+    "delay" : 30
   } ]
 }
