@@ -1,14 +1,14 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-14",
+  "user" : "konrgaje",
+  "host" : "FREIA-CONS4",
   "description" : "Env-Gas:C2H2:sAlive",
   "latching" : false,
   "annunciating" : false,
-  "delay" : 30,
+  "delay" : 300,
   "count" : 1,
   "actions" : [ {
     "title" : "mail KG",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
-    "delay" : 30
+    "delay" : 300
   } ]
 }
