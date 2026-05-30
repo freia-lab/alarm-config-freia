@@ -1334,7 +1334,7 @@ fix the problem.</details>
       </automated_action>
       <pv name="Env-Bunker1:QT001:sRdV">
         <description>Oxygen &lt; 20% in bunker1</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <delay>30</delay>
