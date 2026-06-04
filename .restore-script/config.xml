@@ -27,12 +27,30 @@
         <latching>true</latching>
         <annunciating>true</annunciating>
       </pv>
+      <pv name="Ctrl-nuc01:disk-run:AVAIL">
+        <description>Ctrl-nuc01:disk-run:AVAIL</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
       <pv name="Ctrl-nuc01:disk-var:dskPercent">
         <description>Ctrl-nuc01:disk-var:dskPercent</description>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <delay>60</delay>
+      </pv>
+      <pv name="Ctrl-nuc02:disk-run:AVAIL">
+        <description>Ctrl-nuc02:disk-run:AVAIL</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+      <pv name="Ctrl-nuc03:disk-run:AVAIL">
+        <description>Ctrl-nuc03:disk-run:AVAIL</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
       </pv>
       <pv name="Ctrl-nuc03:disk-var:dskPercent">
         <description>Ctrl-nuc03:disk-var:dskPercent</description>
@@ -41,6 +59,12 @@
         <annunciating>false</annunciating>
         <delay>60</delay>
       </pv>
+      <pv name="Ctrl-nuc05:disk-run:AVAIL">
+        <description>Ctrl-nuc05:disk-run:AVAIL</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
       <pv name="Ctrl-nuc05:disk-var:dskPercent">
         <description>Ctrl-nuc05:disk-var:dskPercent</description>
         <enabled>true</enabled>
@@ -48,12 +72,24 @@
         <annunciating>false</annunciating>
         <delay>60</delay>
       </pv>
+      <pv name="Ctrl-nuc08:disk-run:AVAIL">
+        <description>Ctrl-nuc08:disk-run:AVAIL</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
       <pv name="Ctrl-nuc08:disk-var:dskPercent">
         <description>Ctrl-nuc08:disk-var:dskPercent</description>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
         <delay>60</delay>
+      </pv>
+      <pv name="Ctrl-nuc09:disk-run:AVAIL">
+        <description>Ctrl-nuc09:disk-run:AVAIL</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
       </pv>
       <component name="ioc-hnoss">
         <pv name="ioc03-hnoss:CBLOW_Q_HIGH">
