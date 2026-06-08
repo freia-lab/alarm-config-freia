@@ -3,5 +3,9 @@
   "host" : "oldpc-02",
   "description" : "Ctrl-nuc09:disk-run:AVAIL",
   "latching" : false,
-  "annunciating" : false
+  "annunciating" : false,
+  "guidance" : [ {
+    "title" : "Remove core.* files",
+    "details" : "The most likely there are new core files in /run/procServ/*/ Remove them."
+  } ]
 }
