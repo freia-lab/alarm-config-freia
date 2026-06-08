@@ -1,5 +1,7 @@
 {
   "user" : "konrad",
   "host" : "oldpc-02",
-  "description" : "Ctrl-nuc05:disk-run:AVAIL"
+  "description" : "Ctrl-nuc05:disk-run:AVAIL",
+  "latching" : false,
+  "annunciating" : false
 }
