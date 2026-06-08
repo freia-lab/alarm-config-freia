@@ -90,6 +90,10 @@
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
+        <guidance>
+          <title>Remove core.* files</title>
+          <details>The most likely there are new core files in /run/procServ/*/ Remove them.</details>
+        </guidance>
       </pv>
       <component name="ioc-hnoss">
         <pv name="ioc03-hnoss:CBLOW_Q_HIGH">
@@ -1370,7 +1374,7 @@ fix the problem.</details>
       </automated_action>
       <pv name="Env-Bunker1:QT001:sRdV">
         <description>Oxygen &lt; 20% in bunker1</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <delay>30</delay>
