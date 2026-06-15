@@ -3312,8 +3312,6 @@ fix the problem.</details>
       <delay>0</delay>
     </automated_action>
     <component name="Electrosys">
-      <component name="Communication">
-      </component>
     </component>
     <component name="HPRF-DBE1:Fil:sI">
       <display>
