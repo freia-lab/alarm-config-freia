@@ -3311,8 +3311,6 @@ fix the problem.</details>
       <details>sevrpv:Ctrl-Alarm:RF</details>
       <delay>0</delay>
     </automated_action>
-    <component name="Electrosys">
-    </component>
     <component name="HPRF-DBE1:Fil:sI">
       <display>
         <title>Open opi...</title>
