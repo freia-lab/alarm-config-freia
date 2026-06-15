@@ -3569,64 +3569,6 @@ fix the problem.</details>
           <delay>0</delay>
         </automated_action>
       </pv>
-      <pv name="HPRF-Esys:Ampl:sFault">
-        <description>HPRF-Esys:Ampl:sFault</description>
-        <enabled>false</enabled>
-        <latching>true</latching>
-        <annunciating>true</annunciating>
-        <automated_action>
-          <title>Trip Plc interl.</title>
-          <details>cmd:/opt/epics/bases/base-3.15.4/bin/centos7-x86_64/caput LLRF-Ctrl:SoftwareIntlk:cOK 0</details>
-          <delay>0</delay>
-        </automated_action>
-        <automated_action>
-          <title>SMS KF</title>
-          <details>mailto:0701712391@pixie.se</details>
-          <delay>0</delay>
-        </automated_action>
-        <automated_action>
-          <title>SMS MZ</title>
-          <details>mailto:0736237880@pixie.se</details>
-          <delay>0</delay>
-        </automated_action>
-        <automated_action>
-          <title>Mail KF</title>
-          <details>mailto:kjell.fransson@physics.uu.se</details>
-          <delay>0</delay>
-        </automated_action>
-      </pv>
-      <pv name="HPRF-Esys:hpa1:sGlobStat">
-        <description>HPRF-Esys:hpa1:sGlobStat</description>
-        <enabled>false</enabled>
-        <latching>true</latching>
-        <annunciating>true</annunciating>
-        <automated_action>
-          <title>Trip RF-switch 1</title>
-          <details>cmd:/opt/epics/bases/base-3.15.4/bin/centos7-x86_64/caput LLRF-Ctrl:SoftwareIntlk:cOK 0</details>
-          <delay>0</delay>
-        </automated_action>
-        <automated_action>
-          <title>Mail KF</title>
-          <details>mailto:kjell.fransson@physics.uu.se</details>
-          <delay>0</delay>
-        </automated_action>
-      </pv>
-      <pv name="HPRF-Esys:hpa2:sGlobStat">
-        <description>HPRF-Esys:hpa2:sGlobStat</description>
-        <enabled>false</enabled>
-        <latching>true</latching>
-        <annunciating>true</annunciating>
-        <automated_action>
-          <title>Trip RF-switch 1</title>
-          <details>cmd:/opt/epics/bases/base-3.15.4/bin/centos7-x86_64/caput LLRF-Ctrl:SoftwareIntlk:cOK 0</details>
-          <delay>0</delay>
-        </automated_action>
-        <automated_action>
-          <title>Mail KF</title>
-          <details>mailto:kjell.fransson@physics.uu.se</details>
-          <delay>0</delay>
-        </automated_action>
-      </pv>
     </component>
   </component>
 </config>
