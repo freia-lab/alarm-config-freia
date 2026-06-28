@@ -4,7 +4,7 @@
   "description" : "Env-Gas:N2:sAlive",
   "latching" : false,
   "annunciating" : false,
-  "delay" : 3900,
+  "delay" : 4200,
   "actions" : [ {
     "title" : "mail KG",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
