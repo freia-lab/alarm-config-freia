@@ -302,35 +302,35 @@
       <component name="oldpc-04 ">
         <pv name="Ctrl-oldpc04:Cpu:Idle">
           <description>Ctrl-oldpc04:Cpu:Idle</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-oldpc04:Memory:AvailSwap">
           <description>Ctrl-oldpc04:Memory:AvailSwap</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-oldpc04:disk-boot:dskPercent">
           <description>Ctrl-oldpc04:disk-boot:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-oldpc04:disk-home:dskPercent">
           <description>Ctrl-oldpc04:disk-home:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-oldpc04:disk-root:dskPercent">
           <description>Ctrl-oldpc04:disk-root:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
