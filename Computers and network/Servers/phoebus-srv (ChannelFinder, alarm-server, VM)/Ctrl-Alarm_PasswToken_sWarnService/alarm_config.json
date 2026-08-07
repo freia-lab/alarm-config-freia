@@ -6,7 +6,7 @@
   "annunciating" : false,
   "guidance" : [ {
     "title" : "What to do?",
-    "details" : "Create a new token. See http://freia.physics.uu.se/Cntrlelog/show.jsp?dir=/2022/12&pos=2022-12-08T11:07:21\nUpdate the time for the next reminder - press  \"Register service\" button in service opi (Cntrl System tab).\n"
+    "details" : "Create a new token. See https://freia-olog.physics.uu.se/logs/2105\nUpdate the time for the next reminder - press  \"Register service\" button in service opi (Cntrl System tab).\n"
   } ],
   "displays" : [ {
     "title" : "Open service opi...",
