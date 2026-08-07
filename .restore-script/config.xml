@@ -946,6 +946,36 @@ Update the time for the next reminder - press  "Register service" button in serv
         </pv>
       </component>
       <component name="ubuntu-srv1 (VM)">
+        <pv name="Ctrl-ubuntuSrv1:Cpu:Idle">
+          <description>Ctrl-ubuntuSrv1:Cpu:Idle</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
+        <pv name="Ctrl-ubuntuSrv1:Memory:AvailSwap">
+          <description>Ctrl-ubuntuSrv1:Memory:AvailSwap</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
+        <pv name="Ctrl-ubuntuSrv1:disk-boot:dskPercent">
+          <description>Ctrl-ubuntuSrv1:disk-boot:dskPercent</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
+        <pv name="Ctrl-ubuntuSrv1:disk-data1:dskPercent">
+          <description>Ctrl-ubuntuSrv1:disk-data1:dskPercent</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
+        <pv name="Ctrl-ubuntuSrv1:disk-root:dskPercent">
+          <description>Ctrl-ubuntuSrv1:disk-root:dskPercent</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
       </component>
       <component name="vsrv01 (PowerSpy)">
         <pv name="Ctrl-vsrv01:Cpu:Idle">
