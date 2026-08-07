@@ -945,6 +945,8 @@ Update the time for the next reminder - press  "Register service" button in serv
           <delay>60</delay>
         </pv>
       </component>
+      <component name="ubuntu-srv1 (VM)">
+      </component>
       <component name="vsrv01 (PowerSpy)">
         <pv name="Ctrl-vsrv01:Cpu:Idle">
           <description>Ctrl-freia:Cpu:Idle</description>
