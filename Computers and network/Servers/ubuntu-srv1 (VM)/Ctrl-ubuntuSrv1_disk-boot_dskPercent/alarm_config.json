@@ -1,5 +1,7 @@
 {
   "user" : "konrad",
-  "host" : "nuc-11",
-  "description" : "Ctrl-ubuntuSrv1:disk-boot:dskPercent"
+  "host" : "nuc-04",
+  "description" : "Ctrl-ubuntuSrv1:disk-boot:dskPercent",
+  "latching" : false,
+  "annunciating" : false
 }
