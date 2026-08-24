@@ -570,12 +570,6 @@ Consult the opi for the cable path.</details>
       <component name="Archive server (old, VM)">
       </component>
       <component name="Archive server (short term, fast)">
-        <pv name="Ctrl-oldpc01:Memory:AvailSwap">
-          <description>Ctrl-arcApl1:Memory:AvailSwap</description>
-          <enabled>true</enabled>
-          <latching>false</latching>
-          <annunciating>false</annunciating>
-        </pv>
         <pv name="Ctrl-oldpc01:disk-boot:dskPercent">
           <description>Ctrl-arcApl1:disk-boot:dskPercent</description>
           <enabled>true</enabled>
@@ -602,6 +596,12 @@ Consult the opi for the cable path.</details>
           <latching>false</latching>
           <annunciating>false</annunciating>
           <delay>60</delay>
+        </pv>
+        <pv name="Ctrl-oldpc04:Memory:AvailSwap">
+          <description>Ctrl-arcApl1:Memory:AvailSwap</description>
+          <enabled>true</enabled>
+          <latching>false</latching>
+          <annunciating>false</annunciating>
         </pv>
       </component>
       <component name="Back-up server (HP ProLiant)">
