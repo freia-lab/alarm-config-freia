@@ -577,13 +577,6 @@ Consult the opi for the cable path.</details>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
-        <pv name="Ctrl-oldpc01:disk-root:dskPercent">
-          <description>Ctrl-arcApl1:disk-root:dskPercent</description>
-          <enabled>true</enabled>
-          <latching>false</latching>
-          <annunciating>false</annunciating>
-          <delay>60</delay>
-        </pv>
         <pv name="Ctrl-oldpc04:Cpu:Idle">
           <description>Ctrl-arcApl1:Cpu:Idle</description>
           <enabled>true</enabled>
@@ -602,6 +595,13 @@ Consult the opi for the cable path.</details>
           <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
+        </pv>
+        <pv name="Ctrl-oldpc04:disk-root:dskPercent">
+          <description>Ctrl-arcApl1:disk-root:dskPercent</description>
+          <enabled>true</enabled>
+          <latching>false</latching>
+          <annunciating>false</annunciating>
+          <delay>60</delay>
         </pv>
       </component>
       <component name="Back-up server (HP ProLiant)">
