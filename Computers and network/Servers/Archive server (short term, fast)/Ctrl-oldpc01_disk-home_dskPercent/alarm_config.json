@@ -1,8 +1,5 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "Ctrl-arcApl1:disk-boot:dskPercent",
-  "latching" : false,
-  "annunciating" : false,
-  "delay" : 60
+  "delete" : "Deleting"
 }
