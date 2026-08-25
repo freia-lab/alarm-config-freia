@@ -596,7 +596,7 @@ Consult the opi for the cable path.</details>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-oldpc04:disk-root:dskPercent">
-          <description>Ctrl-arcApl1:disk-root:dskPercent</description>
+          <description>Ctrl-oldpc04:disk-root:dskPercent</description>
           <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
