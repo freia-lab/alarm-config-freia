@@ -1,4 +1,5 @@
 {
   "user" : "konrad",
-  "host" : "phoebus-srv"
+  "host" : "nuc-11",
+  "delete" : "Deleting"
 }
