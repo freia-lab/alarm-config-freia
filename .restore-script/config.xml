@@ -571,7 +571,7 @@ Consult the opi for the cable path.</details>
       </component>
       <component name="Archive server (short term, fast)">
         <pv name="Ctrl-oldpc04:Cpu:Idle">
-          <description>Ctrl-arcApl1:Cpu:Idle</description>
+          <description>Ctrl-oldpc04:Cpu:Idle</description>
           <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>

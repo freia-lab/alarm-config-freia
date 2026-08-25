@@ -1,7 +1,7 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "Ctrl-arcApl1:Cpu:Idle",
+  "description" : "Ctrl-oldpc04:Cpu:Idle",
   "latching" : false,
   "annunciating" : false,
   "delay" : 60
