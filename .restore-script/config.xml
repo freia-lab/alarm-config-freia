@@ -497,32 +497,6 @@ Consult the opi for the cable path.</details>
       </component>
       <component name="Archive server (new, VM)">
       </component>
-      <component name="Archive server (old)">
-        <pv name="Ctrl-arcApl1:Memory:AvailSwap">
-          <description>Ctrl-arcApl1:Memory:AvailSwap</description>
-          <enabled>false</enabled>
-          <latching>false</latching>
-          <annunciating>false</annunciating>
-        </pv>
-        <pv name="Ctrl-arcApl1:disk-boot:dskPercent">
-          <description>Ctrl-arcApl1:disk-boot:dskPercent</description>
-          <enabled>false</enabled>
-          <latching>false</latching>
-          <annunciating>false</annunciating>
-        </pv>
-        <pv name="Ctrl-arcApl1:disk-data1:dskPercent">
-          <description>Ctrl-arcApl1:disk-data1:dskPercent</description>
-          <enabled>false</enabled>
-          <latching>false</latching>
-          <annunciating>false</annunciating>
-        </pv>
-        <pv name="Ctrl-arcApl1:disk-root:dskPercent">
-          <description>Ctrl-arcApl1:disk-root:dskPercent</description>
-          <enabled>false</enabled>
-          <latching>false</latching>
-          <annunciating>false</annunciating>
-        </pv>
-      </component>
       <component name="Archive server (old, VM)">
       </component>
       <component name="Archive server (short term, fast)">
