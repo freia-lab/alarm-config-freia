@@ -299,36 +299,6 @@
           <delay>900</delay>
         </pv>
       </component>
-      <component name="oldpc-04 ">
-        <pv name="Ctrl-oldpc04:Cpu:Idle">
-          <description>Ctrl-oldpc04:Cpu:Idle</description>
-          <enabled>true</enabled>
-          <latching>false</latching>
-          <annunciating>false</annunciating>
-          <delay>60</delay>
-        </pv>
-        <pv name="Ctrl-oldpc04:Memory:AvailSwap">
-          <description>Ctrl-oldpc04:Memory:AvailSwap</description>
-          <enabled>true</enabled>
-          <latching>false</latching>
-          <annunciating>false</annunciating>
-          <delay>60</delay>
-        </pv>
-        <pv name="Ctrl-oldpc04:disk-boot:dskPercent">
-          <description>Ctrl-oldpc04:disk-boot:dskPercent</description>
-          <enabled>true</enabled>
-          <latching>false</latching>
-          <annunciating>false</annunciating>
-          <delay>60</delay>
-        </pv>
-        <pv name="Ctrl-oldpc04:disk-root:dskPercent">
-          <description>Ctrl-oldpc04:disk-root:dskPercent</description>
-          <enabled>true</enabled>
-          <latching>false</latching>
-          <annunciating>false</annunciating>
-          <delay>60</delay>
-        </pv>
-      </component>
     </component>
     <component name="Profibus DP Network">
       <automated_action>
