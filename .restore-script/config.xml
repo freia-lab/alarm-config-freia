@@ -321,13 +321,6 @@
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
-        <pv name="Ctrl-oldpc04:disk-home:dskPercent">
-          <description>Ctrl-oldpc04:disk-home:dskPercent</description>
-          <enabled>false</enabled>
-          <latching>false</latching>
-          <annunciating>false</annunciating>
-          <delay>60</delay>
-        </pv>
         <pv name="Ctrl-oldpc04:disk-root:dskPercent">
           <description>Ctrl-oldpc04:disk-root:dskPercent</description>
           <enabled>false</enabled>
