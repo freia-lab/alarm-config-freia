@@ -578,7 +578,7 @@ Consult the opi for the cable path.</details>
           <delay>60</delay>
         </pv>
         <pv name="Ctrl-oldpc04:Memory:AvailSwap">
-          <description>Ctrl-arcApl1:Memory:AvailSwap</description>
+          <description>Ctrl-oldpc04:Memory:AvailSwap</description>
           <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>

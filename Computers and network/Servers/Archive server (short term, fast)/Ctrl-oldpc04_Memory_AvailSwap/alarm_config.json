@@ -1,7 +1,7 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "Ctrl-arcApl1:Memory:AvailSwap",
+  "description" : "Ctrl-oldpc04:Memory:AvailSwap",
   "latching" : false,
   "annunciating" : false
 }
