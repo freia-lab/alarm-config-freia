@@ -825,13 +825,6 @@ Consult the opi for the cable path.</details>
           <annunciating>false</annunciating>
           <delay>60</delay>
         </pv>
-        <pv name="Ctrl-nuc04:disk-home:dskPercent">
-          <description>Ctrl-nuc04:disk-home:dskPercent</description>
-          <enabled>false</enabled>
-          <latching>false</latching>
-          <annunciating>false</annunciating>
-          <delay>60</delay>
-        </pv>
         <pv name="Ctrl-nuc04:disk-root:dskPercent">
           <description>Ctrl-nuc04:disk-root:dskPercent</description>
           <enabled>false</enabled>
