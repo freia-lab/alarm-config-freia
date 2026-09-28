@@ -1722,6 +1722,11 @@ fix the problem.</details>
         <details>mailto:ruslan.chulkov@physics.uu.se</details>
         <delay>0</delay>
       </automated_action>
+      <automated_action>
+        <title>SMS_RC</title>
+        <details>mailto:0701679305@pixie.se</details>
+        <delay>0</delay>
+      </automated_action>
       <pv name="Llab-EPP:getStatusOK">
         <description>Llab-EPP:getStatusOK</description>
         <enabled>true</enabled>
