@@ -1,6 +1,6 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "nuc-11",
   "displays" : [ {
     "title" : "Open opi...",
     "details" : "/opt/epics/opi/bob/laser/laser-lab.bob"
@@ -12,6 +12,10 @@
   }, {
     "title" : "Mail to VS",
     "details" : "mailto:vishal.shokeen@physics.uu.se",
+    "delay" : 0
+  }, {
+    "title" : "Mail to RC",
+    "details" : "mailto:ruslan.chulkov@physics.uu.se",
     "delay" : 0
   } ]
 }
