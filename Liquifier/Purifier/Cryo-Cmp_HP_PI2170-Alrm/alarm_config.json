@@ -16,5 +16,9 @@
     "title" : "SMS CS",
     "details" : "mailto:0730393656@pixie.se",
     "delay" : 180
+  }, {
+    "title" : "mail TS",
+    "details" : "mailto:theo.sobczak@physics.uu.se",
+    "delay" : 180
   } ]
 }

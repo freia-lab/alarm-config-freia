@@ -3238,6 +3238,11 @@ fix the problem.</details>
           <details>mailto:0730393656@pixie.se</details>
           <delay>180</delay>
         </automated_action>
+        <automated_action>
+          <title>mail TS</title>
+          <details>mailto:theo.sobczak@physics.uu.se</details>
+          <delay>180</delay>
+        </automated_action>
       </pv>
       <pv name="Cryo-Ctrl:Ctrl:UAHH1011">
         <description>Cryo-Ctrl:Ctrl:UAHH1011</description>
