@@ -184,7 +184,7 @@
         <delay>30</delay>
       </automated_action>
       <automated_action>
-        <title>Send mail</title>
+        <title>mail TS</title>
         <details>mailto:theo.sobczak@physics.uu.se</details>
         <delay>30</delay>
       </automated_action>
