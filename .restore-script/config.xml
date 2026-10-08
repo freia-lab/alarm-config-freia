@@ -3079,6 +3079,11 @@ fix the problem.</details>
         <details>mailto:0730393656@pixie.se</details>
         <delay>300</delay>
       </automated_action>
+      <automated_action>
+        <title>mail TS</title>
+        <details>mailto:theo.sobczak@physics.uu.se</details>
+        <delay>300</delay>
+      </automated_action>
     </pv>
     <component name="Dewar">
       <automated_action>
