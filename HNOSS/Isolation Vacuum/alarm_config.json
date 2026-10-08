@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "phoebus-srv",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "actions" : [ {
     "title" : "Alarm Severity PV",
     "details" : "sevrpv:Ctrl-Alarm:CstatH-Vac",
