@@ -1,5 +1,5 @@
 {
-  "user" : "konrad",
+  "user" : "theo",
   "host" : "oldpc-02",
   "description" : "Oxygen < 20% in bunker1",
   "latching" : false,
@@ -7,6 +7,10 @@
   "actions" : [ {
     "title" : "SMS KG",
     "details" : "mailto:0701679193@pixie.se",
+    "delay" : 300
+  }, {
+    "title" : "SMS TS",
+    "details" : "mailto:0707803988@pixie.se",
     "delay" : 300
   } ]
 }

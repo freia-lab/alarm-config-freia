@@ -1380,6 +1380,11 @@ fix the problem.</details>
           <details>mailto:0701679193@pixie.se</details>
           <delay>300</delay>
         </automated_action>
+        <automated_action>
+          <title>SMS TS</title>
+          <details>mailto:0707803988@pixie.se</details>
+          <delay>300</delay>
+        </automated_action>
       </pv>
     </component>
     <component name="RF leakage">
