@@ -3362,6 +3362,11 @@ fix the problem.</details>
         <details>mailto:konrad.gajewski@physics.uu.se</details>
         <delay>0</delay>
       </automated_action>
+      <automated_action>
+        <title>mail TS</title>
+        <details>mailto:theo.sobczak@physics.uu.se</details>
+        <delay>0</delay>
+      </automated_action>
     </component>
     <component name="RF-Interlock">
       <display>

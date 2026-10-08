@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-04.freia.local",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "displays" : [ {
     "title" : "Open opi...",
     "details" : "/opt/epics/opi/bob/dbe/DBE_main.bob"
@@ -12,6 +12,10 @@
   }, {
     "title" : "mail_KG",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 0
+  }, {
+    "title" : "mail TS",
+    "details" : "mailto:theo.sobczak@physics.uu.se",
     "delay" : 0
   } ]
 }
