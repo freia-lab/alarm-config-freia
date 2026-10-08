@@ -160,6 +160,11 @@
         <details>mailto:konrad.gajewski@physics.uu.se</details>
         <delay>3600</delay>
       </automated_action>
+      <automated_action>
+        <title>Send email</title>
+        <details>mailto:theo.sobczak@physics.uu.se</details>
+        <delay>0</delay>
+      </automated_action>
       <pv name="Ctrl-Alarm:Network:InterVLANcomm">
         <description>InterVLAN communication</description>
         <enabled>false</enabled>

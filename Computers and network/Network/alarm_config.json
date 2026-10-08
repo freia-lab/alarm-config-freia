@@ -1,9 +1,13 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-07",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "actions" : [ {
     "title" : "Send email",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
     "delay" : 3600
+  }, {
+    "title" : "Send email",
+    "details" : "mailto:theo.sobczak@physics.uu.se",
+    "delay" : 0
   } ]
 }
