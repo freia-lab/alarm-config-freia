@@ -1115,6 +1115,11 @@ Update the time for the next reminder - press  "Register service" button in serv
         <title>BMC flow meters</title>
         <details>/opt/epics/opi/bob/.bmcgas/BMC-flowmeters.bob</details>
       </display>
+      <automated_action>
+        <title>mail TS</title>
+        <details>mailto:theo.sobczak@physics.uu.se</details>
+        <delay>10</delay>
+      </automated_action>
       <pv name="Env-Gas:Ar:sAlive">
         <description>Env-Gas:Ar:sAlive</description>
         <enabled>true</enabled>

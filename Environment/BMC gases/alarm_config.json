@@ -1,8 +1,13 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-14",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "displays" : [ {
     "title" : "BMC flow meters",
     "details" : "/opt/epics/opi/bob/.bmcgas/BMC-flowmeters.bob"
+  } ],
+  "actions" : [ {
+    "title" : "mail TS",
+    "details" : "mailto:theo.sobczak@physics.uu.se",
+    "delay" : 10
   } ]
 }
