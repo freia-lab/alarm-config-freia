@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-11",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "description" : "CstatH-2Kpumps:Ctrl:sFault",
   "latching" : false,
   "annunciating" : false,
@@ -11,6 +11,10 @@
   }, {
     "title" : "mail KG",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 0
+  }, {
+    "title" : "Send mail",
+    "details" : "mailto:Theo.sobczak@physics.uu.se",
     "delay" : 0
   } ]
 }

@@ -1682,6 +1682,11 @@ fix the problem.</details>
           <details>mailto:konrad.gajewski@physics.uu.se</details>
           <delay>0</delay>
         </automated_action>
+        <automated_action>
+          <title>Send mail</title>
+          <details>mailto:Theo.sobczak@physics.uu.se</details>
+          <delay>0</delay>
+        </automated_action>
       </pv>
       <pv name="CstatH-2Kpumps:Ctrl:sPBcomOK">
         <description>CstatH-2Kpumps:Ctrl:sPBcomOK</description>
