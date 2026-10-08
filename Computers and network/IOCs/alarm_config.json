@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-11",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "actions" : [ {
     "title" : "Send email",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
@@ -8,6 +8,10 @@
   }, {
     "title" : "AlarmSeverity PV",
     "details" : "sevrpv:Ctrl-Alarm:Comp-IOCs",
+    "delay" : 0
+  }, {
+    "title" : "Send email",
+    "details" : "mailto:Theo.sobczak@physics.uu.se",
     "delay" : 0
   } ]
 }
