@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-11",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "actions" : [ {
     "title" : "SMS to RSK",
     "details" : "mailto:0701679527@pixie.se",
