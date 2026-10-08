@@ -10,7 +10,7 @@
     "details" : "sevrpv:Ctrl-Alarm:Comp-IOCs",
     "delay" : 0
   }, {
-    "title" : "Send email",
+    "title" : "mail TS",
     "details" : "mailto:Theo.sobczak@physics.uu.se",
     "delay" : 0
   } ]
