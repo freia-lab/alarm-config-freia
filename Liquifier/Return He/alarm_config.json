@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-11",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "actions" : [ {
     "title" : "KG",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
@@ -9,5 +9,9 @@
     "title" : "EP SMS",
     "details" : "mailto:0729999371@pixie.se",
     "delay" : 300
+  }, {
+    "title" : "mail TS",
+    "details" : "mailto:theo.sobczak@physics.uu.se",
+    "delay" : 60
   } ]
 }
