@@ -326,6 +326,11 @@
         <details>sevrpv:Ctrl-Alarm:Comp-PB</details>
         <delay>0</delay>
       </automated_action>
+      <automated_action>
+        <title>mail TS</title>
+        <details>mailto:theo.sobczak@physics.uu.se</details>
+        <delay>30</delay>
+      </automated_action>
       <pv name="PLC-WTRVAC:Ctrl-PB:sErr-3">
         <description>PLC-WTRVAC:Ctrl-PB:sErr-3</description>
         <enabled>true</enabled>
