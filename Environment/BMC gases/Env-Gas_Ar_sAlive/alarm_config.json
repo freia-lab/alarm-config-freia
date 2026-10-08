@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-14",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "description" : "Env-Gas:Ar:sAlive",
   "latching" : false,
   "annunciating" : false,
@@ -9,6 +9,10 @@
   "actions" : [ {
     "title" : "mail KG",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 30
+  }, {
+    "title" : "mail TS",
+    "details" : "mailto:theo.sobczak@physics.uu.se",
     "delay" : 30
   } ]
 }
