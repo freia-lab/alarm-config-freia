@@ -3229,11 +3229,6 @@ fix the problem.</details>
           <delay>180</delay>
         </automated_action>
         <automated_action>
-          <title>Mail KF</title>
-          <details>mailto:kjell.fransson@physics.uu.se</details>
-          <delay>180</delay>
-        </automated_action>
-        <automated_action>
           <title>SMS EP</title>
           <details>mailto:0729999371@pixie.se</details>
           <delay>180</delay>
