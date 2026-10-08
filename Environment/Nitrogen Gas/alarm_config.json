@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-11",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "guidance" : [ {
     "title" : "What to do when INVALID",
     "details" : "Usualy it is needed to power cycle the Modbus Gateway:\nWAVESHARE RS485 TO POE ETH (B)\nThe gateway in FREIA is located in the FREIA compressor room on the wall behind the 2K pumps.\nFor the gateway in Hus3 contact Björn Kuzavas tel. 070-1679246 "
@@ -12,6 +12,10 @@
   "actions" : [ {
     "title" : "mail_to_KG",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 300
+  }, {
+    "title" : "Send mail",
+    "details" : "mailto:Theo.sobczak@physics.uu.se",
     "delay" : 300
   } ]
 }
