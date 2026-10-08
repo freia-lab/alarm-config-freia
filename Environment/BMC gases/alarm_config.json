@@ -8,6 +8,6 @@
   "actions" : [ {
     "title" : "mail TS",
     "details" : "mailto:theo.sobczak@physics.uu.se",
-    "delay" : 10
+    "delay" : 30
   } ]
 }
