@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-07",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "description" : "Dewar < 200 l",
   "latching" : false,
   "annunciating" : false,
@@ -8,10 +8,6 @@
   "actions" : [ {
     "title" : "SNS RS",
     "details" : "mailto:0701679527@pixie.se",
-    "delay" : 180
-  }, {
-    "title" : "Mail KF",
-    "details" : "mailto:kjell.fransson@physics.uu.se",
     "delay" : 180
   }, {
     "title" : "EP",
