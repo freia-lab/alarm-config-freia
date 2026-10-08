@@ -1472,6 +1472,11 @@ fix the problem.</details>
         <details>mailto:konrad.gajewski@physics.uu.se</details>
         <delay>600</delay>
       </automated_action>
+      <automated_action>
+        <title>Send mail</title>
+        <details>mailto:Theo.sobczak@physics.uu.se</details>
+        <delay>600</delay>
+      </automated_action>
       <pv name="RadProt-Bunker1:GD-01:sDoseRt">
         <description>High dose at the door</description>
         <enabled>true</enabled>
