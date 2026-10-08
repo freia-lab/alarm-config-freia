@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-11",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "displays" : [ {
     "title" : "Open opi...",
     "details" : "/opt/epics/opi/bob/laser/laser-lab.bob"
@@ -20,6 +20,10 @@
   }, {
     "title" : "SMS_RC",
     "details" : "mailto:0701679305@pixie.se",
+    "delay" : 0
+  }, {
+    "title" : "Mail to Ts",
+    "details" : "mailto:Theo.sobczak@physics.uu.se",
     "delay" : 0
   } ]
 }
