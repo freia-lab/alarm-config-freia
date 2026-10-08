@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-11",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "description" : "Cryo-CBox:Pur:QT3400_Td",
   "latching" : false,
   "annunciating" : false,
@@ -20,5 +20,9 @@
     "title" : "email CS",
     "details" : "mailto:carl.svanberg@physics.uu.se",
     "delay" : 300
+  }, {
+    "title" : "email TS",
+    "details" : "mailto:theo.sobczak@physics.uu.se",
+    "delay" : 0
   } ]
 }
