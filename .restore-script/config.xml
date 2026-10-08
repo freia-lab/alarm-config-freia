@@ -386,6 +386,11 @@ Consult the opi for the cable path.</details>
         <details>sevrpv:Ctrl-Alarm:Comp-Servers</details>
         <delay>0</delay>
       </automated_action>
+      <automated_action>
+        <title>Send email</title>
+        <details>mailto:theo.sobczak@physics.uu.se</details>
+        <delay>600</delay>
+      </automated_action>
       <component name="Archive server (backup, VM)">
         <pv name="Ctrl-arcApl2:Cpu:Idle">
           <description>Ctrl-arcApl2:Cpu:Idle</description>
