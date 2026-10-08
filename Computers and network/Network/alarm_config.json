@@ -8,6 +8,6 @@
   }, {
     "title" : "Send email",
     "details" : "mailto:theo.sobczak@physics.uu.se",
-    "delay" : 0
+    "delay" : 3600
   } ]
 }
