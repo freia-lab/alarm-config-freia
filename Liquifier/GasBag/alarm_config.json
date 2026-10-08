@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-07",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "actions" : [ {
     "title" : "SMS_to_KG",
     "details" : "mailto:0701679193@pixie.se",
@@ -16,6 +16,10 @@
   }, {
     "title" : "SMS CS",
     "details" : "mailto:0730393656@pixie.se",
+    "delay" : 0
+  }, {
+    "title" : "SMS_to_TS",
+    "details" : "mailto:0707803988@pixie.se",
     "delay" : 0
   } ]
 }
