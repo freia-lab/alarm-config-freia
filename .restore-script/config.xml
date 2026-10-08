@@ -1132,11 +1132,6 @@ Update the time for the next reminder - press  "Register service" button in serv
           <details>mailto:konrad.gajewski@physics.uu.se</details>
           <delay>30</delay>
         </automated_action>
-        <automated_action>
-          <title>mail TS</title>
-          <details>mailto:theo.sobczak@physics.uu.se</details>
-          <delay>30</delay>
-        </automated_action>
       </pv>
       <pv name="Env-Gas:CH4-Ar:sAlive">
         <description>Env-Gas:CH4-Ar:sAlive</description>
