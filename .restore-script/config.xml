@@ -1552,6 +1552,11 @@ fix the problem.</details>
         <details>mailto:konrad.gajewski@physics.uu.se</details>
         <delay>10</delay>
       </automated_action>
+      <automated_action>
+        <title>Send mail</title>
+        <details>mailto:Theo.sobczak@physics.uu.se</details>
+        <delay>10</delay>
+      </automated_action>
       <pv name="CstatV-Ctrl:Archiving:On">
         <description>Vertical cryostat's archiving is turned off</description>
         <enabled>true</enabled>
