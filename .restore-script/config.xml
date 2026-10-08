@@ -392,7 +392,7 @@ Consult the opi for the cable path.</details>
         <delay>0</delay>
       </automated_action>
       <automated_action>
-        <title>Send email</title>
+        <title>mail TS</title>
         <details>mailto:theo.sobczak@physics.uu.se</details>
         <delay>600</delay>
       </automated_action>

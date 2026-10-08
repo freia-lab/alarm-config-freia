@@ -10,7 +10,7 @@
     "details" : "sevrpv:Ctrl-Alarm:Comp-Servers",
     "delay" : 0
   }, {
-    "title" : "Send email",
+    "title" : "mail TS",
     "details" : "mailto:theo.sobczak@physics.uu.se",
     "delay" : 600
   } ]
