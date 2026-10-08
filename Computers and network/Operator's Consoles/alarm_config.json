@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "phoebus-srv",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "actions" : [ {
     "title" : "Alarm Severity PV",
     "details" : "sevrpv:Ctrl-Alarm:Comp-OpCons",
@@ -8,6 +8,10 @@
   }, {
     "title" : "Send mail",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 30
+  }, {
+    "title" : "Send mail",
+    "details" : "mailto:theo.sobczak@physics.uu.se",
     "delay" : 30
   } ]
 }

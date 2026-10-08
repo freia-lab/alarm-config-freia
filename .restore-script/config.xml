@@ -183,6 +183,11 @@
         <details>mailto:konrad.gajewski@physics.uu.se</details>
         <delay>30</delay>
       </automated_action>
+      <automated_action>
+        <title>Send mail</title>
+        <details>mailto:theo.sobczak@physics.uu.se</details>
+        <delay>30</delay>
+      </automated_action>
       <component name="centos7-DM (VM)">
         <pv name="Ctrl-centos7DM:Cpu:Idle">
           <description>Ctrl-centos7-DM:Cpu:Idle</description>
