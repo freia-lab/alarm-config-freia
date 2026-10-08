@@ -1488,7 +1488,7 @@ fix the problem.</details>
         <delay>600</delay>
       </automated_action>
       <automated_action>
-        <title>Send mail</title>
+        <title>mail TS</title>
         <details>mailto:Theo.sobczak@physics.uu.se</details>
         <delay>600</delay>
       </automated_action>
