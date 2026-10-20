@@ -3564,18 +3564,8 @@ fix the problem.</details>
           <delay>0</delay>
         </automated_action>
         <automated_action>
-          <title>SMS KF</title>
-          <details>mailto:0701712391@pixie.se</details>
-          <delay>0</delay>
-        </automated_action>
-        <automated_action>
           <title>SMS MZ</title>
           <details>mailto:0736237880@pixie.se</details>
-          <delay>0</delay>
-        </automated_action>
-        <automated_action>
-          <title>Mail to KF</title>
-          <details>mailto:kjell.fransson@physics.uu.se</details>
           <delay>0</delay>
         </automated_action>
       </pv>
