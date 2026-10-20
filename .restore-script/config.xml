@@ -3590,11 +3590,6 @@ fix the problem.</details>
           <details>cmd:/opt/epics/bases/base-3.15.4/bin/centos7-x86_64/caput LLRF-Ctrl:SoftwareIntlk:cOK 0</details>
           <delay>0</delay>
         </automated_action>
-        <automated_action>
-          <title>Mail KF</title>
-          <details>mailto:kjell.fransson@physics.uu.se</details>
-          <delay>0</delay>
-        </automated_action>
       </pv>
     </component>
   </component>
