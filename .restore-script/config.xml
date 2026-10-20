@@ -2982,11 +2982,6 @@ fix the problem.</details>
             <details>mailto:0729999371@pixie.se</details>
             <delay>210</delay>
           </automated_action>
-          <automated_action>
-            <title>Mail KF</title>
-            <details>mailto:kjell.fransson@physics.uu.se</details>
-            <delay>300</delay>
-          </automated_action>
         </pv>
         <pv name="Cryo-Rec:LP:Trp_LAHH7215">
           <description>Gasbag venting trip</description>
