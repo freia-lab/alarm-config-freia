@@ -1052,8 +1052,6 @@ Update the time for the next reminder - press  "Register service" button in serv
         </automated_action>
       </pv>
     </component>
-    <component name="Keithley">
-    </component>
     <component name="LN2 cooling">
       <pv name="CM-VBox:TT60:sRdV">
         <description>CM-VBox:TT60:sRdV</description>
