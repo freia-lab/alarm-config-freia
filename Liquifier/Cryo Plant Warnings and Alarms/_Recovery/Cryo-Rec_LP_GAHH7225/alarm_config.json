@@ -12,9 +12,5 @@
     "title" : "SMS EP",
     "details" : "mailto:0729999371@pixie.se",
     "delay" : 210
-  }, {
-    "title" : "Mail KF",
-    "details" : "mailto:kjell.fransson@physics.uu.se",
-    "delay" : 300
   } ]
 }
