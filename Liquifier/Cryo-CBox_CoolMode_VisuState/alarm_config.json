@@ -1,6 +1,6 @@
 {
-  "user" : "theo",
-  "host" : "oldpc-02",
+  "user" : "konrad",
+  "host" : "nuc-11",
   "description" : "Purifier on/off alarm",
   "latching" : false,
   "annunciating" : false,
@@ -12,10 +12,6 @@
   "actions" : [ {
     "title" : "SMS RS",
     "details" : "mailto:0701679527@pixie.se",
-    "delay" : 300
-  }, {
-    "title" : "Mail KF",
-    "details" : "mailto:kjell.fransson@physics.uu.se",
     "delay" : 300
   }, {
     "title" : "SMS EP",
