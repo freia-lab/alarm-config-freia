@@ -2141,6 +2141,11 @@ fix the problem.</details>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
+        <automated_action>
+          <title>SMS_EP</title>
+          <details>mailto:0729999371@pixie.se</details>
+          <delay>0</delay>
+        </automated_action>
       </pv>
       <pv name="Cryo-Rec:LP:Wrn_QAH7250">
         <description>Cryo-Rec:LP:Wrn_QAH7250</description>
