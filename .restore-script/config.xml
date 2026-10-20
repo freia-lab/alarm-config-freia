@@ -3520,16 +3520,6 @@ fix the problem.</details>
         <latching>false</latching>
         <annunciating>true</annunciating>
         <automated_action>
-          <title>SMS KF</title>
-          <details>mailto:0701712391@pixie.se</details>
-          <delay>0</delay>
-        </automated_action>
-        <automated_action>
-          <title>Mail KF</title>
-          <details>mailto:kjell.fransson@physics.uu.se</details>
-          <delay>0</delay>
-        </automated_action>
-        <automated_action>
           <title>SMS MZ</title>
           <details>mailto:0736237880@pixie.se</details>
           <delay>0</delay>
