@@ -3325,7 +3325,7 @@ fix the problem.</details>
         <delay>10</delay>
       </pv>
       <pv name="Cryo-Rec:LP:QI7240">
-        <description>Cryo-Rec:LP:QI7240</description>
+        <description>He impurity - return from House 6</description>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
