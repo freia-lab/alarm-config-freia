@@ -1,7 +1,7 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "Cryo-Rec:LP:QI7220",
+  "description" : "He impurity - not used",
   "latching" : false,
   "annunciating" : false,
   "delay" : 10
