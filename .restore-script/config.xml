@@ -3318,7 +3318,7 @@ fix the problem.</details>
         <delay>10</delay>
       </pv>
       <pv name="Cryo-Rec:LP:QI7230">
-        <description>He inpurity - return from House 4</description>
+        <description>He impurity - return from House 4</description>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
