@@ -1,6 +1,6 @@
 {
   "user" : "konrad",
-  "host" : "phoebus-srv",
+  "host" : "nuc-11",
   "description" : "Vertical cryostat's archiving is turned off",
   "latching" : false,
   "commands" : [ {
@@ -9,5 +9,10 @@
   }, {
     "title" : "Stop archiving",
     "details" : "caput CstatV-Ctrl:Archiving:On 0"
+  } ],
+  "actions" : [ {
+    "title" : "mail to KG",
+    "details" : "mailto:konrad.gajewski@physics.uu.se",
+    "delay" : 0
   } ]
 }

@@ -1568,6 +1568,11 @@ fix the problem.</details>
           <title>Stop archiving</title>
           <details>caput CstatV-Ctrl:Archiving:On 0</details>
         </command>
+        <automated_action>
+          <title>mail to KG</title>
+          <details>mailto:konrad.gajewski@physics.uu.se</details>
+          <delay>0</delay>
+        </automated_action>
       </pv>
       <pv name="CstatV-RHtr:CV580:sErrCode">
         <description>CstatV-RHtr:CV580:sErrCode</description>
