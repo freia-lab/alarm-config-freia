@@ -1635,7 +1635,7 @@ fix the problem.</details>
       </pv>
       <pv name="CstatH-Vac:PT024:PrsR">
         <description>CstatH-Vac:PT024:PrsR</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>true</latching>
         <annunciating>false</annunciating>
       </pv>
