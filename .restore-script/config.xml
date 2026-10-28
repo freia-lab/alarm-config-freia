@@ -292,6 +292,24 @@
         </pv>
       </component>
       <component name="oldpc-01">
+        <pv name="Ctrl-oldpc01:Cpu:Idle">
+          <description>Ctrl-oldpc01:Cpu:Idle</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
+        <pv name="Ctrl-oldpc01:Memory:AvailSwap">
+          <description>Ctrl-oldpc01:Memory:AvailSwap</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
+        <pv name="Ctrl-oldpc01:disk-root:dskPercent">
+          <description>Ctrl-oldpc01:disk-root:dskPercent</description>
+          <enabled>true</enabled>
+          <latching>true</latching>
+          <annunciating>true</annunciating>
+        </pv>
       </component>
       <component name="oldpc-02">
         <pv name="Ctrl-oldpc02:Cpu:Idle">
