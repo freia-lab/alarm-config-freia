@@ -1,5 +1,8 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "Ctrl-oldpc01:Memory:AvailSwap"
+  "description" : "Ctrl-oldpc01:Memory:AvailSwap",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 1800
 }

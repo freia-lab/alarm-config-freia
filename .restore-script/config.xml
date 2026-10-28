@@ -302,8 +302,9 @@
         <pv name="Ctrl-oldpc01:Memory:AvailSwap">
           <description>Ctrl-oldpc01:Memory:AvailSwap</description>
           <enabled>true</enabled>
-          <latching>true</latching>
-          <annunciating>true</annunciating>
+          <latching>false</latching>
+          <annunciating>false</annunciating>
+          <delay>1800</delay>
         </pv>
         <pv name="Ctrl-oldpc01:disk-root:dskPercent">
           <description>Ctrl-oldpc01:disk-root:dskPercent</description>
