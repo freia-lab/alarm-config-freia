@@ -3,5 +3,6 @@
   "host" : "nuc-11",
   "description" : "Ctrl-oldpc01:Cpu:Idle",
   "latching" : false,
-  "annunciating" : false
+  "annunciating" : false,
+  "delay" : 1800
 }
