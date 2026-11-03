@@ -1,5 +1,8 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "RadProt-Bunker1:GD-02:sDoseRtAlarm"
+  "description" : "RadProt-Bunker1:GD-02:sDoseRtAlarm",
+  "latching" : false,
+  "annunciating" : false,
+  "delay" : 30
 }
