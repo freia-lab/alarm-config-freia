@@ -1,10 +1,5 @@
 {
   "user" : "konrad",
   "host" : "nuc-11",
-  "description" : "High dose in the bunker",
-  "latching" : false,
-  "guidance" : [ {
-    "title" : "Guide, Guide",
-    "details" : "Text Text"
-  } ]
+  "delete" : "Deleting"
 }
