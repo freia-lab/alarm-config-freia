@@ -1514,6 +1514,12 @@ fix the problem.</details>
           <details>Text Text</details>
         </guidance>
       </pv>
+      <pv name="RadProt-Bunker1:GD-02:sDoseRtAlarm">
+        <description>RadProt-Bunker1:GD-02:sDoseRtAlarm</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
       <pv name="RadProt-Bunker1:GD-03:sDoseRt">
         <description>RadProt-Bunker1:GD-03:sDoseRt</description>
         <enabled>true</enabled>
