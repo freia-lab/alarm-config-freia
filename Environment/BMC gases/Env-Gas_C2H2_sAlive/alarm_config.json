@@ -1,7 +1,8 @@
 {
-  "user" : "konrgaje",
-  "host" : "FREIA-CONS4",
+  "user" : "konrad",
+  "host" : "oldpc-02",
   "description" : "Env-Gas:C2H2:sAlive",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 300,
