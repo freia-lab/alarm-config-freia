@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "nuc-11",
+  "host" : "oldpc-02",
   "description" : "Env-Gas:He:sAlive",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 30,
