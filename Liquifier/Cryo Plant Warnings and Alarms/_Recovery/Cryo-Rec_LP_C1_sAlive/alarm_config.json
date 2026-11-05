@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-11",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "description" : "Cryo-Rec:LP:C1:sAlive",
   "latching" : false,
   "annunciating" : false,
@@ -17,5 +17,13 @@
     "title" : "KG",
     "details" : "mailto:konrad.gajewski@physics.uu.se",
     "delay" : 600
+  }, {
+    "title" : "SMS to CS",
+    "details" : "mailto:0730393656@pixie.se",
+    "delay" : 0
+  }, {
+    "title" : "SMS to RSK",
+    "details" : "mailto:0701679527@pixie.se",
+    "delay" : 0
   } ]
 }
