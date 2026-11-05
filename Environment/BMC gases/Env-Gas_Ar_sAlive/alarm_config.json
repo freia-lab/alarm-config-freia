@@ -1,7 +1,8 @@
 {
-  "user" : "theo",
+  "user" : "konrad",
   "host" : "oldpc-02",
   "description" : "Env-Gas:Ar:sAlive",
+  "enabled" : false,
   "latching" : false,
   "annunciating" : false,
   "delay" : 30,
