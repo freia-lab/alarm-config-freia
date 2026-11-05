@@ -3173,6 +3173,7 @@ fix the problem.</details>
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>true</annunciating>
+        <delay>30</delay>
       </pv>
       <pv name="Cryo-Rec:LP:GasBagLidar-status">
         <description>Cryo-Rec:LP:GasBagLidar-status</description>

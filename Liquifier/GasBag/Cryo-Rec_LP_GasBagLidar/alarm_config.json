@@ -1,6 +1,7 @@
 {
   "user" : "konrad",
-  "host" : "nuc-07",
+  "host" : "nuc-11",
   "description" : "Gas Bag full",
-  "latching" : false
+  "latching" : false,
+  "delay" : 30
 }
