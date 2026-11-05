@@ -9,5 +9,9 @@
     "title" : "SMS to CS",
     "details" : "mailto:0730393656@pixie.se",
     "delay" : 0
+  }, {
+    "title" : "SMS to IP",
+    "details" : "mailto:+46769223174@pixie.se",
+    "delay" : 0
   } ]
 }

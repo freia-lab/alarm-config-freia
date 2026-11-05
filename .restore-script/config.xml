@@ -1647,6 +1647,11 @@ fix the problem.</details>
         <details>mailto:0730393656@pixie.se</details>
         <delay>0</delay>
       </automated_action>
+      <automated_action>
+        <title>SMS to IP</title>
+        <details>mailto:+46769223174@pixie.se</details>
+        <delay>0</delay>
+      </automated_action>
       <pv name="CstatH-Vac:PT020:PrsR">
         <description>CstatH-Vac:PT020:PrsR</description>
         <enabled>true</enabled>
