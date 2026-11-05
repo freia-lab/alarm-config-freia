@@ -3260,6 +3260,11 @@ fix the problem.</details>
           <details>mailto:theo.sobczak@physics.uu.se</details>
           <delay>0</delay>
         </automated_action>
+        <automated_action>
+          <title>email RSK</title>
+          <details>mailto:rocio.santiago_kern@physics.uu.se</details>
+          <delay>0</delay>
+        </automated_action>
       </pv>
       <pv name="Cryo-Cmp:HP:PI2170-Alrm">
         <description>Buffer tank preassure low</description>

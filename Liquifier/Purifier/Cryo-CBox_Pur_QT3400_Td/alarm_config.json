@@ -24,5 +24,9 @@
     "title" : "email TS",
     "details" : "mailto:theo.sobczak@physics.uu.se",
     "delay" : 0
+  }, {
+    "title" : "email RSK",
+    "details" : "mailto:rocio.santiago_kern@physics.uu.se",
+    "delay" : 0
   } ]
 }
