@@ -1,6 +1,6 @@
 {
-  "user" : "konrad",
-  "host" : "nuc-11",
+  "user" : "theo",
+  "host" : "oldpc-02",
   "description" : "LP Compressor warning",
   "latching" : false,
   "annunciating" : false,
