@@ -337,6 +337,8 @@
           <delay>900</delay>
         </pv>
       </component>
+      <component name="oldpc-04 ">
+      </component>
     </component>
     <component name="Profibus DP Network">
       <automated_action>
@@ -544,6 +546,10 @@ Consult the opi for the cable path.</details>
         </pv>
       </component>
       <component name="Archive server (new, VM)">
+      </component>
+      <component name="Archive server (old)">
+      </component>
+      <component name="Archive server (old, VM)">
       </component>
       <component name="Archive server (short term, fast)">
         <pv name="Ctrl-oldpc04:Cpu:Idle">
@@ -1074,6 +1080,8 @@ Update the time for the next reminder - press  "Register service" button in serv
           <delay>200</delay>
         </automated_action>
       </pv>
+    </component>
+    <component name="Keithley">
     </component>
     <component name="LN2 cooling">
       <pv name="CM-VBox:TT60:sRdV">
@@ -3392,6 +3400,10 @@ fix the problem.</details>
       <details>sevrpv:Ctrl-Alarm:RF</details>
       <delay>0</delay>
     </automated_action>
+    <component name="Electrosys">
+      <component name="Communication">
+      </component>
+    </component>
     <component name="HPRF-DBE1:Fil:sI">
       <display>
         <title>Open opi...</title>
