@@ -1,6 +1,6 @@
 {
-  "user" : "theo",
-  "host" : "oldpc-02",
+  "user" : "konrad",
+  "host" : "nuc-11",
   "displays" : [ {
     "title" : "Open opi...",
     "details" : "/opt/epics/opi/bob/radprot-freia/radprot_top.bob"
