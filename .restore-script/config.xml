@@ -1350,7 +1350,7 @@ fix the problem.</details>
       <automated_action>
         <title>MailKG</title>
         <details>mailto:konrad.gajewski@physics.uu.se</details>
-        <delay>600</delay>
+        <delay>1800</delay>
       </automated_action>
       <automated_action>
         <title>mail TS</title>
