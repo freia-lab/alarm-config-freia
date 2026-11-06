@@ -1378,25 +1378,25 @@ fix the problem.</details>
       </pv>
       <pv name="RadProt-Bunker2:GD-01:sDoseRt">
         <description>RadProt-Bunker2:GD-01:sDoseRt</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="RadProt-Bunker2:GD-02:sDoseRt">
         <description>RadProt-Bunker2:GD-02:sDoseRt</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="RadProt-Bunker2:GD-03:sDoseRt">
         <description>RadProt-Bunker2:GD-03:sDoseRt</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
       <pv name="RadProt-Bunker2:ND-01:sDoseRt">
         <description>RadProt-Bunker2:ND-01:sDoseRt</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
       </pv>
