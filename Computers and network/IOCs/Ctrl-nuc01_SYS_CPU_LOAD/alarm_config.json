@@ -1,7 +1,8 @@
 {
   "user" : "konrad",
-  "host" : "oldpc-02",
+  "host" : "nuc-11",
   "description" : "Ctrl-nuc01:SYS_CPU_LOAD",
   "latching" : false,
-  "annunciating" : false
+  "annunciating" : false,
+  "delay" : 30
 }

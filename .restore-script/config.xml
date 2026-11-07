@@ -31,6 +31,7 @@
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
+        <delay>30</delay>
       </pv>
       <pv name="Ctrl-nuc01:disk-run:AVAIL">
         <description>Ctrl-nuc01:disk-run:AVAIL</description>
