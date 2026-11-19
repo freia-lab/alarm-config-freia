@@ -425,61 +425,61 @@ Consult the opi for the cable path.</details>
       <component name="Archive server (backup, VM)">
         <pv name="Ctrl-arcApl2:Cpu:Idle">
           <description>Ctrl-arcApl2:Cpu:Idle</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:Memory:AvailSwap">
           <description>Ctrl-arcApl2:Memory:AvailSwap</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:aa-metrics:disconnectedPV">
           <description>Ctrl-arcApl2:aa-metrics:disconnectedPV</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:disk-boot:dskPercent">
           <description>Ctrl-arcApl2:disk-boot:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:disk-home:dskPercent">
           <description>Ctrl-arcApl2:disk-home:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:disk-root:dskPercent">
           <description>Ctrl-arcApl2:disk-root:dskPercent</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:engine-Heap:UsedPerc">
           <description>Ctrl-arcApl2:engine-Heap:UsedPerc</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:etl-Heap:UsedPerc">
           <description>Ctrl-arcApl2:etl-Heap:UsedPerc</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:mgmt-Heap:UsedPerc">
           <description>Ctrl-arcApl2:mgmt-Heap:UsedPerc</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
         <pv name="Ctrl-arcApl2:retrieval-Heap:UsedPerc">
           <description>Ctrl-arcApl2:retrieval-Heap:UsedPerc</description>
-          <enabled>true</enabled>
+          <enabled>false</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
         </pv>
