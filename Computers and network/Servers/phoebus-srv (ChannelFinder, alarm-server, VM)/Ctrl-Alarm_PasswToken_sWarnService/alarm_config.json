@@ -4,6 +4,7 @@
   "description" : "Ctrl-Alarm:PasswToken:sWarnService",
   "latching" : false,
   "annunciating" : false,
+  "delay" : 30,
   "guidance" : [ {
     "title" : "What to do?",
     "details" : "Create a new token. See https://freia-olog.physics.uu.se/logs/2105\nUpdate the time for the next reminder - press  \"Register service\" button in service opi (Cntrl System tab).\n"

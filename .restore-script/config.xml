@@ -863,6 +863,7 @@ Consult the opi for the cable path.</details>
           <enabled>true</enabled>
           <latching>false</latching>
           <annunciating>false</annunciating>
+          <delay>30</delay>
           <guidance>
             <title>What to do?</title>
             <details>Create a new token. See https://freia-olog.physics.uu.se/logs/2105
